@@ -1,8 +1,24 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vision-data-quality-analyzer-demo-version.streamlit.app)
+
+
 # Vision Data Quality Analyzer
 
 Automated image quality analysis and degradation classification
 for computer vision datasets using OpenCV, Random Forest
 and CNN-based approaches.
+
+---
+
+## Live Demo
+
+An interactive Streamlit dashboard version of the project
+is available here:
+
+https://vision-data-quality-analyzer-demo-version.streamlit.app
+
+The dashboard can be used to explore the augmented dataset,
+inspect image quality metrics and visualize Random Forest
+and CNN model predictions and evaluation results.
 
 ---
 
