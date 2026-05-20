@@ -1,0 +1,15 @@
+filename,original_filename,degradation_type,width,height,blur_score,brightness,contrast,quality_issues,quality_status,predicted_degradation_type,prediction_correct
+0000009_01947_d_0000007_original.jpg,0000009_01947_d_0000007.jpg,original,1360,765,1833.58,127.53,54.24,none,usable,dark,False
+0000009_03179_d_0000010_original.jpg,0000009_03179_d_0000010.jpg,original,1360,765,1003.57,126.39,48.15,none,usable,dark,False
+0000009_04379_d_0000013_dark.jpg,0000009_04379_d_0000013.jpg,dark,1360,765,411.94,93.08,48.08,none,usable,original,False
+0000009_04379_d_0000013_lowcontrast.jpg,0000009_04379_d_0000013.jpg,lowcontrast,1360,765,420.08,147.49,48.4,none,usable,original,False
+0000009_04379_d_0000013_noise.jpg,0000009_04379_d_0000013.jpg,noise,1360,765,1674.54,147.53,71.09,none,usable,original,False
+0000009_04763_d_0000014_dark.jpg,0000009_04763_d_0000014.jpg,dark,1360,765,488.21,96.24,45.48,none,usable,original,False
+0000009_04763_d_0000014_lowcontrast.jpg,0000009_04763_d_0000014.jpg,lowcontrast,1360,765,312.41,145.17,37.28,none,usable,original,False
+0000009_04763_d_0000014_noise.jpg,0000009_04763_d_0000014.jpg,noise,1360,765,1436.74,145.69,58.85,none,usable,bright,False
+0000025_02087_d_0000003_lowcontrast.jpg,0000025_02087_d_0000003.jpg,lowcontrast,1360,765,587.54,136.84,29.6,low_contrast,not_usable,original,False
+0000025_02087_d_0000003_original.jpg,0000025_02087_d_0000003.jpg,original,1360,765,1548.63,136.68,47.25,none,usable,noise,False
+0000064_01771_d_0000003_bright.jpg,0000064_01771_d_0000003.jpg,bright,960,540,165.5,138.24,28.56,low_contrast,not_usable,lowcontrast,False
+0000064_01771_d_0000003_dark.jpg,0000064_01771_d_0000003.jpg,dark,960,540,55.18,47.98,16.14,"blurry, underexposed, low_contrast",not_usable,lowcontrast,False
+0000064_01771_d_0000003_noise.jpg,0000064_01771_d_0000003.jpg,noise,960,540,1421.55,76.98,22.36,low_contrast,not_usable,dark,False
+0000064_01771_d_0000003_original.jpg,0000064_01771_d_0000003.jpg,original,960,540,89.03,76.97,20.93,"blurry, low_contrast",not_usable,dark,False

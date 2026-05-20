@@ -1,0 +1,7 @@
+degradation_type,accuracy
+blur,0.91
+bright,0.9733333333333334
+dark,0.95
+lowcontrast,0.9133333333333333
+noise,0.37
+original,0.7533333333333333

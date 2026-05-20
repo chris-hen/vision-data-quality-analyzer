@@ -1,0 +1,6 @@
+metric,value
+final_training_accuracy,0.8071428537368774
+final_validation_accuracy,0.4277777671813965
+best_validation_accuracy,0.7722222208976746
+test_accuracy,0.7916666865348816
+training_time_seconds,421.5537760257721

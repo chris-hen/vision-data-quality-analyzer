@@ -1,0 +1,1801 @@
+original_filename,augmented_filename,augmentation_type,parameters
+0000000_00098_d_0000001.jpg,0000000_00098_d_0000001_original.jpg,original,{}
+0000000_00098_d_0000001.jpg,0000000_00098_d_0000001_blur.jpg,blur,{'kernel_size': 9}
+0000000_00098_d_0000001.jpg,0000000_00098_d_0000001_dark.jpg,dark,"{'alpha': 0.66, 'beta': -12}"
+0000000_00098_d_0000001.jpg,0000000_00098_d_0000001_bright.jpg,bright,"{'alpha': 1.2, 'beta': 28}"
+0000000_00098_d_0000001.jpg,0000000_00098_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.59, 'mean': np.float64(78.85)}"
+0000000_00098_d_0000001.jpg,0000000_00098_d_0000001_noise.jpg,noise,{'sigma': 6}
+0000000_01013_d_0000003.jpg,0000000_01013_d_0000003_original.jpg,original,{}
+0000000_01013_d_0000003.jpg,0000000_01013_d_0000003_blur.jpg,blur,{'kernel_size': 19}
+0000000_01013_d_0000003.jpg,0000000_01013_d_0000003_dark.jpg,dark,"{'alpha': 0.66, 'beta': -18}"
+0000000_01013_d_0000003.jpg,0000000_01013_d_0000003_bright.jpg,bright,"{'alpha': 1.19, 'beta': 52}"
+0000000_01013_d_0000003.jpg,0000000_01013_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.54, 'mean': np.float64(84.78)}"
+0000000_01013_d_0000003.jpg,0000000_01013_d_0000003_noise.jpg,noise,{'sigma': 8}
+0000000_01619_d_0000004.jpg,0000000_01619_d_0000004_original.jpg,original,{}
+0000000_01619_d_0000004.jpg,0000000_01619_d_0000004_blur.jpg,blur,{'kernel_size': 19}
+0000000_01619_d_0000004.jpg,0000000_01619_d_0000004_dark.jpg,dark,"{'alpha': 0.71, 'beta': -12}"
+0000000_01619_d_0000004.jpg,0000000_01619_d_0000004_bright.jpg,bright,"{'alpha': 1.42, 'beta': 20}"
+0000000_01619_d_0000004.jpg,0000000_01619_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(93.2)}"
+0000000_01619_d_0000004.jpg,0000000_01619_d_0000004_noise.jpg,noise,{'sigma': 7}
+0000000_02021_d_0000005.jpg,0000000_02021_d_0000005_original.jpg,original,{}
+0000000_02021_d_0000005.jpg,0000000_02021_d_0000005_blur.jpg,blur,{'kernel_size': 19}
+0000000_02021_d_0000005.jpg,0000000_02021_d_0000005_dark.jpg,dark,"{'alpha': 0.74, 'beta': -16}"
+0000000_02021_d_0000005.jpg,0000000_02021_d_0000005_bright.jpg,bright,"{'alpha': 1.19, 'beta': 68}"
+0000000_02021_d_0000005.jpg,0000000_02021_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.43, 'mean': np.float64(137.68)}"
+0000000_02021_d_0000005.jpg,0000000_02021_d_0000005_noise.jpg,noise,{'sigma': 6}
+0000000_02309_d_0000006.jpg,0000000_02309_d_0000006_original.jpg,original,{}
+0000000_02309_d_0000006.jpg,0000000_02309_d_0000006_blur.jpg,blur,{'kernel_size': 19}
+0000000_02309_d_0000006.jpg,0000000_02309_d_0000006_dark.jpg,dark,"{'alpha': 0.67, 'beta': -9}"
+0000000_02309_d_0000006.jpg,0000000_02309_d_0000006_bright.jpg,bright,"{'alpha': 1.34, 'beta': 71}"
+0000000_02309_d_0000006.jpg,0000000_02309_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.32, 'mean': np.float64(107.59)}"
+0000000_02309_d_0000006.jpg,0000000_02309_d_0000006_noise.jpg,noise,{'sigma': 12}
+0000000_02652_d_0000007.jpg,0000000_02652_d_0000007_original.jpg,original,{}
+0000000_02652_d_0000007.jpg,0000000_02652_d_0000007_blur.jpg,blur,{'kernel_size': 9}
+0000000_02652_d_0000007.jpg,0000000_02652_d_0000007_dark.jpg,dark,"{'alpha': 0.89, 'beta': -8}"
+0000000_02652_d_0000007.jpg,0000000_02652_d_0000007_bright.jpg,bright,"{'alpha': 1.13, 'beta': 38}"
+0000000_02652_d_0000007.jpg,0000000_02652_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(83.91)}"
+0000000_02652_d_0000007.jpg,0000000_02652_d_0000007_noise.jpg,noise,{'sigma': 10}
+0000000_03019_d_0000008.jpg,0000000_03019_d_0000008_original.jpg,original,{}
+0000000_03019_d_0000008.jpg,0000000_03019_d_0000008_blur.jpg,blur,{'kernel_size': 13}
+0000000_03019_d_0000008.jpg,0000000_03019_d_0000008_dark.jpg,dark,"{'alpha': 0.83, 'beta': -19}"
+0000000_03019_d_0000008.jpg,0000000_03019_d_0000008_bright.jpg,bright,"{'alpha': 1.36, 'beta': 69}"
+0000000_03019_d_0000008.jpg,0000000_03019_d_0000008_lowcontrast.jpg,lowcontrast,"{'alpha': 0.42, 'mean': np.float64(78.37)}"
+0000000_03019_d_0000008.jpg,0000000_03019_d_0000008_noise.jpg,noise,{'sigma': 6}
+0000005_00509_d_0000002.jpg,0000005_00509_d_0000002_original.jpg,original,{}
+0000005_00509_d_0000002.jpg,0000005_00509_d_0000002_blur.jpg,blur,{'kernel_size': 13}
+0000005_00509_d_0000002.jpg,0000005_00509_d_0000002_dark.jpg,dark,"{'alpha': 0.87, 'beta': -8}"
+0000005_00509_d_0000002.jpg,0000005_00509_d_0000002_bright.jpg,bright,"{'alpha': 1.21, 'beta': 60}"
+0000005_00509_d_0000002.jpg,0000005_00509_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(107.75)}"
+0000005_00509_d_0000002.jpg,0000005_00509_d_0000002_noise.jpg,noise,{'sigma': 7}
+0000009_00009_d_0000001.jpg,0000009_00009_d_0000001_original.jpg,original,{}
+0000009_00009_d_0000001.jpg,0000009_00009_d_0000001_blur.jpg,blur,{'kernel_size': 17}
+0000009_00009_d_0000001.jpg,0000009_00009_d_0000001_dark.jpg,dark,"{'alpha': 0.74, 'beta': -12}"
+0000009_00009_d_0000001.jpg,0000009_00009_d_0000001_bright.jpg,bright,"{'alpha': 1.38, 'beta': 63}"
+0000009_00009_d_0000001.jpg,0000009_00009_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(138.49)}"
+0000009_00009_d_0000001.jpg,0000009_00009_d_0000001_noise.jpg,noise,{'sigma': 7}
+0000009_00811_d_0000003.jpg,0000009_00811_d_0000003_original.jpg,original,{}
+0000009_00811_d_0000003.jpg,0000009_00811_d_0000003_blur.jpg,blur,{'kernel_size': 13}
+0000009_00811_d_0000003.jpg,0000009_00811_d_0000003_dark.jpg,dark,"{'alpha': 0.69, 'beta': -8}"
+0000009_00811_d_0000003.jpg,0000009_00811_d_0000003_bright.jpg,bright,"{'alpha': 1.21, 'beta': 79}"
+0000009_00811_d_0000003.jpg,0000009_00811_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(132.51)}"
+0000009_00811_d_0000003.jpg,0000009_00811_d_0000003_noise.jpg,noise,{'sigma': 8}
+0000009_01339_d_0000005.jpg,0000009_01339_d_0000005_original.jpg,original,{}
+0000009_01339_d_0000005.jpg,0000009_01339_d_0000005_blur.jpg,blur,{'kernel_size': 17}
+0000009_01339_d_0000005.jpg,0000009_01339_d_0000005_dark.jpg,dark,"{'alpha': 0.86, 'beta': -19}"
+0000009_01339_d_0000005.jpg,0000009_01339_d_0000005_bright.jpg,bright,"{'alpha': 1.19, 'beta': 22}"
+0000009_01339_d_0000005.jpg,0000009_01339_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(134.31)}"
+0000009_01339_d_0000005.jpg,0000009_01339_d_0000005_noise.jpg,noise,{'sigma': 11}
+0000009_01723_d_0000006.jpg,0000009_01723_d_0000006_original.jpg,original,{}
+0000009_01723_d_0000006.jpg,0000009_01723_d_0000006_blur.jpg,blur,{'kernel_size': 15}
+0000009_01723_d_0000006.jpg,0000009_01723_d_0000006_dark.jpg,dark,"{'alpha': 0.67, 'beta': -10}"
+0000009_01723_d_0000006.jpg,0000009_01723_d_0000006_bright.jpg,bright,"{'alpha': 1.19, 'beta': 51}"
+0000009_01723_d_0000006.jpg,0000009_01723_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(126.35)}"
+0000009_01723_d_0000006.jpg,0000009_01723_d_0000006_noise.jpg,noise,{'sigma': 12}
+0000009_01947_d_0000007.jpg,0000009_01947_d_0000007_original.jpg,original,{}
+0000009_01947_d_0000007.jpg,0000009_01947_d_0000007_blur.jpg,blur,{'kernel_size': 11}
+0000009_01947_d_0000007.jpg,0000009_01947_d_0000007_dark.jpg,dark,"{'alpha': 0.72, 'beta': -13}"
+0000009_01947_d_0000007.jpg,0000009_01947_d_0000007_bright.jpg,bright,"{'alpha': 1.4, 'beta': 54}"
+0000009_01947_d_0000007.jpg,0000009_01947_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(127.05)}"
+0000009_01947_d_0000007.jpg,0000009_01947_d_0000007_noise.jpg,noise,{'sigma': 11}
+0000009_03179_d_0000010.jpg,0000009_03179_d_0000010_original.jpg,original,{}
+0000009_03179_d_0000010.jpg,0000009_03179_d_0000010_blur.jpg,blur,{'kernel_size': 19}
+0000009_03179_d_0000010.jpg,0000009_03179_d_0000010_dark.jpg,dark,"{'alpha': 0.74, 'beta': -16}"
+0000009_03179_d_0000010.jpg,0000009_03179_d_0000010_bright.jpg,bright,"{'alpha': 1.3, 'beta': 25}"
+0000009_03179_d_0000010.jpg,0000009_03179_d_0000010_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(123.81)}"
+0000009_03179_d_0000010.jpg,0000009_03179_d_0000010_noise.jpg,noise,{'sigma': 6}
+0000009_03611_d_0000011.jpg,0000009_03611_d_0000011_original.jpg,original,{}
+0000009_03611_d_0000011.jpg,0000009_03611_d_0000011_blur.jpg,blur,{'kernel_size': 11}
+0000009_03611_d_0000011.jpg,0000009_03611_d_0000011_dark.jpg,dark,"{'alpha': 0.81, 'beta': -7}"
+0000009_03611_d_0000011.jpg,0000009_03611_d_0000011_bright.jpg,bright,"{'alpha': 1.34, 'beta': 44}"
+0000009_03611_d_0000011.jpg,0000009_03611_d_0000011_lowcontrast.jpg,lowcontrast,"{'alpha': 0.45, 'mean': np.float64(134.93)}"
+0000009_03611_d_0000011.jpg,0000009_03611_d_0000011_noise.jpg,noise,{'sigma': 12}
+0000009_03907_d_0000012.jpg,0000009_03907_d_0000012_original.jpg,original,{}
+0000009_03907_d_0000012.jpg,0000009_03907_d_0000012_blur.jpg,blur,{'kernel_size': 15}
+0000009_03907_d_0000012.jpg,0000009_03907_d_0000012_dark.jpg,dark,"{'alpha': 0.89, 'beta': -20}"
+0000009_03907_d_0000012.jpg,0000009_03907_d_0000012_bright.jpg,bright,"{'alpha': 1.37, 'beta': 27}"
+0000009_03907_d_0000012.jpg,0000009_03907_d_0000012_lowcontrast.jpg,lowcontrast,"{'alpha': 0.57, 'mean': np.float64(144.17)}"
+0000009_03907_d_0000012.jpg,0000009_03907_d_0000012_noise.jpg,noise,{'sigma': 9}
+0000009_04379_d_0000013.jpg,0000009_04379_d_0000013_original.jpg,original,{}
+0000009_04379_d_0000013.jpg,0000009_04379_d_0000013_blur.jpg,blur,{'kernel_size': 17}
+0000009_04379_d_0000013.jpg,0000009_04379_d_0000013_dark.jpg,dark,"{'alpha': 0.68, 'beta': -7}"
+0000009_04379_d_0000013.jpg,0000009_04379_d_0000013_bright.jpg,bright,"{'alpha': 1.16, 'beta': 20}"
+0000009_04379_d_0000013.jpg,0000009_04379_d_0000013_lowcontrast.jpg,lowcontrast,"{'alpha': 0.68, 'mean': np.float64(147.07)}"
+0000009_04379_d_0000013.jpg,0000009_04379_d_0000013_noise.jpg,noise,{'sigma': 9}
+0000009_04763_d_0000014.jpg,0000009_04763_d_0000014_original.jpg,original,{}
+0000009_04763_d_0000014.jpg,0000009_04763_d_0000014_blur.jpg,blur,{'kernel_size': 11}
+0000009_04763_d_0000014.jpg,0000009_04763_d_0000014_dark.jpg,dark,"{'alpha': 0.78, 'beta': -17}"
+0000009_04763_d_0000014.jpg,0000009_04763_d_0000014_bright.jpg,bright,"{'alpha': 1.45, 'beta': 39}"
+0000009_04763_d_0000014.jpg,0000009_04763_d_0000014_lowcontrast.jpg,lowcontrast,"{'alpha': 0.64, 'mean': np.float64(144.26)}"
+0000009_04763_d_0000014.jpg,0000009_04763_d_0000014_noise.jpg,noise,{'sigma': 8}
+0000025_00140_d_0000001.jpg,0000025_00140_d_0000001_original.jpg,original,{}
+0000025_00140_d_0000001.jpg,0000025_00140_d_0000001_blur.jpg,blur,{'kernel_size': 11}
+0000025_00140_d_0000001.jpg,0000025_00140_d_0000001_dark.jpg,dark,"{'alpha': 0.74, 'beta': -15}"
+0000025_00140_d_0000001.jpg,0000025_00140_d_0000001_bright.jpg,bright,"{'alpha': 1.32, 'beta': 69}"
+0000025_00140_d_0000001.jpg,0000025_00140_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.67, 'mean': np.float64(105.57)}"
+0000025_00140_d_0000001.jpg,0000025_00140_d_0000001_noise.jpg,noise,{'sigma': 5}
+0000025_01164_d_0000002.jpg,0000025_01164_d_0000002_original.jpg,original,{}
+0000025_01164_d_0000002.jpg,0000025_01164_d_0000002_blur.jpg,blur,{'kernel_size': 17}
+0000025_01164_d_0000002.jpg,0000025_01164_d_0000002_dark.jpg,dark,"{'alpha': 0.77, 'beta': -17}"
+0000025_01164_d_0000002.jpg,0000025_01164_d_0000002_bright.jpg,bright,"{'alpha': 1.47, 'beta': 76}"
+0000025_01164_d_0000002.jpg,0000025_01164_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(129.46)}"
+0000025_01164_d_0000002.jpg,0000025_01164_d_0000002_noise.jpg,noise,{'sigma': 9}
+0000025_02087_d_0000003.jpg,0000025_02087_d_0000003_original.jpg,original,{}
+0000025_02087_d_0000003.jpg,0000025_02087_d_0000003_blur.jpg,blur,{'kernel_size': 13}
+0000025_02087_d_0000003.jpg,0000025_02087_d_0000003_dark.jpg,dark,"{'alpha': 0.66, 'beta': -18}"
+0000025_02087_d_0000003.jpg,0000025_02087_d_0000003_bright.jpg,bright,"{'alpha': 1.13, 'beta': 51}"
+0000025_02087_d_0000003.jpg,0000025_02087_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(137.06)}"
+0000025_02087_d_0000003.jpg,0000025_02087_d_0000003_noise.jpg,noise,{'sigma': 7}
+0000025_02891_d_0000004.jpg,0000025_02891_d_0000004_original.jpg,original,{}
+0000025_02891_d_0000004.jpg,0000025_02891_d_0000004_blur.jpg,blur,{'kernel_size': 11}
+0000025_02891_d_0000004.jpg,0000025_02891_d_0000004_dark.jpg,dark,"{'alpha': 0.81, 'beta': -15}"
+0000025_02891_d_0000004.jpg,0000025_02891_d_0000004_bright.jpg,bright,"{'alpha': 1.21, 'beta': 75}"
+0000025_02891_d_0000004.jpg,0000025_02891_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.54, 'mean': np.float64(132.07)}"
+0000025_02891_d_0000004.jpg,0000025_02891_d_0000004_noise.jpg,noise,{'sigma': 8}
+0000025_03777_d_0000005.jpg,0000025_03777_d_0000005_original.jpg,original,{}
+0000025_03777_d_0000005.jpg,0000025_03777_d_0000005_blur.jpg,blur,{'kernel_size': 13}
+0000025_03777_d_0000005.jpg,0000025_03777_d_0000005_dark.jpg,dark,"{'alpha': 0.83, 'beta': -8}"
+0000025_03777_d_0000005.jpg,0000025_03777_d_0000005_bright.jpg,bright,"{'alpha': 1.5, 'beta': 61}"
+0000025_03777_d_0000005.jpg,0000025_03777_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.45, 'mean': np.float64(128.27)}"
+0000025_03777_d_0000005.jpg,0000025_03777_d_0000005_noise.jpg,noise,{'sigma': 12}
+0000028_00122_d_0000001.jpg,0000028_00122_d_0000001_original.jpg,original,{}
+0000028_00122_d_0000001.jpg,0000028_00122_d_0000001_blur.jpg,blur,{'kernel_size': 9}
+0000028_00122_d_0000001.jpg,0000028_00122_d_0000001_dark.jpg,dark,"{'alpha': 0.71, 'beta': -18}"
+0000028_00122_d_0000001.jpg,0000028_00122_d_0000001_bright.jpg,bright,"{'alpha': 1.24, 'beta': 57}"
+0000028_00122_d_0000001.jpg,0000028_00122_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(59.92)}"
+0000028_00122_d_0000001.jpg,0000028_00122_d_0000001_noise.jpg,noise,{'sigma': 8}
+0000053_00539_d_0000002.jpg,0000053_00539_d_0000002_original.jpg,original,{}
+0000053_00539_d_0000002.jpg,0000053_00539_d_0000002_blur.jpg,blur,{'kernel_size': 7}
+0000053_00539_d_0000002.jpg,0000053_00539_d_0000002_dark.jpg,dark,"{'alpha': 0.67, 'beta': -19}"
+0000053_00539_d_0000002.jpg,0000053_00539_d_0000002_bright.jpg,bright,"{'alpha': 1.19, 'beta': 77}"
+0000053_00539_d_0000002.jpg,0000053_00539_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.31, 'mean': np.float64(29.54)}"
+0000053_00539_d_0000002.jpg,0000053_00539_d_0000002_noise.jpg,noise,{'sigma': 10}
+0000064_01771_d_0000003.jpg,0000064_01771_d_0000003_original.jpg,original,{}
+0000064_01771_d_0000003.jpg,0000064_01771_d_0000003_blur.jpg,blur,{'kernel_size': 9}
+0000064_01771_d_0000003.jpg,0000064_01771_d_0000003_dark.jpg,dark,"{'alpha': 0.78, 'beta': -12}"
+0000064_01771_d_0000003.jpg,0000064_01771_d_0000003_bright.jpg,bright,"{'alpha': 1.37, 'beta': 33}"
+0000064_01771_d_0000003.jpg,0000064_01771_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(77.29)}"
+0000064_01771_d_0000003.jpg,0000064_01771_d_0000003_noise.jpg,noise,{'sigma': 12}
+0000067_00249_d_0000001.jpg,0000067_00249_d_0000001_original.jpg,original,{}
+0000067_00249_d_0000001.jpg,0000067_00249_d_0000001_blur.jpg,blur,{'kernel_size': 13}
+0000067_00249_d_0000001.jpg,0000067_00249_d_0000001_dark.jpg,dark,"{'alpha': 0.85, 'beta': -7}"
+0000067_00249_d_0000001.jpg,0000067_00249_d_0000001_bright.jpg,bright,"{'alpha': 1.18, 'beta': 26}"
+0000067_00249_d_0000001.jpg,0000067_00249_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(141.27)}"
+0000067_00249_d_0000001.jpg,0000067_00249_d_0000001_noise.jpg,noise,{'sigma': 10}
+0000067_01050_d_0000002.jpg,0000067_01050_d_0000002_original.jpg,original,{}
+0000067_01050_d_0000002.jpg,0000067_01050_d_0000002_blur.jpg,blur,{'kernel_size': 19}
+0000067_01050_d_0000002.jpg,0000067_01050_d_0000002_dark.jpg,dark,"{'alpha': 0.75, 'beta': -19}"
+0000067_01050_d_0000002.jpg,0000067_01050_d_0000002_bright.jpg,bright,"{'alpha': 1.37, 'beta': 61}"
+0000067_01050_d_0000002.jpg,0000067_01050_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.34, 'mean': np.float64(131.04)}"
+0000067_01050_d_0000002.jpg,0000067_01050_d_0000002_noise.jpg,noise,{'sigma': 11}
+0000067_01852_d_0000003.jpg,0000067_01852_d_0000003_original.jpg,original,{}
+0000067_01852_d_0000003.jpg,0000067_01852_d_0000003_blur.jpg,blur,{'kernel_size': 17}
+0000067_01852_d_0000003.jpg,0000067_01852_d_0000003_dark.jpg,dark,"{'alpha': 0.85, 'beta': -17}"
+0000067_01852_d_0000003.jpg,0000067_01852_d_0000003_bright.jpg,bright,"{'alpha': 1.2, 'beta': 32}"
+0000067_01852_d_0000003.jpg,0000067_01852_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.51, 'mean': np.float64(123.27)}"
+0000067_01852_d_0000003.jpg,0000067_01852_d_0000003_noise.jpg,noise,{'sigma': 7}
+0000067_03139_d_0000005.jpg,0000067_03139_d_0000005_original.jpg,original,{}
+0000067_03139_d_0000005.jpg,0000067_03139_d_0000005_blur.jpg,blur,{'kernel_size': 19}
+0000067_03139_d_0000005.jpg,0000067_03139_d_0000005_dark.jpg,dark,"{'alpha': 0.7, 'beta': -6}"
+0000067_03139_d_0000005.jpg,0000067_03139_d_0000005_bright.jpg,bright,"{'alpha': 1.2, 'beta': 79}"
+0000067_03139_d_0000005.jpg,0000067_03139_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.33, 'mean': np.float64(123.73)}"
+0000067_03139_d_0000005.jpg,0000067_03139_d_0000005_noise.jpg,noise,{'sigma': 6}
+0000067_04055_d_0000006.jpg,0000067_04055_d_0000006_original.jpg,original,{}
+0000067_04055_d_0000006.jpg,0000067_04055_d_0000006_blur.jpg,blur,{'kernel_size': 7}
+0000067_04055_d_0000006.jpg,0000067_04055_d_0000006_dark.jpg,dark,"{'alpha': 0.81, 'beta': -20}"
+0000067_04055_d_0000006.jpg,0000067_04055_d_0000006_bright.jpg,bright,"{'alpha': 1.49, 'beta': 79}"
+0000067_04055_d_0000006.jpg,0000067_04055_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(142.87)}"
+0000067_04055_d_0000006.jpg,0000067_04055_d_0000006_noise.jpg,noise,{'sigma': 8}
+0000067_05946_d_0000009.jpg,0000067_05946_d_0000009_original.jpg,original,{}
+0000067_05946_d_0000009.jpg,0000067_05946_d_0000009_blur.jpg,blur,{'kernel_size': 11}
+0000067_05946_d_0000009.jpg,0000067_05946_d_0000009_dark.jpg,dark,"{'alpha': 0.75, 'beta': -5}"
+0000067_05946_d_0000009.jpg,0000067_05946_d_0000009_bright.jpg,bright,"{'alpha': 1.19, 'beta': 45}"
+0000067_05946_d_0000009.jpg,0000067_05946_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.66, 'mean': np.float64(138.54)}"
+0000067_05946_d_0000009.jpg,0000067_05946_d_0000009_noise.jpg,noise,{'sigma': 7}
+0000075_00109_d_0000001.jpg,0000075_00109_d_0000001_original.jpg,original,{}
+0000075_00109_d_0000001.jpg,0000075_00109_d_0000001_blur.jpg,blur,{'kernel_size': 19}
+0000075_00109_d_0000001.jpg,0000075_00109_d_0000001_dark.jpg,dark,"{'alpha': 0.65, 'beta': -8}"
+0000075_00109_d_0000001.jpg,0000075_00109_d_0000001_bright.jpg,bright,"{'alpha': 1.21, 'beta': 70}"
+0000075_00109_d_0000001.jpg,0000075_00109_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(96.1)}"
+0000075_00109_d_0000001.jpg,0000075_00109_d_0000001_noise.jpg,noise,{'sigma': 9}
+0000075_00586_d_0000002.jpg,0000075_00586_d_0000002_original.jpg,original,{}
+0000075_00586_d_0000002.jpg,0000075_00586_d_0000002_blur.jpg,blur,{'kernel_size': 19}
+0000075_00586_d_0000002.jpg,0000075_00586_d_0000002_dark.jpg,dark,"{'alpha': 0.82, 'beta': -5}"
+0000075_00586_d_0000002.jpg,0000075_00586_d_0000002_bright.jpg,bright,"{'alpha': 1.16, 'beta': 38}"
+0000075_00586_d_0000002.jpg,0000075_00586_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(93.72)}"
+0000075_00586_d_0000002.jpg,0000075_00586_d_0000002_noise.jpg,noise,{'sigma': 5}
+0000075_01250_d_0000004.jpg,0000075_01250_d_0000004_original.jpg,original,{}
+0000075_01250_d_0000004.jpg,0000075_01250_d_0000004_blur.jpg,blur,{'kernel_size': 7}
+0000075_01250_d_0000004.jpg,0000075_01250_d_0000004_dark.jpg,dark,"{'alpha': 0.84, 'beta': -19}"
+0000075_01250_d_0000004.jpg,0000075_01250_d_0000004_bright.jpg,bright,"{'alpha': 1.12, 'beta': 50}"
+0000075_01250_d_0000004.jpg,0000075_01250_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(75.24)}"
+0000075_01250_d_0000004.jpg,0000075_01250_d_0000004_noise.jpg,noise,{'sigma': 7}
+0000075_01634_d_0000005.jpg,0000075_01634_d_0000005_original.jpg,original,{}
+0000075_01634_d_0000005.jpg,0000075_01634_d_0000005_blur.jpg,blur,{'kernel_size': 7}
+0000075_01634_d_0000005.jpg,0000075_01634_d_0000005_dark.jpg,dark,"{'alpha': 0.89, 'beta': -18}"
+0000075_01634_d_0000005.jpg,0000075_01634_d_0000005_bright.jpg,bright,"{'alpha': 1.44, 'beta': 24}"
+0000075_01634_d_0000005.jpg,0000075_01634_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.54, 'mean': np.float64(95.94)}"
+0000075_01634_d_0000005.jpg,0000075_01634_d_0000005_noise.jpg,noise,{'sigma': 8}
+0000077_00075_d_0000001.jpg,0000077_00075_d_0000001_original.jpg,original,{}
+0000077_00075_d_0000001.jpg,0000077_00075_d_0000001_blur.jpg,blur,{'kernel_size': 19}
+0000077_00075_d_0000001.jpg,0000077_00075_d_0000001_dark.jpg,dark,"{'alpha': 0.68, 'beta': -13}"
+0000077_00075_d_0000001.jpg,0000077_00075_d_0000001_bright.jpg,bright,"{'alpha': 1.33, 'beta': 22}"
+0000077_00075_d_0000001.jpg,0000077_00075_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(126.14)}"
+0000077_00075_d_0000001.jpg,0000077_00075_d_0000001_noise.jpg,noise,{'sigma': 11}
+0000077_00435_d_0000002.jpg,0000077_00435_d_0000002_original.jpg,original,{}
+0000077_00435_d_0000002.jpg,0000077_00435_d_0000002_blur.jpg,blur,{'kernel_size': 17}
+0000077_00435_d_0000002.jpg,0000077_00435_d_0000002_dark.jpg,dark,"{'alpha': 0.88, 'beta': -14}"
+0000077_00435_d_0000002.jpg,0000077_00435_d_0000002_bright.jpg,bright,"{'alpha': 1.37, 'beta': 40}"
+0000077_00435_d_0000002.jpg,0000077_00435_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.4, 'mean': np.float64(123.77)}"
+0000077_00435_d_0000002.jpg,0000077_00435_d_0000002_noise.jpg,noise,{'sigma': 11}
+0000077_00922_d_0000003.jpg,0000077_00922_d_0000003_original.jpg,original,{}
+0000077_00922_d_0000003.jpg,0000077_00922_d_0000003_blur.jpg,blur,{'kernel_size': 11}
+0000077_00922_d_0000003.jpg,0000077_00922_d_0000003_dark.jpg,dark,"{'alpha': 0.82, 'beta': -11}"
+0000077_00922_d_0000003.jpg,0000077_00922_d_0000003_bright.jpg,bright,"{'alpha': 1.28, 'beta': 79}"
+0000077_00922_d_0000003.jpg,0000077_00922_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(132.53)}"
+0000077_00922_d_0000003.jpg,0000077_00922_d_0000003_noise.jpg,noise,{'sigma': 6}
+0000077_01402_d_0000004.jpg,0000077_01402_d_0000004_original.jpg,original,{}
+0000077_01402_d_0000004.jpg,0000077_01402_d_0000004_blur.jpg,blur,{'kernel_size': 7}
+0000077_01402_d_0000004.jpg,0000077_01402_d_0000004_dark.jpg,dark,"{'alpha': 0.76, 'beta': -17}"
+0000077_01402_d_0000004.jpg,0000077_01402_d_0000004_bright.jpg,bright,"{'alpha': 1.13, 'beta': 33}"
+0000077_01402_d_0000004.jpg,0000077_01402_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(126.11)}"
+0000077_01402_d_0000004.jpg,0000077_01402_d_0000004_noise.jpg,noise,{'sigma': 7}
+0000077_03026_d_0000008.jpg,0000077_03026_d_0000008_original.jpg,original,{}
+0000077_03026_d_0000008.jpg,0000077_03026_d_0000008_blur.jpg,blur,{'kernel_size': 17}
+0000077_03026_d_0000008.jpg,0000077_03026_d_0000008_dark.jpg,dark,"{'alpha': 0.87, 'beta': -13}"
+0000077_03026_d_0000008.jpg,0000077_03026_d_0000008_bright.jpg,bright,"{'alpha': 1.25, 'beta': 30}"
+0000077_03026_d_0000008.jpg,0000077_03026_d_0000008_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(137.37)}"
+0000077_03026_d_0000008.jpg,0000077_03026_d_0000008_noise.jpg,noise,{'sigma': 9}
+0000077_03459_d_0000009.jpg,0000077_03459_d_0000009_original.jpg,original,{}
+0000077_03459_d_0000009.jpg,0000077_03459_d_0000009_blur.jpg,blur,{'kernel_size': 7}
+0000077_03459_d_0000009.jpg,0000077_03459_d_0000009_dark.jpg,dark,"{'alpha': 0.82, 'beta': -11}"
+0000077_03459_d_0000009.jpg,0000077_03459_d_0000009_bright.jpg,bright,"{'alpha': 1.47, 'beta': 26}"
+0000077_03459_d_0000009.jpg,0000077_03459_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.68, 'mean': np.float64(127.1)}"
+0000077_03459_d_0000009.jpg,0000077_03459_d_0000009_noise.jpg,noise,{'sigma': 7}
+0000077_03970_d_0000010.jpg,0000077_03970_d_0000010_original.jpg,original,{}
+0000077_03970_d_0000010.jpg,0000077_03970_d_0000010_blur.jpg,blur,{'kernel_size': 15}
+0000077_03970_d_0000010.jpg,0000077_03970_d_0000010_dark.jpg,dark,"{'alpha': 0.68, 'beta': -17}"
+0000077_03970_d_0000010.jpg,0000077_03970_d_0000010_bright.jpg,bright,"{'alpha': 1.4, 'beta': 29}"
+0000077_03970_d_0000010.jpg,0000077_03970_d_0000010_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(133.93)}"
+0000077_03970_d_0000010.jpg,0000077_03970_d_0000010_noise.jpg,noise,{'sigma': 8}
+0000077_04434_d_0000011.jpg,0000077_04434_d_0000011_original.jpg,original,{}
+0000077_04434_d_0000011.jpg,0000077_04434_d_0000011_blur.jpg,blur,{'kernel_size': 17}
+0000077_04434_d_0000011.jpg,0000077_04434_d_0000011_dark.jpg,dark,"{'alpha': 0.7, 'beta': -12}"
+0000077_04434_d_0000011.jpg,0000077_04434_d_0000011_bright.jpg,bright,"{'alpha': 1.3, 'beta': 36}"
+0000077_04434_d_0000011.jpg,0000077_04434_d_0000011_lowcontrast.jpg,lowcontrast,"{'alpha': 0.66, 'mean': np.float64(126.92)}"
+0000077_04434_d_0000011.jpg,0000077_04434_d_0000011_noise.jpg,noise,{'sigma': 5}
+0000088_00131_d_0000001.jpg,0000088_00131_d_0000001_original.jpg,original,{}
+0000088_00131_d_0000001.jpg,0000088_00131_d_0000001_blur.jpg,blur,{'kernel_size': 9}
+0000088_00131_d_0000001.jpg,0000088_00131_d_0000001_dark.jpg,dark,"{'alpha': 0.81, 'beta': -12}"
+0000088_00131_d_0000001.jpg,0000088_00131_d_0000001_bright.jpg,bright,"{'alpha': 1.12, 'beta': 41}"
+0000088_00131_d_0000001.jpg,0000088_00131_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(104.02)}"
+0000088_00131_d_0000001.jpg,0000088_00131_d_0000001_noise.jpg,noise,{'sigma': 9}
+0000088_00460_d_0000002.jpg,0000088_00460_d_0000002_original.jpg,original,{}
+0000088_00460_d_0000002.jpg,0000088_00460_d_0000002_blur.jpg,blur,{'kernel_size': 11}
+0000088_00460_d_0000002.jpg,0000088_00460_d_0000002_dark.jpg,dark,"{'alpha': 0.84, 'beta': -7}"
+0000088_00460_d_0000002.jpg,0000088_00460_d_0000002_bright.jpg,bright,"{'alpha': 1.32, 'beta': 27}"
+0000088_00460_d_0000002.jpg,0000088_00460_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.33, 'mean': np.float64(108.95)}"
+0000088_00460_d_0000002.jpg,0000088_00460_d_0000002_noise.jpg,noise,{'sigma': 7}
+0000088_00883_d_0000003.jpg,0000088_00883_d_0000003_original.jpg,original,{}
+0000088_00883_d_0000003.jpg,0000088_00883_d_0000003_blur.jpg,blur,{'kernel_size': 7}
+0000088_00883_d_0000003.jpg,0000088_00883_d_0000003_dark.jpg,dark,"{'alpha': 0.86, 'beta': -16}"
+0000088_00883_d_0000003.jpg,0000088_00883_d_0000003_bright.jpg,bright,"{'alpha': 1.27, 'beta': 22}"
+0000088_00883_d_0000003.jpg,0000088_00883_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.42, 'mean': np.float64(108.06)}"
+0000088_00883_d_0000003.jpg,0000088_00883_d_0000003_noise.jpg,noise,{'sigma': 5}
+0000088_01675_d_0000005.jpg,0000088_01675_d_0000005_original.jpg,original,{}
+0000088_01675_d_0000005.jpg,0000088_01675_d_0000005_blur.jpg,blur,{'kernel_size': 17}
+0000088_01675_d_0000005.jpg,0000088_01675_d_0000005_dark.jpg,dark,"{'alpha': 0.7, 'beta': -13}"
+0000088_01675_d_0000005.jpg,0000088_01675_d_0000005_bright.jpg,bright,"{'alpha': 1.37, 'beta': 42}"
+0000088_01675_d_0000005.jpg,0000088_01675_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(103.83)}"
+0000088_01675_d_0000005.jpg,0000088_01675_d_0000005_noise.jpg,noise,{'sigma': 11}
+0000097_00023_d_0000022.jpg,0000097_00023_d_0000022_original.jpg,original,{}
+0000097_00023_d_0000022.jpg,0000097_00023_d_0000022_blur.jpg,blur,{'kernel_size': 11}
+0000097_00023_d_0000022.jpg,0000097_00023_d_0000022_dark.jpg,dark,"{'alpha': 0.88, 'beta': -13}"
+0000097_00023_d_0000022.jpg,0000097_00023_d_0000022_bright.jpg,bright,"{'alpha': 1.45, 'beta': 71}"
+0000097_00023_d_0000022.jpg,0000097_00023_d_0000022_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(105.29)}"
+0000097_00023_d_0000022.jpg,0000097_00023_d_0000022_noise.jpg,noise,{'sigma': 11}
+0000097_03343_d_0000032.jpg,0000097_03343_d_0000032_original.jpg,original,{}
+0000097_03343_d_0000032.jpg,0000097_03343_d_0000032_blur.jpg,blur,{'kernel_size': 7}
+0000097_03343_d_0000032.jpg,0000097_03343_d_0000032_dark.jpg,dark,"{'alpha': 0.69, 'beta': -10}"
+0000097_03343_d_0000032.jpg,0000097_03343_d_0000032_bright.jpg,bright,"{'alpha': 1.41, 'beta': 46}"
+0000097_03343_d_0000032.jpg,0000097_03343_d_0000032_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(103.94)}"
+0000097_03343_d_0000032.jpg,0000097_03343_d_0000032_noise.jpg,noise,{'sigma': 8}
+0000097_03806_d_0000033.jpg,0000097_03806_d_0000033_original.jpg,original,{}
+0000097_03806_d_0000033.jpg,0000097_03806_d_0000033_blur.jpg,blur,{'kernel_size': 15}
+0000097_03806_d_0000033.jpg,0000097_03806_d_0000033_dark.jpg,dark,"{'alpha': 0.69, 'beta': -17}"
+0000097_03806_d_0000033.jpg,0000097_03806_d_0000033_bright.jpg,bright,"{'alpha': 1.25, 'beta': 22}"
+0000097_03806_d_0000033.jpg,0000097_03806_d_0000033_lowcontrast.jpg,lowcontrast,"{'alpha': 0.64, 'mean': np.float64(108.02)}"
+0000097_03806_d_0000033.jpg,0000097_03806_d_0000033_noise.jpg,noise,{'sigma': 8}
+0000097_04301_d_0000034.jpg,0000097_04301_d_0000034_original.jpg,original,{}
+0000097_04301_d_0000034.jpg,0000097_04301_d_0000034_blur.jpg,blur,{'kernel_size': 13}
+0000097_04301_d_0000034.jpg,0000097_04301_d_0000034_dark.jpg,dark,"{'alpha': 0.85, 'beta': -6}"
+0000097_04301_d_0000034.jpg,0000097_04301_d_0000034_bright.jpg,bright,"{'alpha': 1.24, 'beta': 72}"
+0000097_04301_d_0000034.jpg,0000097_04301_d_0000034_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(112.78)}"
+0000097_04301_d_0000034.jpg,0000097_04301_d_0000034_noise.jpg,noise,{'sigma': 8}
+0000097_04611_d_0000035.jpg,0000097_04611_d_0000035_original.jpg,original,{}
+0000097_04611_d_0000035.jpg,0000097_04611_d_0000035_blur.jpg,blur,{'kernel_size': 13}
+0000097_04611_d_0000035.jpg,0000097_04611_d_0000035_dark.jpg,dark,"{'alpha': 0.66, 'beta': -14}"
+0000097_04611_d_0000035.jpg,0000097_04611_d_0000035_bright.jpg,bright,"{'alpha': 1.26, 'beta': 37}"
+0000097_04611_d_0000035.jpg,0000097_04611_d_0000035_lowcontrast.jpg,lowcontrast,"{'alpha': 0.65, 'mean': np.float64(116.59)}"
+0000097_04611_d_0000035.jpg,0000097_04611_d_0000035_noise.jpg,noise,{'sigma': 9}
+0000097_04848_d_0000036.jpg,0000097_04848_d_0000036_original.jpg,original,{}
+0000097_04848_d_0000036.jpg,0000097_04848_d_0000036_blur.jpg,blur,{'kernel_size': 17}
+0000097_04848_d_0000036.jpg,0000097_04848_d_0000036_dark.jpg,dark,"{'alpha': 0.81, 'beta': -8}"
+0000097_04848_d_0000036.jpg,0000097_04848_d_0000036_bright.jpg,bright,"{'alpha': 1.37, 'beta': 73}"
+0000097_04848_d_0000036.jpg,0000097_04848_d_0000036_lowcontrast.jpg,lowcontrast,"{'alpha': 0.51, 'mean': np.float64(112.49)}"
+0000097_04848_d_0000036.jpg,0000097_04848_d_0000036_noise.jpg,noise,{'sigma': 5}
+0000097_04961_d_0000037.jpg,0000097_04961_d_0000037_original.jpg,original,{}
+0000097_04961_d_0000037.jpg,0000097_04961_d_0000037_blur.jpg,blur,{'kernel_size': 9}
+0000097_04961_d_0000037.jpg,0000097_04961_d_0000037_dark.jpg,dark,"{'alpha': 0.87, 'beta': -12}"
+0000097_04961_d_0000037.jpg,0000097_04961_d_0000037_bright.jpg,bright,"{'alpha': 1.17, 'beta': 36}"
+0000097_04961_d_0000037.jpg,0000097_04961_d_0000037_lowcontrast.jpg,lowcontrast,"{'alpha': 0.32, 'mean': np.float64(113.17)}"
+0000097_04961_d_0000037.jpg,0000097_04961_d_0000037_noise.jpg,noise,{'sigma': 11}
+0000097_05509_d_0000039.jpg,0000097_05509_d_0000039_original.jpg,original,{}
+0000097_05509_d_0000039.jpg,0000097_05509_d_0000039_blur.jpg,blur,{'kernel_size': 17}
+0000097_05509_d_0000039.jpg,0000097_05509_d_0000039_dark.jpg,dark,"{'alpha': 0.83, 'beta': -10}"
+0000097_05509_d_0000039.jpg,0000097_05509_d_0000039_bright.jpg,bright,"{'alpha': 1.27, 'beta': 52}"
+0000097_05509_d_0000039.jpg,0000097_05509_d_0000039_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(115.41)}"
+0000097_05509_d_0000039.jpg,0000097_05509_d_0000039_noise.jpg,noise,{'sigma': 8}
+0000097_05867_d_0000040.jpg,0000097_05867_d_0000040_original.jpg,original,{}
+0000097_05867_d_0000040.jpg,0000097_05867_d_0000040_blur.jpg,blur,{'kernel_size': 15}
+0000097_05867_d_0000040.jpg,0000097_05867_d_0000040_dark.jpg,dark,"{'alpha': 0.66, 'beta': -7}"
+0000097_05867_d_0000040.jpg,0000097_05867_d_0000040_bright.jpg,bright,"{'alpha': 1.1, 'beta': 79}"
+0000097_05867_d_0000040.jpg,0000097_05867_d_0000040_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(106.12)}"
+0000097_05867_d_0000040.jpg,0000097_05867_d_0000040_noise.jpg,noise,{'sigma': 8}
+0000097_06366_d_0000041.jpg,0000097_06366_d_0000041_original.jpg,original,{}
+0000097_06366_d_0000041.jpg,0000097_06366_d_0000041_blur.jpg,blur,{'kernel_size': 17}
+0000097_06366_d_0000041.jpg,0000097_06366_d_0000041_dark.jpg,dark,"{'alpha': 0.76, 'beta': -10}"
+0000097_06366_d_0000041.jpg,0000097_06366_d_0000041_bright.jpg,bright,"{'alpha': 1.35, 'beta': 62}"
+0000097_06366_d_0000041.jpg,0000097_06366_d_0000041_lowcontrast.jpg,lowcontrast,"{'alpha': 0.64, 'mean': np.float64(116.49)}"
+0000097_06366_d_0000041.jpg,0000097_06366_d_0000041_noise.jpg,noise,{'sigma': 9}
+0000097_06766_d_0000042.jpg,0000097_06766_d_0000042_original.jpg,original,{}
+0000097_06766_d_0000042.jpg,0000097_06766_d_0000042_blur.jpg,blur,{'kernel_size': 15}
+0000097_06766_d_0000042.jpg,0000097_06766_d_0000042_dark.jpg,dark,"{'alpha': 0.82, 'beta': -10}"
+0000097_06766_d_0000042.jpg,0000097_06766_d_0000042_bright.jpg,bright,"{'alpha': 1.26, 'beta': 38}"
+0000097_06766_d_0000042.jpg,0000097_06766_d_0000042_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(113.57)}"
+0000097_06766_d_0000042.jpg,0000097_06766_d_0000042_noise.jpg,noise,{'sigma': 8}
+0000097_07764_d_0000044.jpg,0000097_07764_d_0000044_original.jpg,original,{}
+0000097_07764_d_0000044.jpg,0000097_07764_d_0000044_blur.jpg,blur,{'kernel_size': 19}
+0000097_07764_d_0000044.jpg,0000097_07764_d_0000044_dark.jpg,dark,"{'alpha': 0.82, 'beta': -8}"
+0000097_07764_d_0000044.jpg,0000097_07764_d_0000044_bright.jpg,bright,"{'alpha': 1.37, 'beta': 77}"
+0000097_07764_d_0000044.jpg,0000097_07764_d_0000044_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(104.54)}"
+0000097_07764_d_0000044.jpg,0000097_07764_d_0000044_noise.jpg,noise,{'sigma': 9}
+0000097_08251_d_0000045.jpg,0000097_08251_d_0000045_original.jpg,original,{}
+0000097_08251_d_0000045.jpg,0000097_08251_d_0000045_blur.jpg,blur,{'kernel_size': 19}
+0000097_08251_d_0000045.jpg,0000097_08251_d_0000045_dark.jpg,dark,"{'alpha': 0.79, 'beta': -20}"
+0000097_08251_d_0000045.jpg,0000097_08251_d_0000045_bright.jpg,bright,"{'alpha': 1.22, 'beta': 33}"
+0000097_08251_d_0000045.jpg,0000097_08251_d_0000045_lowcontrast.jpg,lowcontrast,"{'alpha': 0.47, 'mean': np.float64(107.05)}"
+0000097_08251_d_0000045.jpg,0000097_08251_d_0000045_noise.jpg,noise,{'sigma': 10}
+0000097_08351_d_0000046.jpg,0000097_08351_d_0000046_original.jpg,original,{}
+0000097_08351_d_0000046.jpg,0000097_08351_d_0000046_blur.jpg,blur,{'kernel_size': 21}
+0000097_08351_d_0000046.jpg,0000097_08351_d_0000046_dark.jpg,dark,"{'alpha': 0.76, 'beta': -14}"
+0000097_08351_d_0000046.jpg,0000097_08351_d_0000046_bright.jpg,bright,"{'alpha': 1.3, 'beta': 70}"
+0000097_08351_d_0000046.jpg,0000097_08351_d_0000046_lowcontrast.jpg,lowcontrast,"{'alpha': 0.66, 'mean': np.float64(104.52)}"
+0000097_08351_d_0000046.jpg,0000097_08351_d_0000046_noise.jpg,noise,{'sigma': 7}
+0000097_08483_d_0000047.jpg,0000097_08483_d_0000047_original.jpg,original,{}
+0000097_08483_d_0000047.jpg,0000097_08483_d_0000047_blur.jpg,blur,{'kernel_size': 9}
+0000097_08483_d_0000047.jpg,0000097_08483_d_0000047_dark.jpg,dark,"{'alpha': 0.72, 'beta': -10}"
+0000097_08483_d_0000047.jpg,0000097_08483_d_0000047_bright.jpg,bright,"{'alpha': 1.14, 'beta': 80}"
+0000097_08483_d_0000047.jpg,0000097_08483_d_0000047_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(104.11)}"
+0000097_08483_d_0000047.jpg,0000097_08483_d_0000047_noise.jpg,noise,{'sigma': 9}
+0000097_08841_d_0000049.jpg,0000097_08841_d_0000049_original.jpg,original,{}
+0000097_08841_d_0000049.jpg,0000097_08841_d_0000049_blur.jpg,blur,{'kernel_size': 13}
+0000097_08841_d_0000049.jpg,0000097_08841_d_0000049_dark.jpg,dark,"{'alpha': 0.85, 'beta': -16}"
+0000097_08841_d_0000049.jpg,0000097_08841_d_0000049_bright.jpg,bright,"{'alpha': 1.11, 'beta': 35}"
+0000097_08841_d_0000049.jpg,0000097_08841_d_0000049_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(103.69)}"
+0000097_08841_d_0000049.jpg,0000097_08841_d_0000049_noise.jpg,noise,{'sigma': 6}
+0000097_09340_d_0000050.jpg,0000097_09340_d_0000050_original.jpg,original,{}
+0000097_09340_d_0000050.jpg,0000097_09340_d_0000050_blur.jpg,blur,{'kernel_size': 21}
+0000097_09340_d_0000050.jpg,0000097_09340_d_0000050_dark.jpg,dark,"{'alpha': 0.75, 'beta': -14}"
+0000097_09340_d_0000050.jpg,0000097_09340_d_0000050_bright.jpg,bright,"{'alpha': 1.39, 'beta': 44}"
+0000097_09340_d_0000050.jpg,0000097_09340_d_0000050_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(115.44)}"
+0000097_09340_d_0000050.jpg,0000097_09340_d_0000050_noise.jpg,noise,{'sigma': 8}
+0000097_09823_d_0000051.jpg,0000097_09823_d_0000051_original.jpg,original,{}
+0000097_09823_d_0000051.jpg,0000097_09823_d_0000051_blur.jpg,blur,{'kernel_size': 11}
+0000097_09823_d_0000051.jpg,0000097_09823_d_0000051_dark.jpg,dark,"{'alpha': 0.81, 'beta': -20}"
+0000097_09823_d_0000051.jpg,0000097_09823_d_0000051_bright.jpg,bright,"{'alpha': 1.46, 'beta': 75}"
+0000097_09823_d_0000051.jpg,0000097_09823_d_0000051_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(113.63)}"
+0000097_09823_d_0000051.jpg,0000097_09823_d_0000051_noise.jpg,noise,{'sigma': 6}
+0000097_10322_d_0000052.jpg,0000097_10322_d_0000052_original.jpg,original,{}
+0000097_10322_d_0000052.jpg,0000097_10322_d_0000052_blur.jpg,blur,{'kernel_size': 19}
+0000097_10322_d_0000052.jpg,0000097_10322_d_0000052_dark.jpg,dark,"{'alpha': 0.7, 'beta': -6}"
+0000097_10322_d_0000052.jpg,0000097_10322_d_0000052_bright.jpg,bright,"{'alpha': 1.12, 'beta': 35}"
+0000097_10322_d_0000052.jpg,0000097_10322_d_0000052_lowcontrast.jpg,lowcontrast,"{'alpha': 0.67, 'mean': np.float64(114.94)}"
+0000097_10322_d_0000052.jpg,0000097_10322_d_0000052_noise.jpg,noise,{'sigma': 6}
+0000097_11320_d_0000054.jpg,0000097_11320_d_0000054_original.jpg,original,{}
+0000097_11320_d_0000054.jpg,0000097_11320_d_0000054_blur.jpg,blur,{'kernel_size': 21}
+0000097_11320_d_0000054.jpg,0000097_11320_d_0000054_dark.jpg,dark,"{'alpha': 0.68, 'beta': -6}"
+0000097_11320_d_0000054.jpg,0000097_11320_d_0000054_bright.jpg,bright,"{'alpha': 1.37, 'beta': 55}"
+0000097_11320_d_0000054.jpg,0000097_11320_d_0000054_lowcontrast.jpg,lowcontrast,"{'alpha': 0.54, 'mean': np.float64(106.73)}"
+0000097_11320_d_0000054.jpg,0000097_11320_d_0000054_noise.jpg,noise,{'sigma': 12}
+0000097_11819_d_0000055.jpg,0000097_11819_d_0000055_original.jpg,original,{}
+0000097_11819_d_0000055.jpg,0000097_11819_d_0000055_blur.jpg,blur,{'kernel_size': 19}
+0000097_11819_d_0000055.jpg,0000097_11819_d_0000055_dark.jpg,dark,"{'alpha': 0.86, 'beta': -6}"
+0000097_11819_d_0000055.jpg,0000097_11819_d_0000055_bright.jpg,bright,"{'alpha': 1.46, 'beta': 67}"
+0000097_11819_d_0000055.jpg,0000097_11819_d_0000055_lowcontrast.jpg,lowcontrast,"{'alpha': 0.64, 'mean': np.float64(109.48)}"
+0000097_11819_d_0000055.jpg,0000097_11819_d_0000055_noise.jpg,noise,{'sigma': 12}
+0000104_00100_d_0000056.jpg,0000104_00100_d_0000056_original.jpg,original,{}
+0000104_00100_d_0000056.jpg,0000104_00100_d_0000056_blur.jpg,blur,{'kernel_size': 15}
+0000104_00100_d_0000056.jpg,0000104_00100_d_0000056_dark.jpg,dark,"{'alpha': 0.84, 'beta': -12}"
+0000104_00100_d_0000056.jpg,0000104_00100_d_0000056_bright.jpg,bright,"{'alpha': 1.41, 'beta': 53}"
+0000104_00100_d_0000056.jpg,0000104_00100_d_0000056_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(87.84)}"
+0000104_00100_d_0000056.jpg,0000104_00100_d_0000056_noise.jpg,noise,{'sigma': 8}
+0000104_00360_d_0000057.jpg,0000104_00360_d_0000057_original.jpg,original,{}
+0000104_00360_d_0000057.jpg,0000104_00360_d_0000057_blur.jpg,blur,{'kernel_size': 15}
+0000104_00360_d_0000057.jpg,0000104_00360_d_0000057_dark.jpg,dark,"{'alpha': 0.76, 'beta': -11}"
+0000104_00360_d_0000057.jpg,0000104_00360_d_0000057_bright.jpg,bright,"{'alpha': 1.19, 'beta': 41}"
+0000104_00360_d_0000057.jpg,0000104_00360_d_0000057_lowcontrast.jpg,lowcontrast,"{'alpha': 0.43, 'mean': np.float64(92.1)}"
+0000104_00360_d_0000057.jpg,0000104_00360_d_0000057_noise.jpg,noise,{'sigma': 6}
+0000104_01170_d_0000060.jpg,0000104_01170_d_0000060_original.jpg,original,{}
+0000104_01170_d_0000060.jpg,0000104_01170_d_0000060_blur.jpg,blur,{'kernel_size': 11}
+0000104_01170_d_0000060.jpg,0000104_01170_d_0000060_dark.jpg,dark,"{'alpha': 0.69, 'beta': -8}"
+0000104_01170_d_0000060.jpg,0000104_01170_d_0000060_bright.jpg,bright,"{'alpha': 1.38, 'beta': 65}"
+0000104_01170_d_0000060.jpg,0000104_01170_d_0000060_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(97.61)}"
+0000104_01170_d_0000060.jpg,0000104_01170_d_0000060_noise.jpg,noise,{'sigma': 11}
+0000104_01968_d_0000063.jpg,0000104_01968_d_0000063_original.jpg,original,{}
+0000104_01968_d_0000063.jpg,0000104_01968_d_0000063_blur.jpg,blur,{'kernel_size': 19}
+0000104_01968_d_0000063.jpg,0000104_01968_d_0000063_dark.jpg,dark,"{'alpha': 0.73, 'beta': -6}"
+0000104_01968_d_0000063.jpg,0000104_01968_d_0000063_bright.jpg,bright,"{'alpha': 1.27, 'beta': 33}"
+0000104_01968_d_0000063.jpg,0000104_01968_d_0000063_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(88.16)}"
+0000104_01968_d_0000063.jpg,0000104_01968_d_0000063_noise.jpg,noise,{'sigma': 11}
+0000104_02076_d_0000064.jpg,0000104_02076_d_0000064_original.jpg,original,{}
+0000104_02076_d_0000064.jpg,0000104_02076_d_0000064_blur.jpg,blur,{'kernel_size': 7}
+0000104_02076_d_0000064.jpg,0000104_02076_d_0000064_dark.jpg,dark,"{'alpha': 0.86, 'beta': -8}"
+0000104_02076_d_0000064.jpg,0000104_02076_d_0000064_bright.jpg,bright,"{'alpha': 1.29, 'beta': 80}"
+0000104_02076_d_0000064.jpg,0000104_02076_d_0000064_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(96.26)}"
+0000104_02076_d_0000064.jpg,0000104_02076_d_0000064_noise.jpg,noise,{'sigma': 11}
+0000104_02358_d_0000065.jpg,0000104_02358_d_0000065_original.jpg,original,{}
+0000104_02358_d_0000065.jpg,0000104_02358_d_0000065_blur.jpg,blur,{'kernel_size': 19}
+0000104_02358_d_0000065.jpg,0000104_02358_d_0000065_dark.jpg,dark,"{'alpha': 0.78, 'beta': -13}"
+0000104_02358_d_0000065.jpg,0000104_02358_d_0000065_bright.jpg,bright,"{'alpha': 1.3, 'beta': 37}"
+0000104_02358_d_0000065.jpg,0000104_02358_d_0000065_lowcontrast.jpg,lowcontrast,"{'alpha': 0.47, 'mean': np.float64(86.13)}"
+0000104_02358_d_0000065.jpg,0000104_02358_d_0000065_noise.jpg,noise,{'sigma': 5}
+0000104_02778_d_0000066.jpg,0000104_02778_d_0000066_original.jpg,original,{}
+0000104_02778_d_0000066.jpg,0000104_02778_d_0000066_blur.jpg,blur,{'kernel_size': 19}
+0000104_02778_d_0000066.jpg,0000104_02778_d_0000066_dark.jpg,dark,"{'alpha': 0.73, 'beta': -8}"
+0000104_02778_d_0000066.jpg,0000104_02778_d_0000066_bright.jpg,bright,"{'alpha': 1.39, 'beta': 73}"
+0000104_02778_d_0000066.jpg,0000104_02778_d_0000066_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(89.31)}"
+0000104_02778_d_0000066.jpg,0000104_02778_d_0000066_noise.jpg,noise,{'sigma': 7}
+0000104_03024_d_0000067.jpg,0000104_03024_d_0000067_original.jpg,original,{}
+0000104_03024_d_0000067.jpg,0000104_03024_d_0000067_blur.jpg,blur,{'kernel_size': 7}
+0000104_03024_d_0000067.jpg,0000104_03024_d_0000067_dark.jpg,dark,"{'alpha': 0.88, 'beta': -20}"
+0000104_03024_d_0000067.jpg,0000104_03024_d_0000067_bright.jpg,bright,"{'alpha': 1.13, 'beta': 47}"
+0000104_03024_d_0000067.jpg,0000104_03024_d_0000067_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(82.74)}"
+0000104_03024_d_0000067.jpg,0000104_03024_d_0000067_noise.jpg,noise,{'sigma': 12}
+0000104_03451_d_0000068.jpg,0000104_03451_d_0000068_original.jpg,original,{}
+0000104_03451_d_0000068.jpg,0000104_03451_d_0000068_blur.jpg,blur,{'kernel_size': 11}
+0000104_03451_d_0000068.jpg,0000104_03451_d_0000068_dark.jpg,dark,"{'alpha': 0.66, 'beta': -8}"
+0000104_03451_d_0000068.jpg,0000104_03451_d_0000068_bright.jpg,bright,"{'alpha': 1.23, 'beta': 49}"
+0000104_03451_d_0000068.jpg,0000104_03451_d_0000068_lowcontrast.jpg,lowcontrast,"{'alpha': 0.43, 'mean': np.float64(87.09)}"
+0000104_03451_d_0000068.jpg,0000104_03451_d_0000068_noise.jpg,noise,{'sigma': 11}
+0000119_00050_d_0000078.jpg,0000119_00050_d_0000078_original.jpg,original,{}
+0000119_00050_d_0000078.jpg,0000119_00050_d_0000078_blur.jpg,blur,{'kernel_size': 15}
+0000119_00050_d_0000078.jpg,0000119_00050_d_0000078_dark.jpg,dark,"{'alpha': 0.84, 'beta': -7}"
+0000119_00050_d_0000078.jpg,0000119_00050_d_0000078_bright.jpg,bright,"{'alpha': 1.2, 'beta': 25}"
+0000119_00050_d_0000078.jpg,0000119_00050_d_0000078_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(38.25)}"
+0000119_00050_d_0000078.jpg,0000119_00050_d_0000078_noise.jpg,noise,{'sigma': 5}
+0000119_01199_d_0000081.jpg,0000119_01199_d_0000081_original.jpg,original,{}
+0000119_01199_d_0000081.jpg,0000119_01199_d_0000081_blur.jpg,blur,{'kernel_size': 17}
+0000119_01199_d_0000081.jpg,0000119_01199_d_0000081_dark.jpg,dark,"{'alpha': 0.71, 'beta': -18}"
+0000119_01199_d_0000081.jpg,0000119_01199_d_0000081_bright.jpg,bright,"{'alpha': 1.41, 'beta': 61}"
+0000119_01199_d_0000081.jpg,0000119_01199_d_0000081_lowcontrast.jpg,lowcontrast,"{'alpha': 0.32, 'mean': np.float64(58.4)}"
+0000119_01199_d_0000081.jpg,0000119_01199_d_0000081_noise.jpg,noise,{'sigma': 5}
+0000119_01590_d_0000082.jpg,0000119_01590_d_0000082_original.jpg,original,{}
+0000119_01590_d_0000082.jpg,0000119_01590_d_0000082_blur.jpg,blur,{'kernel_size': 13}
+0000119_01590_d_0000082.jpg,0000119_01590_d_0000082_dark.jpg,dark,"{'alpha': 0.7, 'beta': -20}"
+0000119_01590_d_0000082.jpg,0000119_01590_d_0000082_bright.jpg,bright,"{'alpha': 1.35, 'beta': 35}"
+0000119_01590_d_0000082.jpg,0000119_01590_d_0000082_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(65.85)}"
+0000119_01590_d_0000082.jpg,0000119_01590_d_0000082_noise.jpg,noise,{'sigma': 6}
+0000119_02380_d_0000084.jpg,0000119_02380_d_0000084_original.jpg,original,{}
+0000119_02380_d_0000084.jpg,0000119_02380_d_0000084_blur.jpg,blur,{'kernel_size': 13}
+0000119_02380_d_0000084.jpg,0000119_02380_d_0000084_dark.jpg,dark,"{'alpha': 0.77, 'beta': -12}"
+0000119_02380_d_0000084.jpg,0000119_02380_d_0000084_bright.jpg,bright,"{'alpha': 1.41, 'beta': 30}"
+0000119_02380_d_0000084.jpg,0000119_02380_d_0000084_lowcontrast.jpg,lowcontrast,"{'alpha': 0.54, 'mean': np.float64(64.9)}"
+0000119_02380_d_0000084.jpg,0000119_02380_d_0000084_noise.jpg,noise,{'sigma': 6}
+0000119_02790_d_0000085.jpg,0000119_02790_d_0000085_original.jpg,original,{}
+0000119_02790_d_0000085.jpg,0000119_02790_d_0000085_blur.jpg,blur,{'kernel_size': 11}
+0000119_02790_d_0000085.jpg,0000119_02790_d_0000085_dark.jpg,dark,"{'alpha': 0.89, 'beta': -17}"
+0000119_02790_d_0000085.jpg,0000119_02790_d_0000085_bright.jpg,bright,"{'alpha': 1.33, 'beta': 79}"
+0000119_02790_d_0000085.jpg,0000119_02790_d_0000085_lowcontrast.jpg,lowcontrast,"{'alpha': 0.42, 'mean': np.float64(71.91)}"
+0000119_02790_d_0000085.jpg,0000119_02790_d_0000085_noise.jpg,noise,{'sigma': 11}
+0000119_03289_d_0000086.jpg,0000119_03289_d_0000086_original.jpg,original,{}
+0000119_03289_d_0000086.jpg,0000119_03289_d_0000086_blur.jpg,blur,{'kernel_size': 19}
+0000119_03289_d_0000086.jpg,0000119_03289_d_0000086_dark.jpg,dark,"{'alpha': 0.89, 'beta': -14}"
+0000119_03289_d_0000086.jpg,0000119_03289_d_0000086_bright.jpg,bright,"{'alpha': 1.13, 'beta': 64}"
+0000119_03289_d_0000086.jpg,0000119_03289_d_0000086_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(68.24)}"
+0000119_03289_d_0000086.jpg,0000119_03289_d_0000086_noise.jpg,noise,{'sigma': 8}
+0000119_04777_d_0000089.jpg,0000119_04777_d_0000089_original.jpg,original,{}
+0000119_04777_d_0000089.jpg,0000119_04777_d_0000089_blur.jpg,blur,{'kernel_size': 9}
+0000119_04777_d_0000089.jpg,0000119_04777_d_0000089_dark.jpg,dark,"{'alpha': 0.82, 'beta': -11}"
+0000119_04777_d_0000089.jpg,0000119_04777_d_0000089_bright.jpg,bright,"{'alpha': 1.44, 'beta': 58}"
+0000119_04777_d_0000089.jpg,0000119_04777_d_0000089_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(79.72)}"
+0000119_04777_d_0000089.jpg,0000119_04777_d_0000089_noise.jpg,noise,{'sigma': 5}
+0000119_05276_d_0000090.jpg,0000119_05276_d_0000090_original.jpg,original,{}
+0000119_05276_d_0000090.jpg,0000119_05276_d_0000090_blur.jpg,blur,{'kernel_size': 17}
+0000119_05276_d_0000090.jpg,0000119_05276_d_0000090_dark.jpg,dark,"{'alpha': 0.78, 'beta': -9}"
+0000119_05276_d_0000090.jpg,0000119_05276_d_0000090_bright.jpg,bright,"{'alpha': 1.13, 'beta': 61}"
+0000119_05276_d_0000090.jpg,0000119_05276_d_0000090_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(50.61)}"
+0000119_05276_d_0000090.jpg,0000119_05276_d_0000090_noise.jpg,noise,{'sigma': 11}
+0000121_01466_d_0000110.jpg,0000121_01466_d_0000110_original.jpg,original,{}
+0000121_01466_d_0000110.jpg,0000121_01466_d_0000110_blur.jpg,blur,{'kernel_size': 21}
+0000121_01466_d_0000110.jpg,0000121_01466_d_0000110_dark.jpg,dark,"{'alpha': 0.68, 'beta': -9}"
+0000121_01466_d_0000110.jpg,0000121_01466_d_0000110_bright.jpg,bright,"{'alpha': 1.35, 'beta': 73}"
+0000121_01466_d_0000110.jpg,0000121_01466_d_0000110_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(105.79)}"
+0000121_01466_d_0000110.jpg,0000121_01466_d_0000110_noise.jpg,noise,{'sigma': 7}
+0000128_00022_d_0000125.jpg,0000128_00022_d_0000125_original.jpg,original,{}
+0000128_00022_d_0000125.jpg,0000128_00022_d_0000125_blur.jpg,blur,{'kernel_size': 19}
+0000128_00022_d_0000125.jpg,0000128_00022_d_0000125_dark.jpg,dark,"{'alpha': 0.69, 'beta': -12}"
+0000128_00022_d_0000125.jpg,0000128_00022_d_0000125_bright.jpg,bright,"{'alpha': 1.35, 'beta': 78}"
+0000128_00022_d_0000125.jpg,0000128_00022_d_0000125_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(108.68)}"
+0000128_00022_d_0000125.jpg,0000128_00022_d_0000125_noise.jpg,noise,{'sigma': 12}
+0000128_00228_d_0000126.jpg,0000128_00228_d_0000126_original.jpg,original,{}
+0000128_00228_d_0000126.jpg,0000128_00228_d_0000126_blur.jpg,blur,{'kernel_size': 21}
+0000128_00228_d_0000126.jpg,0000128_00228_d_0000126_dark.jpg,dark,"{'alpha': 0.76, 'beta': -12}"
+0000128_00228_d_0000126.jpg,0000128_00228_d_0000126_bright.jpg,bright,"{'alpha': 1.23, 'beta': 35}"
+0000128_00228_d_0000126.jpg,0000128_00228_d_0000126_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(109.36)}"
+0000128_00228_d_0000126.jpg,0000128_00228_d_0000126_noise.jpg,noise,{'sigma': 6}
+0000128_00510_d_0000127.jpg,0000128_00510_d_0000127_original.jpg,original,{}
+0000128_00510_d_0000127.jpg,0000128_00510_d_0000127_blur.jpg,blur,{'kernel_size': 15}
+0000128_00510_d_0000127.jpg,0000128_00510_d_0000127_dark.jpg,dark,"{'alpha': 0.87, 'beta': -13}"
+0000128_00510_d_0000127.jpg,0000128_00510_d_0000127_bright.jpg,bright,"{'alpha': 1.4, 'beta': 56}"
+0000128_00510_d_0000127.jpg,0000128_00510_d_0000127_lowcontrast.jpg,lowcontrast,"{'alpha': 0.54, 'mean': np.float64(100.13)}"
+0000128_00510_d_0000127.jpg,0000128_00510_d_0000127_noise.jpg,noise,{'sigma': 11}
+0000128_00900_d_0000128.jpg,0000128_00900_d_0000128_original.jpg,original,{}
+0000128_00900_d_0000128.jpg,0000128_00900_d_0000128_blur.jpg,blur,{'kernel_size': 17}
+0000128_00900_d_0000128.jpg,0000128_00900_d_0000128_dark.jpg,dark,"{'alpha': 0.66, 'beta': -10}"
+0000128_00900_d_0000128.jpg,0000128_00900_d_0000128_bright.jpg,bright,"{'alpha': 1.17, 'beta': 33}"
+0000128_00900_d_0000128.jpg,0000128_00900_d_0000128_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(102.5)}"
+0000128_00900_d_0000128.jpg,0000128_00900_d_0000128_noise.jpg,noise,{'sigma': 9}
+0000128_01836_d_0000130.jpg,0000128_01836_d_0000130_original.jpg,original,{}
+0000128_01836_d_0000130.jpg,0000128_01836_d_0000130_blur.jpg,blur,{'kernel_size': 17}
+0000128_01836_d_0000130.jpg,0000128_01836_d_0000130_dark.jpg,dark,"{'alpha': 0.72, 'beta': -12}"
+0000128_01836_d_0000130.jpg,0000128_01836_d_0000130_bright.jpg,bright,"{'alpha': 1.32, 'beta': 53}"
+0000128_01836_d_0000130.jpg,0000128_01836_d_0000130_lowcontrast.jpg,lowcontrast,"{'alpha': 0.68, 'mean': np.float64(103.67)}"
+0000128_01836_d_0000130.jpg,0000128_01836_d_0000130_noise.jpg,noise,{'sigma': 6}
+0000151_00030_d_0000132.jpg,0000151_00030_d_0000132_original.jpg,original,{}
+0000151_00030_d_0000132.jpg,0000151_00030_d_0000132_blur.jpg,blur,{'kernel_size': 13}
+0000151_00030_d_0000132.jpg,0000151_00030_d_0000132_dark.jpg,dark,"{'alpha': 0.83, 'beta': -5}"
+0000151_00030_d_0000132.jpg,0000151_00030_d_0000132_bright.jpg,bright,"{'alpha': 1.32, 'beta': 35}"
+0000151_00030_d_0000132.jpg,0000151_00030_d_0000132_lowcontrast.jpg,lowcontrast,"{'alpha': 0.58, 'mean': np.float64(96.73)}"
+0000151_00030_d_0000132.jpg,0000151_00030_d_0000132_noise.jpg,noise,{'sigma': 12}
+0000151_00348_d_0000133.jpg,0000151_00348_d_0000133_original.jpg,original,{}
+0000151_00348_d_0000133.jpg,0000151_00348_d_0000133_blur.jpg,blur,{'kernel_size': 21}
+0000151_00348_d_0000133.jpg,0000151_00348_d_0000133_dark.jpg,dark,"{'alpha': 0.85, 'beta': -18}"
+0000151_00348_d_0000133.jpg,0000151_00348_d_0000133_bright.jpg,bright,"{'alpha': 1.22, 'beta': 45}"
+0000151_00348_d_0000133.jpg,0000151_00348_d_0000133_lowcontrast.jpg,lowcontrast,"{'alpha': 0.58, 'mean': np.float64(128.66)}"
+0000151_00348_d_0000133.jpg,0000151_00348_d_0000133_noise.jpg,noise,{'sigma': 9}
+0000151_01134_d_0000135.jpg,0000151_01134_d_0000135_original.jpg,original,{}
+0000151_01134_d_0000135.jpg,0000151_01134_d_0000135_blur.jpg,blur,{'kernel_size': 17}
+0000151_01134_d_0000135.jpg,0000151_01134_d_0000135_dark.jpg,dark,"{'alpha': 0.77, 'beta': -9}"
+0000151_01134_d_0000135.jpg,0000151_01134_d_0000135_bright.jpg,bright,"{'alpha': 1.27, 'beta': 67}"
+0000151_01134_d_0000135.jpg,0000151_01134_d_0000135_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(126.01)}"
+0000151_01134_d_0000135.jpg,0000151_01134_d_0000135_noise.jpg,noise,{'sigma': 10}
+0000151_01569_d_0000136.jpg,0000151_01569_d_0000136_original.jpg,original,{}
+0000151_01569_d_0000136.jpg,0000151_01569_d_0000136_blur.jpg,blur,{'kernel_size': 21}
+0000151_01569_d_0000136.jpg,0000151_01569_d_0000136_dark.jpg,dark,"{'alpha': 0.72, 'beta': -12}"
+0000151_01569_d_0000136.jpg,0000151_01569_d_0000136_bright.jpg,bright,"{'alpha': 1.19, 'beta': 66}"
+0000151_01569_d_0000136.jpg,0000151_01569_d_0000136_lowcontrast.jpg,lowcontrast,"{'alpha': 0.38, 'mean': np.float64(127.16)}"
+0000151_01569_d_0000136.jpg,0000151_01569_d_0000136_noise.jpg,noise,{'sigma': 6}
+0000151_02567_d_0000138.jpg,0000151_02567_d_0000138_original.jpg,original,{}
+0000151_02567_d_0000138.jpg,0000151_02567_d_0000138_blur.jpg,blur,{'kernel_size': 11}
+0000151_02567_d_0000138.jpg,0000151_02567_d_0000138_dark.jpg,dark,"{'alpha': 0.7, 'beta': -5}"
+0000151_02567_d_0000138.jpg,0000151_02567_d_0000138_bright.jpg,bright,"{'alpha': 1.21, 'beta': 57}"
+0000151_02567_d_0000138.jpg,0000151_02567_d_0000138_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(123.71)}"
+0000151_02567_d_0000138.jpg,0000151_02567_d_0000138_noise.jpg,noise,{'sigma': 9}
+0000151_03491_d_0000140.jpg,0000151_03491_d_0000140_original.jpg,original,{}
+0000151_03491_d_0000140.jpg,0000151_03491_d_0000140_blur.jpg,blur,{'kernel_size': 9}
+0000151_03491_d_0000140.jpg,0000151_03491_d_0000140_dark.jpg,dark,"{'alpha': 0.86, 'beta': -11}"
+0000151_03491_d_0000140.jpg,0000151_03491_d_0000140_bright.jpg,bright,"{'alpha': 1.19, 'beta': 31}"
+0000151_03491_d_0000140.jpg,0000151_03491_d_0000140_lowcontrast.jpg,lowcontrast,"{'alpha': 0.42, 'mean': np.float64(118.77)}"
+0000151_03491_d_0000140.jpg,0000151_03491_d_0000140_noise.jpg,noise,{'sigma': 7}
+0000151_03986_d_0000141.jpg,0000151_03986_d_0000141_original.jpg,original,{}
+0000151_03986_d_0000141.jpg,0000151_03986_d_0000141_blur.jpg,blur,{'kernel_size': 15}
+0000151_03986_d_0000141.jpg,0000151_03986_d_0000141_dark.jpg,dark,"{'alpha': 0.66, 'beta': -19}"
+0000151_03986_d_0000141.jpg,0000151_03986_d_0000141_bright.jpg,bright,"{'alpha': 1.32, 'beta': 64}"
+0000151_03986_d_0000141.jpg,0000151_03986_d_0000141_lowcontrast.jpg,lowcontrast,"{'alpha': 0.68, 'mean': np.float64(113.85)}"
+0000151_03986_d_0000141.jpg,0000151_03986_d_0000141_noise.jpg,noise,{'sigma': 12}
+0000151_04331_d_0000142.jpg,0000151_04331_d_0000142_original.jpg,original,{}
+0000151_04331_d_0000142.jpg,0000151_04331_d_0000142_blur.jpg,blur,{'kernel_size': 9}
+0000151_04331_d_0000142.jpg,0000151_04331_d_0000142_dark.jpg,dark,"{'alpha': 0.87, 'beta': -11}"
+0000151_04331_d_0000142.jpg,0000151_04331_d_0000142_bright.jpg,bright,"{'alpha': 1.29, 'beta': 48}"
+0000151_04331_d_0000142.jpg,0000151_04331_d_0000142_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(108.38)}"
+0000151_04331_d_0000142.jpg,0000151_04331_d_0000142_noise.jpg,noise,{'sigma': 5}
+0000168_00006_d_0000166.jpg,0000168_00006_d_0000166_original.jpg,original,{}
+0000168_00006_d_0000166.jpg,0000168_00006_d_0000166_blur.jpg,blur,{'kernel_size': 15}
+0000168_00006_d_0000166.jpg,0000168_00006_d_0000166_dark.jpg,dark,"{'alpha': 0.89, 'beta': -5}"
+0000168_00006_d_0000166.jpg,0000168_00006_d_0000166_bright.jpg,bright,"{'alpha': 1.15, 'beta': 24}"
+0000168_00006_d_0000166.jpg,0000168_00006_d_0000166_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(88.78)}"
+0000168_00006_d_0000166.jpg,0000168_00006_d_0000166_noise.jpg,noise,{'sigma': 6}
+0000168_00312_d_0000167.jpg,0000168_00312_d_0000167_original.jpg,original,{}
+0000168_00312_d_0000167.jpg,0000168_00312_d_0000167_blur.jpg,blur,{'kernel_size': 7}
+0000168_00312_d_0000167.jpg,0000168_00312_d_0000167_dark.jpg,dark,"{'alpha': 0.69, 'beta': -11}"
+0000168_00312_d_0000167.jpg,0000168_00312_d_0000167_bright.jpg,bright,"{'alpha': 1.13, 'beta': 35}"
+0000168_00312_d_0000167.jpg,0000168_00312_d_0000167_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(90.72)}"
+0000168_00312_d_0000167.jpg,0000168_00312_d_0000167_noise.jpg,noise,{'sigma': 11}
+0000168_00804_d_0000168.jpg,0000168_00804_d_0000168_original.jpg,original,{}
+0000168_00804_d_0000168.jpg,0000168_00804_d_0000168_blur.jpg,blur,{'kernel_size': 13}
+0000168_00804_d_0000168.jpg,0000168_00804_d_0000168_dark.jpg,dark,"{'alpha': 0.84, 'beta': -8}"
+0000168_00804_d_0000168.jpg,0000168_00804_d_0000168_bright.jpg,bright,"{'alpha': 1.28, 'beta': 48}"
+0000168_00804_d_0000168.jpg,0000168_00804_d_0000168_lowcontrast.jpg,lowcontrast,"{'alpha': 0.42, 'mean': np.float64(106.39)}"
+0000168_00804_d_0000168.jpg,0000168_00804_d_0000168_noise.jpg,noise,{'sigma': 11}
+0000168_01272_d_0000169.jpg,0000168_01272_d_0000169_original.jpg,original,{}
+0000168_01272_d_0000169.jpg,0000168_01272_d_0000169_blur.jpg,blur,{'kernel_size': 15}
+0000168_01272_d_0000169.jpg,0000168_01272_d_0000169_dark.jpg,dark,"{'alpha': 0.79, 'beta': -19}"
+0000168_01272_d_0000169.jpg,0000168_01272_d_0000169_bright.jpg,bright,"{'alpha': 1.34, 'beta': 67}"
+0000168_01272_d_0000169.jpg,0000168_01272_d_0000169_lowcontrast.jpg,lowcontrast,"{'alpha': 0.34, 'mean': np.float64(86.79)}"
+0000168_01272_d_0000169.jpg,0000168_01272_d_0000169_noise.jpg,noise,{'sigma': 8}
+0000168_01491_d_0000170.jpg,0000168_01491_d_0000170_original.jpg,original,{}
+0000168_01491_d_0000170.jpg,0000168_01491_d_0000170_blur.jpg,blur,{'kernel_size': 13}
+0000168_01491_d_0000170.jpg,0000168_01491_d_0000170_dark.jpg,dark,"{'alpha': 0.72, 'beta': -18}"
+0000168_01491_d_0000170.jpg,0000168_01491_d_0000170_bright.jpg,bright,"{'alpha': 1.16, 'beta': 31}"
+0000168_01491_d_0000170.jpg,0000168_01491_d_0000170_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(96.55)}"
+0000168_01491_d_0000170.jpg,0000168_01491_d_0000170_noise.jpg,noise,{'sigma': 7}
+0000168_01963_d_0000171.jpg,0000168_01963_d_0000171_original.jpg,original,{}
+0000168_01963_d_0000171.jpg,0000168_01963_d_0000171_blur.jpg,blur,{'kernel_size': 7}
+0000168_01963_d_0000171.jpg,0000168_01963_d_0000171_dark.jpg,dark,"{'alpha': 0.75, 'beta': -5}"
+0000168_01963_d_0000171.jpg,0000168_01963_d_0000171_bright.jpg,bright,"{'alpha': 1.22, 'beta': 34}"
+0000168_01963_d_0000171.jpg,0000168_01963_d_0000171_lowcontrast.jpg,lowcontrast,"{'alpha': 0.42, 'mean': np.float64(104.95)}"
+0000168_01963_d_0000171.jpg,0000168_01963_d_0000171_noise.jpg,noise,{'sigma': 9}
+0000168_03306_d_0000174.jpg,0000168_03306_d_0000174_original.jpg,original,{}
+0000168_03306_d_0000174.jpg,0000168_03306_d_0000174_blur.jpg,blur,{'kernel_size': 21}
+0000168_03306_d_0000174.jpg,0000168_03306_d_0000174_dark.jpg,dark,"{'alpha': 0.67, 'beta': -13}"
+0000168_03306_d_0000174.jpg,0000168_03306_d_0000174_bright.jpg,bright,"{'alpha': 1.47, 'beta': 70}"
+0000168_03306_d_0000174.jpg,0000168_03306_d_0000174_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(105.54)}"
+0000168_03306_d_0000174.jpg,0000168_03306_d_0000174_noise.jpg,noise,{'sigma': 8}
+0000168_03535_d_0000175.jpg,0000168_03535_d_0000175_original.jpg,original,{}
+0000168_03535_d_0000175.jpg,0000168_03535_d_0000175_blur.jpg,blur,{'kernel_size': 19}
+0000168_03535_d_0000175.jpg,0000168_03535_d_0000175_dark.jpg,dark,"{'alpha': 0.68, 'beta': -13}"
+0000168_03535_d_0000175.jpg,0000168_03535_d_0000175_bright.jpg,bright,"{'alpha': 1.36, 'beta': 78}"
+0000168_03535_d_0000175.jpg,0000168_03535_d_0000175_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(129.76)}"
+0000168_03535_d_0000175.jpg,0000168_03535_d_0000175_noise.jpg,noise,{'sigma': 7}
+0000185_00069_d_0000183.jpg,0000185_00069_d_0000183_original.jpg,original,{}
+0000185_00069_d_0000183.jpg,0000185_00069_d_0000183_blur.jpg,blur,{'kernel_size': 9}
+0000185_00069_d_0000183.jpg,0000185_00069_d_0000183_dark.jpg,dark,"{'alpha': 0.66, 'beta': -11}"
+0000185_00069_d_0000183.jpg,0000185_00069_d_0000183_bright.jpg,bright,"{'alpha': 1.34, 'beta': 72}"
+0000185_00069_d_0000183.jpg,0000185_00069_d_0000183_lowcontrast.jpg,lowcontrast,"{'alpha': 0.53, 'mean': np.float64(121.01)}"
+0000185_00069_d_0000183.jpg,0000185_00069_d_0000183_noise.jpg,noise,{'sigma': 9}
+0000185_00504_d_0000184.jpg,0000185_00504_d_0000184_original.jpg,original,{}
+0000185_00504_d_0000184.jpg,0000185_00504_d_0000184_blur.jpg,blur,{'kernel_size': 21}
+0000185_00504_d_0000184.jpg,0000185_00504_d_0000184_dark.jpg,dark,"{'alpha': 0.68, 'beta': -11}"
+0000185_00504_d_0000184.jpg,0000185_00504_d_0000184_bright.jpg,bright,"{'alpha': 1.38, 'beta': 80}"
+0000185_00504_d_0000184.jpg,0000185_00504_d_0000184_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(111.63)}"
+0000185_00504_d_0000184.jpg,0000185_00504_d_0000184_noise.jpg,noise,{'sigma': 12}
+0000185_01003_d_0000185.jpg,0000185_01003_d_0000185_original.jpg,original,{}
+0000185_01003_d_0000185.jpg,0000185_01003_d_0000185_blur.jpg,blur,{'kernel_size': 21}
+0000185_01003_d_0000185.jpg,0000185_01003_d_0000185_dark.jpg,dark,"{'alpha': 0.67, 'beta': -19}"
+0000185_01003_d_0000185.jpg,0000185_01003_d_0000185_bright.jpg,bright,"{'alpha': 1.46, 'beta': 67}"
+0000185_01003_d_0000185.jpg,0000185_01003_d_0000185_lowcontrast.jpg,lowcontrast,"{'alpha': 0.43, 'mean': np.float64(112.83)}"
+0000185_01003_d_0000185.jpg,0000185_01003_d_0000185_noise.jpg,noise,{'sigma': 9}
+0000185_01401_d_0000186.jpg,0000185_01401_d_0000186_original.jpg,original,{}
+0000185_01401_d_0000186.jpg,0000185_01401_d_0000186_blur.jpg,blur,{'kernel_size': 7}
+0000185_01401_d_0000186.jpg,0000185_01401_d_0000186_dark.jpg,dark,"{'alpha': 0.67, 'beta': -20}"
+0000185_01401_d_0000186.jpg,0000185_01401_d_0000186_bright.jpg,bright,"{'alpha': 1.5, 'beta': 63}"
+0000185_01401_d_0000186.jpg,0000185_01401_d_0000186_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(126.02)}"
+0000185_01401_d_0000186.jpg,0000185_01401_d_0000186_noise.jpg,noise,{'sigma': 5}
+0000188_00642_d_0000195.jpg,0000188_00642_d_0000195_original.jpg,original,{}
+0000188_00642_d_0000195.jpg,0000188_00642_d_0000195_blur.jpg,blur,{'kernel_size': 11}
+0000188_00642_d_0000195.jpg,0000188_00642_d_0000195_dark.jpg,dark,"{'alpha': 0.77, 'beta': -6}"
+0000188_00642_d_0000195.jpg,0000188_00642_d_0000195_bright.jpg,bright,"{'alpha': 1.47, 'beta': 31}"
+0000188_00642_d_0000195.jpg,0000188_00642_d_0000195_lowcontrast.jpg,lowcontrast,"{'alpha': 0.7, 'mean': np.float64(96.73)}"
+0000188_00642_d_0000195.jpg,0000188_00642_d_0000195_noise.jpg,noise,{'sigma': 11}
+0000188_00822_d_0000196.jpg,0000188_00822_d_0000196_original.jpg,original,{}
+0000188_00822_d_0000196.jpg,0000188_00822_d_0000196_blur.jpg,blur,{'kernel_size': 21}
+0000188_00822_d_0000196.jpg,0000188_00822_d_0000196_dark.jpg,dark,"{'alpha': 0.89, 'beta': -5}"
+0000188_00822_d_0000196.jpg,0000188_00822_d_0000196_bright.jpg,bright,"{'alpha': 1.24, 'beta': 41}"
+0000188_00822_d_0000196.jpg,0000188_00822_d_0000196_lowcontrast.jpg,lowcontrast,"{'alpha': 0.43, 'mean': np.float64(91.34)}"
+0000188_00822_d_0000196.jpg,0000188_00822_d_0000196_noise.jpg,noise,{'sigma': 6}
+0000188_00960_d_0000197.jpg,0000188_00960_d_0000197_original.jpg,original,{}
+0000188_00960_d_0000197.jpg,0000188_00960_d_0000197_blur.jpg,blur,{'kernel_size': 11}
+0000188_00960_d_0000197.jpg,0000188_00960_d_0000197_dark.jpg,dark,"{'alpha': 0.73, 'beta': -5}"
+0000188_00960_d_0000197.jpg,0000188_00960_d_0000197_bright.jpg,bright,"{'alpha': 1.22, 'beta': 80}"
+0000188_00960_d_0000197.jpg,0000188_00960_d_0000197_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(105.3)}"
+0000188_00960_d_0000197.jpg,0000188_00960_d_0000197_noise.jpg,noise,{'sigma': 5}
+0000191_00023_d_0000203.jpg,0000191_00023_d_0000203_original.jpg,original,{}
+0000191_00023_d_0000203.jpg,0000191_00023_d_0000203_blur.jpg,blur,{'kernel_size': 21}
+0000191_00023_d_0000203.jpg,0000191_00023_d_0000203_dark.jpg,dark,"{'alpha': 0.67, 'beta': -12}"
+0000191_00023_d_0000203.jpg,0000191_00023_d_0000203_bright.jpg,bright,"{'alpha': 1.23, 'beta': 69}"
+0000191_00023_d_0000203.jpg,0000191_00023_d_0000203_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(94.01)}"
+0000191_00023_d_0000203.jpg,0000191_00023_d_0000203_noise.jpg,noise,{'sigma': 5}
+0000191_00369_d_0000204.jpg,0000191_00369_d_0000204_original.jpg,original,{}
+0000191_00369_d_0000204.jpg,0000191_00369_d_0000204_blur.jpg,blur,{'kernel_size': 21}
+0000191_00369_d_0000204.jpg,0000191_00369_d_0000204_dark.jpg,dark,"{'alpha': 0.75, 'beta': -14}"
+0000191_00369_d_0000204.jpg,0000191_00369_d_0000204_bright.jpg,bright,"{'alpha': 1.31, 'beta': 59}"
+0000191_00369_d_0000204.jpg,0000191_00369_d_0000204_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(89.21)}"
+0000191_00369_d_0000204.jpg,0000191_00369_d_0000204_noise.jpg,noise,{'sigma': 12}
+0000191_01758_d_0000207.jpg,0000191_01758_d_0000207_original.jpg,original,{}
+0000191_01758_d_0000207.jpg,0000191_01758_d_0000207_blur.jpg,blur,{'kernel_size': 7}
+0000191_01758_d_0000207.jpg,0000191_01758_d_0000207_dark.jpg,dark,"{'alpha': 0.7, 'beta': -16}"
+0000191_01758_d_0000207.jpg,0000191_01758_d_0000207_bright.jpg,bright,"{'alpha': 1.47, 'beta': 48}"
+0000191_01758_d_0000207.jpg,0000191_01758_d_0000207_lowcontrast.jpg,lowcontrast,"{'alpha': 0.65, 'mean': np.float64(98.26)}"
+0000191_01758_d_0000207.jpg,0000191_01758_d_0000207_noise.jpg,noise,{'sigma': 12}
+0000191_03064_d_0000210.jpg,0000191_03064_d_0000210_original.jpg,original,{}
+0000191_03064_d_0000210.jpg,0000191_03064_d_0000210_blur.jpg,blur,{'kernel_size': 9}
+0000191_03064_d_0000210.jpg,0000191_03064_d_0000210_dark.jpg,dark,"{'alpha': 0.66, 'beta': -13}"
+0000191_03064_d_0000210.jpg,0000191_03064_d_0000210_bright.jpg,bright,"{'alpha': 1.38, 'beta': 39}"
+0000191_03064_d_0000210.jpg,0000191_03064_d_0000210_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(102.32)}"
+0000191_03064_d_0000210.jpg,0000191_03064_d_0000210_noise.jpg,noise,{'sigma': 11}
+0000231_00500_d_0000002.jpg,0000231_00500_d_0000002_original.jpg,original,{}
+0000231_00500_d_0000002.jpg,0000231_00500_d_0000002_blur.jpg,blur,{'kernel_size': 9}
+0000231_00500_d_0000002.jpg,0000231_00500_d_0000002_dark.jpg,dark,"{'alpha': 0.71, 'beta': -17}"
+0000231_00500_d_0000002.jpg,0000231_00500_d_0000002_bright.jpg,bright,"{'alpha': 1.28, 'beta': 27}"
+0000231_00500_d_0000002.jpg,0000231_00500_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(131.89)}"
+0000231_00500_d_0000002.jpg,0000231_00500_d_0000002_noise.jpg,noise,{'sigma': 7}
+0000231_01000_d_0000003.jpg,0000231_01000_d_0000003_original.jpg,original,{}
+0000231_01000_d_0000003.jpg,0000231_01000_d_0000003_blur.jpg,blur,{'kernel_size': 21}
+0000231_01000_d_0000003.jpg,0000231_01000_d_0000003_dark.jpg,dark,"{'alpha': 0.88, 'beta': -11}"
+0000231_01000_d_0000003.jpg,0000231_01000_d_0000003_bright.jpg,bright,"{'alpha': 1.3, 'beta': 37}"
+0000231_01000_d_0000003.jpg,0000231_01000_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.47, 'mean': np.float64(150.78)}"
+0000231_01000_d_0000003.jpg,0000231_01000_d_0000003_noise.jpg,noise,{'sigma': 12}
+0000231_01500_d_0000004.jpg,0000231_01500_d_0000004_original.jpg,original,{}
+0000231_01500_d_0000004.jpg,0000231_01500_d_0000004_blur.jpg,blur,{'kernel_size': 21}
+0000231_01500_d_0000004.jpg,0000231_01500_d_0000004_dark.jpg,dark,"{'alpha': 0.71, 'beta': -16}"
+0000231_01500_d_0000004.jpg,0000231_01500_d_0000004_bright.jpg,bright,"{'alpha': 1.25, 'beta': 78}"
+0000231_01500_d_0000004.jpg,0000231_01500_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.54, 'mean': np.float64(137.33)}"
+0000231_01500_d_0000004.jpg,0000231_01500_d_0000004_noise.jpg,noise,{'sigma': 7}
+0000231_02000_d_0000005.jpg,0000231_02000_d_0000005_original.jpg,original,{}
+0000231_02000_d_0000005.jpg,0000231_02000_d_0000005_blur.jpg,blur,{'kernel_size': 9}
+0000231_02000_d_0000005.jpg,0000231_02000_d_0000005_dark.jpg,dark,"{'alpha': 0.72, 'beta': -7}"
+0000231_02000_d_0000005.jpg,0000231_02000_d_0000005_bright.jpg,bright,"{'alpha': 1.24, 'beta': 70}"
+0000231_02000_d_0000005.jpg,0000231_02000_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(134.15)}"
+0000231_02000_d_0000005.jpg,0000231_02000_d_0000005_noise.jpg,noise,{'sigma': 5}
+0000231_02500_d_0000006.jpg,0000231_02500_d_0000006_original.jpg,original,{}
+0000231_02500_d_0000006.jpg,0000231_02500_d_0000006_blur.jpg,blur,{'kernel_size': 15}
+0000231_02500_d_0000006.jpg,0000231_02500_d_0000006_dark.jpg,dark,"{'alpha': 0.83, 'beta': -5}"
+0000231_02500_d_0000006.jpg,0000231_02500_d_0000006_bright.jpg,bright,"{'alpha': 1.45, 'beta': 48}"
+0000231_02500_d_0000006.jpg,0000231_02500_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(108.16)}"
+0000231_02500_d_0000006.jpg,0000231_02500_d_0000006_noise.jpg,noise,{'sigma': 10}
+0000231_03500_d_0000008.jpg,0000231_03500_d_0000008_original.jpg,original,{}
+0000231_03500_d_0000008.jpg,0000231_03500_d_0000008_blur.jpg,blur,{'kernel_size': 17}
+0000231_03500_d_0000008.jpg,0000231_03500_d_0000008_dark.jpg,dark,"{'alpha': 0.79, 'beta': -8}"
+0000231_03500_d_0000008.jpg,0000231_03500_d_0000008_bright.jpg,bright,"{'alpha': 1.28, 'beta': 40}"
+0000231_03500_d_0000008.jpg,0000231_03500_d_0000008_lowcontrast.jpg,lowcontrast,"{'alpha': 0.65, 'mean': np.float64(154.77)}"
+0000231_03500_d_0000008.jpg,0000231_03500_d_0000008_noise.jpg,noise,{'sigma': 8}
+0000231_04000_d_0000009.jpg,0000231_04000_d_0000009_original.jpg,original,{}
+0000231_04000_d_0000009.jpg,0000231_04000_d_0000009_blur.jpg,blur,{'kernel_size': 19}
+0000231_04000_d_0000009.jpg,0000231_04000_d_0000009_dark.jpg,dark,"{'alpha': 0.71, 'beta': -7}"
+0000231_04000_d_0000009.jpg,0000231_04000_d_0000009_bright.jpg,bright,"{'alpha': 1.12, 'beta': 67}"
+0000231_04000_d_0000009.jpg,0000231_04000_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(154.68)}"
+0000231_04000_d_0000009.jpg,0000231_04000_d_0000009_noise.jpg,noise,{'sigma': 11}
+0000231_04500_d_0000010.jpg,0000231_04500_d_0000010_original.jpg,original,{}
+0000231_04500_d_0000010.jpg,0000231_04500_d_0000010_blur.jpg,blur,{'kernel_size': 19}
+0000231_04500_d_0000010.jpg,0000231_04500_d_0000010_dark.jpg,dark,"{'alpha': 0.9, 'beta': -16}"
+0000231_04500_d_0000010.jpg,0000231_04500_d_0000010_bright.jpg,bright,"{'alpha': 1.3, 'beta': 22}"
+0000231_04500_d_0000010.jpg,0000231_04500_d_0000010_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(113.47)}"
+0000231_04500_d_0000010.jpg,0000231_04500_d_0000010_noise.jpg,noise,{'sigma': 10}
+0000231_05000_d_0000011.jpg,0000231_05000_d_0000011_original.jpg,original,{}
+0000231_05000_d_0000011.jpg,0000231_05000_d_0000011_blur.jpg,blur,{'kernel_size': 9}
+0000231_05000_d_0000011.jpg,0000231_05000_d_0000011_dark.jpg,dark,"{'alpha': 0.87, 'beta': -6}"
+0000231_05000_d_0000011.jpg,0000231_05000_d_0000011_bright.jpg,bright,"{'alpha': 1.14, 'beta': 78}"
+0000231_05000_d_0000011.jpg,0000231_05000_d_0000011_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(131.72)}"
+0000231_05000_d_0000011.jpg,0000231_05000_d_0000011_noise.jpg,noise,{'sigma': 7}
+0000231_05500_d_0000012.jpg,0000231_05500_d_0000012_original.jpg,original,{}
+0000231_05500_d_0000012.jpg,0000231_05500_d_0000012_blur.jpg,blur,{'kernel_size': 19}
+0000231_05500_d_0000012.jpg,0000231_05500_d_0000012_dark.jpg,dark,"{'alpha': 0.87, 'beta': -16}"
+0000231_05500_d_0000012.jpg,0000231_05500_d_0000012_bright.jpg,bright,"{'alpha': 1.13, 'beta': 70}"
+0000231_05500_d_0000012.jpg,0000231_05500_d_0000012_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(104.66)}"
+0000231_05500_d_0000012.jpg,0000231_05500_d_0000012_noise.jpg,noise,{'sigma': 10}
+0000231_06500_d_0000014.jpg,0000231_06500_d_0000014_original.jpg,original,{}
+0000231_06500_d_0000014.jpg,0000231_06500_d_0000014_blur.jpg,blur,{'kernel_size': 19}
+0000231_06500_d_0000014.jpg,0000231_06500_d_0000014_dark.jpg,dark,"{'alpha': 0.81, 'beta': -10}"
+0000231_06500_d_0000014.jpg,0000231_06500_d_0000014_bright.jpg,bright,"{'alpha': 1.44, 'beta': 74}"
+0000231_06500_d_0000014.jpg,0000231_06500_d_0000014_lowcontrast.jpg,lowcontrast,"{'alpha': 0.51, 'mean': np.float64(114.5)}"
+0000231_06500_d_0000014.jpg,0000231_06500_d_0000014_noise.jpg,noise,{'sigma': 10}
+0000232_00000_d_0000001.jpg,0000232_00000_d_0000001_original.jpg,original,{}
+0000232_00000_d_0000001.jpg,0000232_00000_d_0000001_blur.jpg,blur,{'kernel_size': 21}
+0000232_00000_d_0000001.jpg,0000232_00000_d_0000001_dark.jpg,dark,"{'alpha': 0.87, 'beta': -19}"
+0000232_00000_d_0000001.jpg,0000232_00000_d_0000001_bright.jpg,bright,"{'alpha': 1.35, 'beta': 35}"
+0000232_00000_d_0000001.jpg,0000232_00000_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(117.01)}"
+0000232_00000_d_0000001.jpg,0000232_00000_d_0000001_noise.jpg,noise,{'sigma': 9}
+0000232_00400_d_0000005.jpg,0000232_00400_d_0000005_original.jpg,original,{}
+0000232_00400_d_0000005.jpg,0000232_00400_d_0000005_blur.jpg,blur,{'kernel_size': 13}
+0000232_00400_d_0000005.jpg,0000232_00400_d_0000005_dark.jpg,dark,"{'alpha': 0.84, 'beta': -7}"
+0000232_00400_d_0000005.jpg,0000232_00400_d_0000005_bright.jpg,bright,"{'alpha': 1.49, 'beta': 68}"
+0000232_00400_d_0000005.jpg,0000232_00400_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(110.05)}"
+0000232_00400_d_0000005.jpg,0000232_00400_d_0000005_noise.jpg,noise,{'sigma': 6}
+0000232_00500_d_0000006.jpg,0000232_00500_d_0000006_original.jpg,original,{}
+0000232_00500_d_0000006.jpg,0000232_00500_d_0000006_blur.jpg,blur,{'kernel_size': 21}
+0000232_00500_d_0000006.jpg,0000232_00500_d_0000006_dark.jpg,dark,"{'alpha': 0.69, 'beta': -11}"
+0000232_00500_d_0000006.jpg,0000232_00500_d_0000006_bright.jpg,bright,"{'alpha': 1.46, 'beta': 22}"
+0000232_00500_d_0000006.jpg,0000232_00500_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.43, 'mean': np.float64(110.04)}"
+0000232_00500_d_0000006.jpg,0000232_00500_d_0000006_noise.jpg,noise,{'sigma': 5}
+0000232_00600_d_0000007.jpg,0000232_00600_d_0000007_original.jpg,original,{}
+0000232_00600_d_0000007.jpg,0000232_00600_d_0000007_blur.jpg,blur,{'kernel_size': 15}
+0000232_00600_d_0000007.jpg,0000232_00600_d_0000007_dark.jpg,dark,"{'alpha': 0.74, 'beta': -7}"
+0000232_00600_d_0000007.jpg,0000232_00600_d_0000007_bright.jpg,bright,"{'alpha': 1.16, 'beta': 53}"
+0000232_00600_d_0000007.jpg,0000232_00600_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(112.34)}"
+0000232_00600_d_0000007.jpg,0000232_00600_d_0000007_noise.jpg,noise,{'sigma': 7}
+0000232_00700_d_0000008.jpg,0000232_00700_d_0000008_original.jpg,original,{}
+0000232_00700_d_0000008.jpg,0000232_00700_d_0000008_blur.jpg,blur,{'kernel_size': 11}
+0000232_00700_d_0000008.jpg,0000232_00700_d_0000008_dark.jpg,dark,"{'alpha': 0.69, 'beta': -8}"
+0000232_00700_d_0000008.jpg,0000232_00700_d_0000008_bright.jpg,bright,"{'alpha': 1.35, 'beta': 35}"
+0000232_00700_d_0000008.jpg,0000232_00700_d_0000008_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(114.64)}"
+0000232_00700_d_0000008.jpg,0000232_00700_d_0000008_noise.jpg,noise,{'sigma': 7}
+0000232_00800_d_0000009.jpg,0000232_00800_d_0000009_original.jpg,original,{}
+0000232_00800_d_0000009.jpg,0000232_00800_d_0000009_blur.jpg,blur,{'kernel_size': 13}
+0000232_00800_d_0000009.jpg,0000232_00800_d_0000009_dark.jpg,dark,"{'alpha': 0.77, 'beta': -12}"
+0000232_00800_d_0000009.jpg,0000232_00800_d_0000009_bright.jpg,bright,"{'alpha': 1.28, 'beta': 62}"
+0000232_00800_d_0000009.jpg,0000232_00800_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.3, 'mean': np.float64(109.16)}"
+0000232_00800_d_0000009.jpg,0000232_00800_d_0000009_noise.jpg,noise,{'sigma': 12}
+0000233_00755_d_0000004.jpg,0000233_00755_d_0000004_original.jpg,original,{}
+0000233_00755_d_0000004.jpg,0000233_00755_d_0000004_blur.jpg,blur,{'kernel_size': 15}
+0000233_00755_d_0000004.jpg,0000233_00755_d_0000004_dark.jpg,dark,"{'alpha': 0.82, 'beta': -15}"
+0000233_00755_d_0000004.jpg,0000233_00755_d_0000004_bright.jpg,bright,"{'alpha': 1.13, 'beta': 80}"
+0000233_00755_d_0000004.jpg,0000233_00755_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(122.2)}"
+0000233_00755_d_0000004.jpg,0000233_00755_d_0000004_noise.jpg,noise,{'sigma': 9}
+0000233_00945_d_0000006.jpg,0000233_00945_d_0000006_original.jpg,original,{}
+0000233_00945_d_0000006.jpg,0000233_00945_d_0000006_blur.jpg,blur,{'kernel_size': 19}
+0000233_00945_d_0000006.jpg,0000233_00945_d_0000006_dark.jpg,dark,"{'alpha': 0.82, 'beta': -6}"
+0000233_00945_d_0000006.jpg,0000233_00945_d_0000006_bright.jpg,bright,"{'alpha': 1.44, 'beta': 32}"
+0000233_00945_d_0000006.jpg,0000233_00945_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.7, 'mean': np.float64(112.29)}"
+0000233_00945_d_0000006.jpg,0000233_00945_d_0000006_noise.jpg,noise,{'sigma': 12}
+0000233_02250_d_0000007.jpg,0000233_02250_d_0000007_original.jpg,original,{}
+0000233_02250_d_0000007.jpg,0000233_02250_d_0000007_blur.jpg,blur,{'kernel_size': 9}
+0000233_02250_d_0000007.jpg,0000233_02250_d_0000007_dark.jpg,dark,"{'alpha': 0.71, 'beta': -9}"
+0000233_02250_d_0000007.jpg,0000233_02250_d_0000007_bright.jpg,bright,"{'alpha': 1.33, 'beta': 64}"
+0000233_02250_d_0000007.jpg,0000233_02250_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.42, 'mean': np.float64(114.06)}"
+0000233_02250_d_0000007.jpg,0000233_02250_d_0000007_noise.jpg,noise,{'sigma': 11}
+0000233_02350_d_0000008.jpg,0000233_02350_d_0000008_original.jpg,original,{}
+0000233_02350_d_0000008.jpg,0000233_02350_d_0000008_blur.jpg,blur,{'kernel_size': 15}
+0000233_02350_d_0000008.jpg,0000233_02350_d_0000008_dark.jpg,dark,"{'alpha': 0.65, 'beta': -19}"
+0000233_02350_d_0000008.jpg,0000233_02350_d_0000008_bright.jpg,bright,"{'alpha': 1.46, 'beta': 67}"
+0000233_02350_d_0000008.jpg,0000233_02350_d_0000008_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(117.31)}"
+0000233_02350_d_0000008.jpg,0000233_02350_d_0000008_noise.jpg,noise,{'sigma': 9}
+0000233_02450_d_0000009.jpg,0000233_02450_d_0000009_original.jpg,original,{}
+0000233_02450_d_0000009.jpg,0000233_02450_d_0000009_blur.jpg,blur,{'kernel_size': 13}
+0000233_02450_d_0000009.jpg,0000233_02450_d_0000009_dark.jpg,dark,"{'alpha': 0.8, 'beta': -9}"
+0000233_02450_d_0000009.jpg,0000233_02450_d_0000009_bright.jpg,bright,"{'alpha': 1.19, 'beta': 32}"
+0000233_02450_d_0000009.jpg,0000233_02450_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(115.18)}"
+0000233_02450_d_0000009.jpg,0000233_02450_d_0000009_noise.jpg,noise,{'sigma': 7}
+0000233_02550_d_0000010.jpg,0000233_02550_d_0000010_original.jpg,original,{}
+0000233_02550_d_0000010.jpg,0000233_02550_d_0000010_blur.jpg,blur,{'kernel_size': 9}
+0000233_02550_d_0000010.jpg,0000233_02550_d_0000010_dark.jpg,dark,"{'alpha': 0.88, 'beta': -19}"
+0000233_02550_d_0000010.jpg,0000233_02550_d_0000010_bright.jpg,bright,"{'alpha': 1.22, 'beta': 48}"
+0000233_02550_d_0000010.jpg,0000233_02550_d_0000010_lowcontrast.jpg,lowcontrast,"{'alpha': 0.31, 'mean': np.float64(113.73)}"
+0000233_02550_d_0000010.jpg,0000233_02550_d_0000010_noise.jpg,noise,{'sigma': 10}
+0000233_02650_d_0000011.jpg,0000233_02650_d_0000011_original.jpg,original,{}
+0000233_02650_d_0000011.jpg,0000233_02650_d_0000011_blur.jpg,blur,{'kernel_size': 11}
+0000233_02650_d_0000011.jpg,0000233_02650_d_0000011_dark.jpg,dark,"{'alpha': 0.67, 'beta': -11}"
+0000233_02650_d_0000011.jpg,0000233_02650_d_0000011_bright.jpg,bright,"{'alpha': 1.23, 'beta': 46}"
+0000233_02650_d_0000011.jpg,0000233_02650_d_0000011_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(114.3)}"
+0000233_02650_d_0000011.jpg,0000233_02650_d_0000011_noise.jpg,noise,{'sigma': 7}
+0000233_02950_d_0000014.jpg,0000233_02950_d_0000014_original.jpg,original,{}
+0000233_02950_d_0000014.jpg,0000233_02950_d_0000014_blur.jpg,blur,{'kernel_size': 17}
+0000233_02950_d_0000014.jpg,0000233_02950_d_0000014_dark.jpg,dark,"{'alpha': 0.78, 'beta': -12}"
+0000233_02950_d_0000014.jpg,0000233_02950_d_0000014_bright.jpg,bright,"{'alpha': 1.43, 'beta': 36}"
+0000233_02950_d_0000014.jpg,0000233_02950_d_0000014_lowcontrast.jpg,lowcontrast,"{'alpha': 0.67, 'mean': np.float64(111.65)}"
+0000233_02950_d_0000014.jpg,0000233_02950_d_0000014_noise.jpg,noise,{'sigma': 12}
+0000255_00000_d_0000001.jpg,0000255_00000_d_0000001_original.jpg,original,{}
+0000255_00000_d_0000001.jpg,0000255_00000_d_0000001_blur.jpg,blur,{'kernel_size': 15}
+0000255_00000_d_0000001.jpg,0000255_00000_d_0000001_dark.jpg,dark,"{'alpha': 0.84, 'beta': -10}"
+0000255_00000_d_0000001.jpg,0000255_00000_d_0000001_bright.jpg,bright,"{'alpha': 1.42, 'beta': 49}"
+0000255_00000_d_0000001.jpg,0000255_00000_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(114.19)}"
+0000255_00000_d_0000001.jpg,0000255_00000_d_0000001_noise.jpg,noise,{'sigma': 7}
+0000255_00300_d_0000002.jpg,0000255_00300_d_0000002_original.jpg,original,{}
+0000255_00300_d_0000002.jpg,0000255_00300_d_0000002_blur.jpg,blur,{'kernel_size': 13}
+0000255_00300_d_0000002.jpg,0000255_00300_d_0000002_dark.jpg,dark,"{'alpha': 0.87, 'beta': -8}"
+0000255_00300_d_0000002.jpg,0000255_00300_d_0000002_bright.jpg,bright,"{'alpha': 1.49, 'beta': 71}"
+0000255_00300_d_0000002.jpg,0000255_00300_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(119.37)}"
+0000255_00300_d_0000002.jpg,0000255_00300_d_0000002_noise.jpg,noise,{'sigma': 6}
+0000255_00600_d_0000003.jpg,0000255_00600_d_0000003_original.jpg,original,{}
+0000255_00600_d_0000003.jpg,0000255_00600_d_0000003_blur.jpg,blur,{'kernel_size': 19}
+0000255_00600_d_0000003.jpg,0000255_00600_d_0000003_dark.jpg,dark,"{'alpha': 0.65, 'beta': -17}"
+0000255_00600_d_0000003.jpg,0000255_00600_d_0000003_bright.jpg,bright,"{'alpha': 1.28, 'beta': 63}"
+0000255_00600_d_0000003.jpg,0000255_00600_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(115.91)}"
+0000255_00600_d_0000003.jpg,0000255_00600_d_0000003_noise.jpg,noise,{'sigma': 9}
+0000255_01200_d_0000005.jpg,0000255_01200_d_0000005_original.jpg,original,{}
+0000255_01200_d_0000005.jpg,0000255_01200_d_0000005_blur.jpg,blur,{'kernel_size': 19}
+0000255_01200_d_0000005.jpg,0000255_01200_d_0000005_dark.jpg,dark,"{'alpha': 0.86, 'beta': -9}"
+0000255_01200_d_0000005.jpg,0000255_01200_d_0000005_bright.jpg,bright,"{'alpha': 1.14, 'beta': 34}"
+0000255_01200_d_0000005.jpg,0000255_01200_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(111.8)}"
+0000255_01200_d_0000005.jpg,0000255_01200_d_0000005_noise.jpg,noise,{'sigma': 10}
+0000255_01500_d_0000006.jpg,0000255_01500_d_0000006_original.jpg,original,{}
+0000255_01500_d_0000006.jpg,0000255_01500_d_0000006_blur.jpg,blur,{'kernel_size': 13}
+0000255_01500_d_0000006.jpg,0000255_01500_d_0000006_dark.jpg,dark,"{'alpha': 0.81, 'beta': -6}"
+0000255_01500_d_0000006.jpg,0000255_01500_d_0000006_bright.jpg,bright,"{'alpha': 1.46, 'beta': 39}"
+0000255_01500_d_0000006.jpg,0000255_01500_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(110.63)}"
+0000255_01500_d_0000006.jpg,0000255_01500_d_0000006_noise.jpg,noise,{'sigma': 6}
+0000255_01800_d_0000007.jpg,0000255_01800_d_0000007_original.jpg,original,{}
+0000255_01800_d_0000007.jpg,0000255_01800_d_0000007_blur.jpg,blur,{'kernel_size': 11}
+0000255_01800_d_0000007.jpg,0000255_01800_d_0000007_dark.jpg,dark,"{'alpha': 0.66, 'beta': -19}"
+0000255_01800_d_0000007.jpg,0000255_01800_d_0000007_bright.jpg,bright,"{'alpha': 1.22, 'beta': 51}"
+0000255_01800_d_0000007.jpg,0000255_01800_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(113.23)}"
+0000255_01800_d_0000007.jpg,0000255_01800_d_0000007_noise.jpg,noise,{'sigma': 8}
+0000262_00000_d_0000001.jpg,0000262_00000_d_0000001_original.jpg,original,{}
+0000262_00000_d_0000001.jpg,0000262_00000_d_0000001_blur.jpg,blur,{'kernel_size': 11}
+0000262_00000_d_0000001.jpg,0000262_00000_d_0000001_dark.jpg,dark,"{'alpha': 0.75, 'beta': -9}"
+0000262_00000_d_0000001.jpg,0000262_00000_d_0000001_bright.jpg,bright,"{'alpha': 1.37, 'beta': 67}"
+0000262_00000_d_0000001.jpg,0000262_00000_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.58, 'mean': np.float64(125.9)}"
+0000262_00000_d_0000001.jpg,0000262_00000_d_0000001_noise.jpg,noise,{'sigma': 11}
+0000262_00500_d_0000002.jpg,0000262_00500_d_0000002_original.jpg,original,{}
+0000262_00500_d_0000002.jpg,0000262_00500_d_0000002_blur.jpg,blur,{'kernel_size': 11}
+0000262_00500_d_0000002.jpg,0000262_00500_d_0000002_dark.jpg,dark,"{'alpha': 0.87, 'beta': -17}"
+0000262_00500_d_0000002.jpg,0000262_00500_d_0000002_bright.jpg,bright,"{'alpha': 1.43, 'beta': 59}"
+0000262_00500_d_0000002.jpg,0000262_00500_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(156.89)}"
+0000262_00500_d_0000002.jpg,0000262_00500_d_0000002_noise.jpg,noise,{'sigma': 9}
+0000262_01000_d_0000003.jpg,0000262_01000_d_0000003_original.jpg,original,{}
+0000262_01000_d_0000003.jpg,0000262_01000_d_0000003_blur.jpg,blur,{'kernel_size': 7}
+0000262_01000_d_0000003.jpg,0000262_01000_d_0000003_dark.jpg,dark,"{'alpha': 0.82, 'beta': -14}"
+0000262_01000_d_0000003.jpg,0000262_01000_d_0000003_bright.jpg,bright,"{'alpha': 1.28, 'beta': 80}"
+0000262_01000_d_0000003.jpg,0000262_01000_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(151.13)}"
+0000262_01000_d_0000003.jpg,0000262_01000_d_0000003_noise.jpg,noise,{'sigma': 10}
+0000262_01500_d_0000004.jpg,0000262_01500_d_0000004_original.jpg,original,{}
+0000262_01500_d_0000004.jpg,0000262_01500_d_0000004_blur.jpg,blur,{'kernel_size': 9}
+0000262_01500_d_0000004.jpg,0000262_01500_d_0000004_dark.jpg,dark,"{'alpha': 0.9, 'beta': -9}"
+0000262_01500_d_0000004.jpg,0000262_01500_d_0000004_bright.jpg,bright,"{'alpha': 1.32, 'beta': 61}"
+0000262_01500_d_0000004.jpg,0000262_01500_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(139.45)}"
+0000262_01500_d_0000004.jpg,0000262_01500_d_0000004_noise.jpg,noise,{'sigma': 11}
+0000262_02500_d_0000006.jpg,0000262_02500_d_0000006_original.jpg,original,{}
+0000262_02500_d_0000006.jpg,0000262_02500_d_0000006_blur.jpg,blur,{'kernel_size': 15}
+0000262_02500_d_0000006.jpg,0000262_02500_d_0000006_dark.jpg,dark,"{'alpha': 0.7, 'beta': -17}"
+0000262_02500_d_0000006.jpg,0000262_02500_d_0000006_bright.jpg,bright,"{'alpha': 1.48, 'beta': 72}"
+0000262_02500_d_0000006.jpg,0000262_02500_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(112.87)}"
+0000262_02500_d_0000006.jpg,0000262_02500_d_0000006_noise.jpg,noise,{'sigma': 8}
+0000262_04000_d_0000009.jpg,0000262_04000_d_0000009_original.jpg,original,{}
+0000262_04000_d_0000009.jpg,0000262_04000_d_0000009_blur.jpg,blur,{'kernel_size': 7}
+0000262_04000_d_0000009.jpg,0000262_04000_d_0000009_dark.jpg,dark,"{'alpha': 0.66, 'beta': -10}"
+0000262_04000_d_0000009.jpg,0000262_04000_d_0000009_bright.jpg,bright,"{'alpha': 1.2, 'beta': 28}"
+0000262_04000_d_0000009.jpg,0000262_04000_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(130.3)}"
+0000262_04000_d_0000009.jpg,0000262_04000_d_0000009_noise.jpg,noise,{'sigma': 8}
+0000262_04500_d_0000010.jpg,0000262_04500_d_0000010_original.jpg,original,{}
+0000262_04500_d_0000010.jpg,0000262_04500_d_0000010_blur.jpg,blur,{'kernel_size': 9}
+0000262_04500_d_0000010.jpg,0000262_04500_d_0000010_dark.jpg,dark,"{'alpha': 0.86, 'beta': -14}"
+0000262_04500_d_0000010.jpg,0000262_04500_d_0000010_bright.jpg,bright,"{'alpha': 1.33, 'beta': 72}"
+0000262_04500_d_0000010.jpg,0000262_04500_d_0000010_lowcontrast.jpg,lowcontrast,"{'alpha': 0.65, 'mean': np.float64(149.84)}"
+0000262_04500_d_0000010.jpg,0000262_04500_d_0000010_noise.jpg,noise,{'sigma': 10}
+0000262_05000_d_0000011.jpg,0000262_05000_d_0000011_original.jpg,original,{}
+0000262_05000_d_0000011.jpg,0000262_05000_d_0000011_blur.jpg,blur,{'kernel_size': 11}
+0000262_05000_d_0000011.jpg,0000262_05000_d_0000011_dark.jpg,dark,"{'alpha': 0.85, 'beta': -20}"
+0000262_05000_d_0000011.jpg,0000262_05000_d_0000011_bright.jpg,bright,"{'alpha': 1.21, 'beta': 29}"
+0000262_05000_d_0000011.jpg,0000262_05000_d_0000011_lowcontrast.jpg,lowcontrast,"{'alpha': 0.7, 'mean': np.float64(152.31)}"
+0000262_05000_d_0000011.jpg,0000262_05000_d_0000011_noise.jpg,noise,{'sigma': 9}
+0000274_00000_d_0000001.jpg,0000274_00000_d_0000001_original.jpg,original,{}
+0000274_00000_d_0000001.jpg,0000274_00000_d_0000001_blur.jpg,blur,{'kernel_size': 11}
+0000274_00000_d_0000001.jpg,0000274_00000_d_0000001_dark.jpg,dark,"{'alpha': 0.68, 'beta': -20}"
+0000274_00000_d_0000001.jpg,0000274_00000_d_0000001_bright.jpg,bright,"{'alpha': 1.15, 'beta': 42}"
+0000274_00000_d_0000001.jpg,0000274_00000_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(123.63)}"
+0000274_00000_d_0000001.jpg,0000274_00000_d_0000001_noise.jpg,noise,{'sigma': 8}
+0000274_02500_d_0000006.jpg,0000274_02500_d_0000006_original.jpg,original,{}
+0000274_02500_d_0000006.jpg,0000274_02500_d_0000006_blur.jpg,blur,{'kernel_size': 17}
+0000274_02500_d_0000006.jpg,0000274_02500_d_0000006_dark.jpg,dark,"{'alpha': 0.65, 'beta': -12}"
+0000274_02500_d_0000006.jpg,0000274_02500_d_0000006_bright.jpg,bright,"{'alpha': 1.12, 'beta': 67}"
+0000274_02500_d_0000006.jpg,0000274_02500_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.47, 'mean': np.float64(109.28)}"
+0000274_02500_d_0000006.jpg,0000274_02500_d_0000006_noise.jpg,noise,{'sigma': 6}
+0000274_03000_d_0000007.jpg,0000274_03000_d_0000007_original.jpg,original,{}
+0000274_03000_d_0000007.jpg,0000274_03000_d_0000007_blur.jpg,blur,{'kernel_size': 9}
+0000274_03000_d_0000007.jpg,0000274_03000_d_0000007_dark.jpg,dark,"{'alpha': 0.77, 'beta': -9}"
+0000274_03000_d_0000007.jpg,0000274_03000_d_0000007_bright.jpg,bright,"{'alpha': 1.31, 'beta': 26}"
+0000274_03000_d_0000007.jpg,0000274_03000_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(95.56)}"
+0000274_03000_d_0000007.jpg,0000274_03000_d_0000007_noise.jpg,noise,{'sigma': 8}
+0000274_04000_d_0000009.jpg,0000274_04000_d_0000009_original.jpg,original,{}
+0000274_04000_d_0000009.jpg,0000274_04000_d_0000009_blur.jpg,blur,{'kernel_size': 7}
+0000274_04000_d_0000009.jpg,0000274_04000_d_0000009_dark.jpg,dark,"{'alpha': 0.83, 'beta': -11}"
+0000274_04000_d_0000009.jpg,0000274_04000_d_0000009_bright.jpg,bright,"{'alpha': 1.28, 'beta': 21}"
+0000274_04000_d_0000009.jpg,0000274_04000_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.32, 'mean': np.float64(109.63)}"
+0000274_04000_d_0000009.jpg,0000274_04000_d_0000009_noise.jpg,noise,{'sigma': 12}
+0000274_05000_d_0000011.jpg,0000274_05000_d_0000011_original.jpg,original,{}
+0000274_05000_d_0000011.jpg,0000274_05000_d_0000011_blur.jpg,blur,{'kernel_size': 19}
+0000274_05000_d_0000011.jpg,0000274_05000_d_0000011_dark.jpg,dark,"{'alpha': 0.76, 'beta': -17}"
+0000274_05000_d_0000011.jpg,0000274_05000_d_0000011_bright.jpg,bright,"{'alpha': 1.3, 'beta': 78}"
+0000274_05000_d_0000011.jpg,0000274_05000_d_0000011_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(134.98)}"
+0000274_05000_d_0000011.jpg,0000274_05000_d_0000011_noise.jpg,noise,{'sigma': 6}
+0000274_05500_d_0000012.jpg,0000274_05500_d_0000012_original.jpg,original,{}
+0000274_05500_d_0000012.jpg,0000274_05500_d_0000012_blur.jpg,blur,{'kernel_size': 17}
+0000274_05500_d_0000012.jpg,0000274_05500_d_0000012_dark.jpg,dark,"{'alpha': 0.8, 'beta': -18}"
+0000274_05500_d_0000012.jpg,0000274_05500_d_0000012_bright.jpg,bright,"{'alpha': 1.15, 'beta': 59}"
+0000274_05500_d_0000012.jpg,0000274_05500_d_0000012_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(95.13)}"
+0000274_05500_d_0000012.jpg,0000274_05500_d_0000012_noise.jpg,noise,{'sigma': 10}
+0000292_00000_d_0000001.jpg,0000292_00000_d_0000001_original.jpg,original,{}
+0000292_00000_d_0000001.jpg,0000292_00000_d_0000001_blur.jpg,blur,{'kernel_size': 19}
+0000292_00000_d_0000001.jpg,0000292_00000_d_0000001_dark.jpg,dark,"{'alpha': 0.9, 'beta': -11}"
+0000292_00000_d_0000001.jpg,0000292_00000_d_0000001_bright.jpg,bright,"{'alpha': 1.28, 'beta': 58}"
+0000292_00000_d_0000001.jpg,0000292_00000_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.47, 'mean': np.float64(118.86)}"
+0000292_00000_d_0000001.jpg,0000292_00000_d_0000001_noise.jpg,noise,{'sigma': 6}
+0000292_00500_d_0000002.jpg,0000292_00500_d_0000002_original.jpg,original,{}
+0000292_00500_d_0000002.jpg,0000292_00500_d_0000002_blur.jpg,blur,{'kernel_size': 13}
+0000292_00500_d_0000002.jpg,0000292_00500_d_0000002_dark.jpg,dark,"{'alpha': 0.76, 'beta': -13}"
+0000292_00500_d_0000002.jpg,0000292_00500_d_0000002_bright.jpg,bright,"{'alpha': 1.27, 'beta': 72}"
+0000292_00500_d_0000002.jpg,0000292_00500_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(110.12)}"
+0000292_00500_d_0000002.jpg,0000292_00500_d_0000002_noise.jpg,noise,{'sigma': 11}
+0000292_01500_d_0000004.jpg,0000292_01500_d_0000004_original.jpg,original,{}
+0000292_01500_d_0000004.jpg,0000292_01500_d_0000004_blur.jpg,blur,{'kernel_size': 9}
+0000292_01500_d_0000004.jpg,0000292_01500_d_0000004_dark.jpg,dark,"{'alpha': 0.73, 'beta': -10}"
+0000292_01500_d_0000004.jpg,0000292_01500_d_0000004_bright.jpg,bright,"{'alpha': 1.37, 'beta': 43}"
+0000292_01500_d_0000004.jpg,0000292_01500_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.68, 'mean': np.float64(114.04)}"
+0000292_01500_d_0000004.jpg,0000292_01500_d_0000004_noise.jpg,noise,{'sigma': 12}
+0000292_02000_d_0000005.jpg,0000292_02000_d_0000005_original.jpg,original,{}
+0000292_02000_d_0000005.jpg,0000292_02000_d_0000005_blur.jpg,blur,{'kernel_size': 9}
+0000292_02000_d_0000005.jpg,0000292_02000_d_0000005_dark.jpg,dark,"{'alpha': 0.67, 'beta': -18}"
+0000292_02000_d_0000005.jpg,0000292_02000_d_0000005_bright.jpg,bright,"{'alpha': 1.14, 'beta': 26}"
+0000292_02000_d_0000005.jpg,0000292_02000_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(117.18)}"
+0000292_02000_d_0000005.jpg,0000292_02000_d_0000005_noise.jpg,noise,{'sigma': 10}
+0000292_02500_d_0000006.jpg,0000292_02500_d_0000006_original.jpg,original,{}
+0000292_02500_d_0000006.jpg,0000292_02500_d_0000006_blur.jpg,blur,{'kernel_size': 11}
+0000292_02500_d_0000006.jpg,0000292_02500_d_0000006_dark.jpg,dark,"{'alpha': 0.79, 'beta': -10}"
+0000292_02500_d_0000006.jpg,0000292_02500_d_0000006_bright.jpg,bright,"{'alpha': 1.37, 'beta': 46}"
+0000292_02500_d_0000006.jpg,0000292_02500_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(119.14)}"
+0000292_02500_d_0000006.jpg,0000292_02500_d_0000006_noise.jpg,noise,{'sigma': 11}
+0000292_03000_d_0000007.jpg,0000292_03000_d_0000007_original.jpg,original,{}
+0000292_03000_d_0000007.jpg,0000292_03000_d_0000007_blur.jpg,blur,{'kernel_size': 7}
+0000292_03000_d_0000007.jpg,0000292_03000_d_0000007_dark.jpg,dark,"{'alpha': 0.89, 'beta': -11}"
+0000292_03000_d_0000007.jpg,0000292_03000_d_0000007_bright.jpg,bright,"{'alpha': 1.24, 'beta': 56}"
+0000292_03000_d_0000007.jpg,0000292_03000_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(112.32)}"
+0000292_03000_d_0000007.jpg,0000292_03000_d_0000007_noise.jpg,noise,{'sigma': 7}
+0000292_03500_d_0000008.jpg,0000292_03500_d_0000008_original.jpg,original,{}
+0000292_03500_d_0000008.jpg,0000292_03500_d_0000008_blur.jpg,blur,{'kernel_size': 21}
+0000292_03500_d_0000008.jpg,0000292_03500_d_0000008_dark.jpg,dark,"{'alpha': 0.71, 'beta': -17}"
+0000292_03500_d_0000008.jpg,0000292_03500_d_0000008_bright.jpg,bright,"{'alpha': 1.24, 'beta': 55}"
+0000292_03500_d_0000008.jpg,0000292_03500_d_0000008_lowcontrast.jpg,lowcontrast,"{'alpha': 0.45, 'mean': np.float64(115.81)}"
+0000292_03500_d_0000008.jpg,0000292_03500_d_0000008_noise.jpg,noise,{'sigma': 9}
+0000292_04000_d_0000009.jpg,0000292_04000_d_0000009_original.jpg,original,{}
+0000292_04000_d_0000009.jpg,0000292_04000_d_0000009_blur.jpg,blur,{'kernel_size': 13}
+0000292_04000_d_0000009.jpg,0000292_04000_d_0000009_dark.jpg,dark,"{'alpha': 0.85, 'beta': -20}"
+0000292_04000_d_0000009.jpg,0000292_04000_d_0000009_bright.jpg,bright,"{'alpha': 1.34, 'beta': 62}"
+0000292_04000_d_0000009.jpg,0000292_04000_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(112.47)}"
+0000292_04000_d_0000009.jpg,0000292_04000_d_0000009_noise.jpg,noise,{'sigma': 9}
+0000292_05500_d_0000012.jpg,0000292_05500_d_0000012_original.jpg,original,{}
+0000292_05500_d_0000012.jpg,0000292_05500_d_0000012_blur.jpg,blur,{'kernel_size': 7}
+0000292_05500_d_0000012.jpg,0000292_05500_d_0000012_dark.jpg,dark,"{'alpha': 0.7, 'beta': -11}"
+0000292_05500_d_0000012.jpg,0000292_05500_d_0000012_bright.jpg,bright,"{'alpha': 1.47, 'beta': 42}"
+0000292_05500_d_0000012.jpg,0000292_05500_d_0000012_lowcontrast.jpg,lowcontrast,"{'alpha': 0.3, 'mean': np.float64(111.7)}"
+0000292_05500_d_0000012.jpg,0000292_05500_d_0000012_noise.jpg,noise,{'sigma': 7}
+0000311_00000_d_0000131.jpg,0000311_00000_d_0000131_original.jpg,original,{}
+0000311_00000_d_0000131.jpg,0000311_00000_d_0000131_blur.jpg,blur,{'kernel_size': 19}
+0000311_00000_d_0000131.jpg,0000311_00000_d_0000131_dark.jpg,dark,"{'alpha': 0.67, 'beta': -20}"
+0000311_00000_d_0000131.jpg,0000311_00000_d_0000131_bright.jpg,bright,"{'alpha': 1.14, 'beta': 53}"
+0000311_00000_d_0000131.jpg,0000311_00000_d_0000131_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(107.65)}"
+0000311_00000_d_0000131.jpg,0000311_00000_d_0000131_noise.jpg,noise,{'sigma': 11}
+0000311_00500_d_0000132.jpg,0000311_00500_d_0000132_original.jpg,original,{}
+0000311_00500_d_0000132.jpg,0000311_00500_d_0000132_blur.jpg,blur,{'kernel_size': 21}
+0000311_00500_d_0000132.jpg,0000311_00500_d_0000132_dark.jpg,dark,"{'alpha': 0.74, 'beta': -9}"
+0000311_00500_d_0000132.jpg,0000311_00500_d_0000132_bright.jpg,bright,"{'alpha': 1.22, 'beta': 40}"
+0000311_00500_d_0000132.jpg,0000311_00500_d_0000132_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(96.75)}"
+0000311_00500_d_0000132.jpg,0000311_00500_d_0000132_noise.jpg,noise,{'sigma': 6}
+0000311_01000_d_0000133.jpg,0000311_01000_d_0000133_original.jpg,original,{}
+0000311_01000_d_0000133.jpg,0000311_01000_d_0000133_blur.jpg,blur,{'kernel_size': 7}
+0000311_01000_d_0000133.jpg,0000311_01000_d_0000133_dark.jpg,dark,"{'alpha': 0.69, 'beta': -19}"
+0000311_01000_d_0000133.jpg,0000311_01000_d_0000133_bright.jpg,bright,"{'alpha': 1.37, 'beta': 37}"
+0000311_01000_d_0000133.jpg,0000311_01000_d_0000133_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(117.0)}"
+0000311_01000_d_0000133.jpg,0000311_01000_d_0000133_noise.jpg,noise,{'sigma': 11}
+0000311_01500_d_0000134.jpg,0000311_01500_d_0000134_original.jpg,original,{}
+0000311_01500_d_0000134.jpg,0000311_01500_d_0000134_blur.jpg,blur,{'kernel_size': 21}
+0000311_01500_d_0000134.jpg,0000311_01500_d_0000134_dark.jpg,dark,"{'alpha': 0.8, 'beta': -7}"
+0000311_01500_d_0000134.jpg,0000311_01500_d_0000134_bright.jpg,bright,"{'alpha': 1.21, 'beta': 68}"
+0000311_01500_d_0000134.jpg,0000311_01500_d_0000134_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(122.87)}"
+0000311_01500_d_0000134.jpg,0000311_01500_d_0000134_noise.jpg,noise,{'sigma': 10}
+0000311_02000_d_0000135.jpg,0000311_02000_d_0000135_original.jpg,original,{}
+0000311_02000_d_0000135.jpg,0000311_02000_d_0000135_blur.jpg,blur,{'kernel_size': 19}
+0000311_02000_d_0000135.jpg,0000311_02000_d_0000135_dark.jpg,dark,"{'alpha': 0.68, 'beta': -5}"
+0000311_02000_d_0000135.jpg,0000311_02000_d_0000135_bright.jpg,bright,"{'alpha': 1.31, 'beta': 39}"
+0000311_02000_d_0000135.jpg,0000311_02000_d_0000135_lowcontrast.jpg,lowcontrast,"{'alpha': 0.32, 'mean': np.float64(107.52)}"
+0000311_02000_d_0000135.jpg,0000311_02000_d_0000135_noise.jpg,noise,{'sigma': 11}
+0000311_02500_d_0000136.jpg,0000311_02500_d_0000136_original.jpg,original,{}
+0000311_02500_d_0000136.jpg,0000311_02500_d_0000136_blur.jpg,blur,{'kernel_size': 7}
+0000311_02500_d_0000136.jpg,0000311_02500_d_0000136_dark.jpg,dark,"{'alpha': 0.65, 'beta': -11}"
+0000311_02500_d_0000136.jpg,0000311_02500_d_0000136_bright.jpg,bright,"{'alpha': 1.48, 'beta': 69}"
+0000311_02500_d_0000136.jpg,0000311_02500_d_0000136_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(111.87)}"
+0000311_02500_d_0000136.jpg,0000311_02500_d_0000136_noise.jpg,noise,{'sigma': 9}
+0000311_04500_d_0000140.jpg,0000311_04500_d_0000140_original.jpg,original,{}
+0000311_04500_d_0000140.jpg,0000311_04500_d_0000140_blur.jpg,blur,{'kernel_size': 15}
+0000311_04500_d_0000140.jpg,0000311_04500_d_0000140_dark.jpg,dark,"{'alpha': 0.73, 'beta': -20}"
+0000311_04500_d_0000140.jpg,0000311_04500_d_0000140_bright.jpg,bright,"{'alpha': 1.3, 'beta': 47}"
+0000311_04500_d_0000140.jpg,0000311_04500_d_0000140_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(103.28)}"
+0000311_04500_d_0000140.jpg,0000311_04500_d_0000140_noise.jpg,noise,{'sigma': 11}
+0000311_05000_d_0000141.jpg,0000311_05000_d_0000141_original.jpg,original,{}
+0000311_05000_d_0000141.jpg,0000311_05000_d_0000141_blur.jpg,blur,{'kernel_size': 13}
+0000311_05000_d_0000141.jpg,0000311_05000_d_0000141_dark.jpg,dark,"{'alpha': 0.78, 'beta': -9}"
+0000311_05000_d_0000141.jpg,0000311_05000_d_0000141_bright.jpg,bright,"{'alpha': 1.13, 'beta': 75}"
+0000311_05000_d_0000141.jpg,0000311_05000_d_0000141_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(105.45)}"
+0000311_05000_d_0000141.jpg,0000311_05000_d_0000141_noise.jpg,noise,{'sigma': 11}
+0000319_00000_d_0000147.jpg,0000319_00000_d_0000147_original.jpg,original,{}
+0000319_00000_d_0000147.jpg,0000319_00000_d_0000147_blur.jpg,blur,{'kernel_size': 7}
+0000319_00000_d_0000147.jpg,0000319_00000_d_0000147_dark.jpg,dark,"{'alpha': 0.76, 'beta': -18}"
+0000319_00000_d_0000147.jpg,0000319_00000_d_0000147_bright.jpg,bright,"{'alpha': 1.44, 'beta': 56}"
+0000319_00000_d_0000147.jpg,0000319_00000_d_0000147_lowcontrast.jpg,lowcontrast,"{'alpha': 0.47, 'mean': np.float64(111.08)}"
+0000319_00000_d_0000147.jpg,0000319_00000_d_0000147_noise.jpg,noise,{'sigma': 11}
+0000319_01000_d_0000148.jpg,0000319_01000_d_0000148_original.jpg,original,{}
+0000319_01000_d_0000148.jpg,0000319_01000_d_0000148_blur.jpg,blur,{'kernel_size': 19}
+0000319_01000_d_0000148.jpg,0000319_01000_d_0000148_dark.jpg,dark,"{'alpha': 0.72, 'beta': -8}"
+0000319_01000_d_0000148.jpg,0000319_01000_d_0000148_bright.jpg,bright,"{'alpha': 1.11, 'beta': 40}"
+0000319_01000_d_0000148.jpg,0000319_01000_d_0000148_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(112.06)}"
+0000319_01000_d_0000148.jpg,0000319_01000_d_0000148_noise.jpg,noise,{'sigma': 12}
+0000319_02000_d_0000150.jpg,0000319_02000_d_0000150_original.jpg,original,{}
+0000319_02000_d_0000150.jpg,0000319_02000_d_0000150_blur.jpg,blur,{'kernel_size': 17}
+0000319_02000_d_0000150.jpg,0000319_02000_d_0000150_dark.jpg,dark,"{'alpha': 0.67, 'beta': -17}"
+0000319_02000_d_0000150.jpg,0000319_02000_d_0000150_bright.jpg,bright,"{'alpha': 1.2, 'beta': 57}"
+0000319_02000_d_0000150.jpg,0000319_02000_d_0000150_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(108.15)}"
+0000319_02000_d_0000150.jpg,0000319_02000_d_0000150_noise.jpg,noise,{'sigma': 6}
+0000319_02500_d_0000151.jpg,0000319_02500_d_0000151_original.jpg,original,{}
+0000319_02500_d_0000151.jpg,0000319_02500_d_0000151_blur.jpg,blur,{'kernel_size': 19}
+0000319_02500_d_0000151.jpg,0000319_02500_d_0000151_dark.jpg,dark,"{'alpha': 0.87, 'beta': -10}"
+0000319_02500_d_0000151.jpg,0000319_02500_d_0000151_bright.jpg,bright,"{'alpha': 1.19, 'beta': 69}"
+0000319_02500_d_0000151.jpg,0000319_02500_d_0000151_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(108.71)}"
+0000319_02500_d_0000151.jpg,0000319_02500_d_0000151_noise.jpg,noise,{'sigma': 6}
+0000319_03000_d_0000152.jpg,0000319_03000_d_0000152_original.jpg,original,{}
+0000319_03000_d_0000152.jpg,0000319_03000_d_0000152_blur.jpg,blur,{'kernel_size': 13}
+0000319_03000_d_0000152.jpg,0000319_03000_d_0000152_dark.jpg,dark,"{'alpha': 0.88, 'beta': -9}"
+0000319_03000_d_0000152.jpg,0000319_03000_d_0000152_bright.jpg,bright,"{'alpha': 1.24, 'beta': 72}"
+0000319_03000_d_0000152.jpg,0000319_03000_d_0000152_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(117.16)}"
+0000319_03000_d_0000152.jpg,0000319_03000_d_0000152_noise.jpg,noise,{'sigma': 7}
+0000319_03500_d_0000153.jpg,0000319_03500_d_0000153_original.jpg,original,{}
+0000319_03500_d_0000153.jpg,0000319_03500_d_0000153_blur.jpg,blur,{'kernel_size': 13}
+0000319_03500_d_0000153.jpg,0000319_03500_d_0000153_dark.jpg,dark,"{'alpha': 0.68, 'beta': -12}"
+0000319_03500_d_0000153.jpg,0000319_03500_d_0000153_bright.jpg,bright,"{'alpha': 1.18, 'beta': 58}"
+0000319_03500_d_0000153.jpg,0000319_03500_d_0000153_lowcontrast.jpg,lowcontrast,"{'alpha': 0.36, 'mean': np.float64(139.33)}"
+0000319_03500_d_0000153.jpg,0000319_03500_d_0000153_noise.jpg,noise,{'sigma': 6}
+0000319_04000_d_0000154.jpg,0000319_04000_d_0000154_original.jpg,original,{}
+0000319_04000_d_0000154.jpg,0000319_04000_d_0000154_blur.jpg,blur,{'kernel_size': 11}
+0000319_04000_d_0000154.jpg,0000319_04000_d_0000154_dark.jpg,dark,"{'alpha': 0.89, 'beta': -5}"
+0000319_04000_d_0000154.jpg,0000319_04000_d_0000154_bright.jpg,bright,"{'alpha': 1.29, 'beta': 56}"
+0000319_04000_d_0000154.jpg,0000319_04000_d_0000154_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(123.79)}"
+0000319_04000_d_0000154.jpg,0000319_04000_d_0000154_noise.jpg,noise,{'sigma': 12}
+0000319_04500_d_0000155.jpg,0000319_04500_d_0000155_original.jpg,original,{}
+0000319_04500_d_0000155.jpg,0000319_04500_d_0000155_blur.jpg,blur,{'kernel_size': 17}
+0000319_04500_d_0000155.jpg,0000319_04500_d_0000155_dark.jpg,dark,"{'alpha': 0.87, 'beta': -10}"
+0000319_04500_d_0000155.jpg,0000319_04500_d_0000155_bright.jpg,bright,"{'alpha': 1.16, 'beta': 24}"
+0000319_04500_d_0000155.jpg,0000319_04500_d_0000155_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(118.49)}"
+0000319_04500_d_0000155.jpg,0000319_04500_d_0000155_noise.jpg,noise,{'sigma': 9}
+0000319_04999_d_0000156.jpg,0000319_04999_d_0000156_original.jpg,original,{}
+0000319_04999_d_0000156.jpg,0000319_04999_d_0000156_blur.jpg,blur,{'kernel_size': 15}
+0000319_04999_d_0000156.jpg,0000319_04999_d_0000156_dark.jpg,dark,"{'alpha': 0.8, 'beta': -9}"
+0000319_04999_d_0000156.jpg,0000319_04999_d_0000156_bright.jpg,bright,"{'alpha': 1.3, 'beta': 39}"
+0000319_04999_d_0000156.jpg,0000319_04999_d_0000156_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(125.89)}"
+0000319_04999_d_0000156.jpg,0000319_04999_d_0000156_noise.jpg,noise,{'sigma': 5}
+0000324_00000_d_0000157.jpg,0000324_00000_d_0000157_original.jpg,original,{}
+0000324_00000_d_0000157.jpg,0000324_00000_d_0000157_blur.jpg,blur,{'kernel_size': 7}
+0000324_00000_d_0000157.jpg,0000324_00000_d_0000157_dark.jpg,dark,"{'alpha': 0.74, 'beta': -11}"
+0000324_00000_d_0000157.jpg,0000324_00000_d_0000157_bright.jpg,bright,"{'alpha': 1.13, 'beta': 75}"
+0000324_00000_d_0000157.jpg,0000324_00000_d_0000157_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(106.68)}"
+0000324_00000_d_0000157.jpg,0000324_00000_d_0000157_noise.jpg,noise,{'sigma': 6}
+0000324_00500_d_0000158.jpg,0000324_00500_d_0000158_original.jpg,original,{}
+0000324_00500_d_0000158.jpg,0000324_00500_d_0000158_blur.jpg,blur,{'kernel_size': 19}
+0000324_00500_d_0000158.jpg,0000324_00500_d_0000158_dark.jpg,dark,"{'alpha': 0.77, 'beta': -19}"
+0000324_00500_d_0000158.jpg,0000324_00500_d_0000158_bright.jpg,bright,"{'alpha': 1.28, 'beta': 71}"
+0000324_00500_d_0000158.jpg,0000324_00500_d_0000158_lowcontrast.jpg,lowcontrast,"{'alpha': 0.53, 'mean': np.float64(93.72)}"
+0000324_00500_d_0000158.jpg,0000324_00500_d_0000158_noise.jpg,noise,{'sigma': 8}
+0000324_01000_d_0000159.jpg,0000324_01000_d_0000159_original.jpg,original,{}
+0000324_01000_d_0000159.jpg,0000324_01000_d_0000159_blur.jpg,blur,{'kernel_size': 17}
+0000324_01000_d_0000159.jpg,0000324_01000_d_0000159_dark.jpg,dark,"{'alpha': 0.8, 'beta': -16}"
+0000324_01000_d_0000159.jpg,0000324_01000_d_0000159_bright.jpg,bright,"{'alpha': 1.48, 'beta': 48}"
+0000324_01000_d_0000159.jpg,0000324_01000_d_0000159_lowcontrast.jpg,lowcontrast,"{'alpha': 0.34, 'mean': np.float64(115.45)}"
+0000324_01000_d_0000159.jpg,0000324_01000_d_0000159_noise.jpg,noise,{'sigma': 10}
+0000324_01500_d_0000160.jpg,0000324_01500_d_0000160_original.jpg,original,{}
+0000324_01500_d_0000160.jpg,0000324_01500_d_0000160_blur.jpg,blur,{'kernel_size': 9}
+0000324_01500_d_0000160.jpg,0000324_01500_d_0000160_dark.jpg,dark,"{'alpha': 0.78, 'beta': -15}"
+0000324_01500_d_0000160.jpg,0000324_01500_d_0000160_bright.jpg,bright,"{'alpha': 1.12, 'beta': 65}"
+0000324_01500_d_0000160.jpg,0000324_01500_d_0000160_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(118.17)}"
+0000324_01500_d_0000160.jpg,0000324_01500_d_0000160_noise.jpg,noise,{'sigma': 12}
+0000324_02000_d_0000161.jpg,0000324_02000_d_0000161_original.jpg,original,{}
+0000324_02000_d_0000161.jpg,0000324_02000_d_0000161_blur.jpg,blur,{'kernel_size': 11}
+0000324_02000_d_0000161.jpg,0000324_02000_d_0000161_dark.jpg,dark,"{'alpha': 0.74, 'beta': -11}"
+0000324_02000_d_0000161.jpg,0000324_02000_d_0000161_bright.jpg,bright,"{'alpha': 1.25, 'beta': 69}"
+0000324_02000_d_0000161.jpg,0000324_02000_d_0000161_lowcontrast.jpg,lowcontrast,"{'alpha': 0.44, 'mean': np.float64(131.08)}"
+0000324_02000_d_0000161.jpg,0000324_02000_d_0000161_noise.jpg,noise,{'sigma': 5}
+0000324_02500_d_0000162.jpg,0000324_02500_d_0000162_original.jpg,original,{}
+0000324_02500_d_0000162.jpg,0000324_02500_d_0000162_blur.jpg,blur,{'kernel_size': 17}
+0000324_02500_d_0000162.jpg,0000324_02500_d_0000162_dark.jpg,dark,"{'alpha': 0.67, 'beta': -17}"
+0000324_02500_d_0000162.jpg,0000324_02500_d_0000162_bright.jpg,bright,"{'alpha': 1.32, 'beta': 44}"
+0000324_02500_d_0000162.jpg,0000324_02500_d_0000162_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(121.15)}"
+0000324_02500_d_0000162.jpg,0000324_02500_d_0000162_noise.jpg,noise,{'sigma': 7}
+0000332_00450_d_0000027.jpg,0000332_00450_d_0000027_original.jpg,original,{}
+0000332_00450_d_0000027.jpg,0000332_00450_d_0000027_blur.jpg,blur,{'kernel_size': 17}
+0000332_00450_d_0000027.jpg,0000332_00450_d_0000027_dark.jpg,dark,"{'alpha': 0.67, 'beta': -16}"
+0000332_00450_d_0000027.jpg,0000332_00450_d_0000027_bright.jpg,bright,"{'alpha': 1.47, 'beta': 39}"
+0000332_00450_d_0000027.jpg,0000332_00450_d_0000027_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(124.23)}"
+0000332_00450_d_0000027.jpg,0000332_00450_d_0000027_noise.jpg,noise,{'sigma': 11}
+0000332_00600_d_0000028.jpg,0000332_00600_d_0000028_original.jpg,original,{}
+0000332_00600_d_0000028.jpg,0000332_00600_d_0000028_blur.jpg,blur,{'kernel_size': 11}
+0000332_00600_d_0000028.jpg,0000332_00600_d_0000028_dark.jpg,dark,"{'alpha': 0.8, 'beta': -18}"
+0000332_00600_d_0000028.jpg,0000332_00600_d_0000028_bright.jpg,bright,"{'alpha': 1.22, 'beta': 44}"
+0000332_00600_d_0000028.jpg,0000332_00600_d_0000028_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(119.67)}"
+0000332_00600_d_0000028.jpg,0000332_00600_d_0000028_noise.jpg,noise,{'sigma': 10}
+0000332_00750_d_0000029.jpg,0000332_00750_d_0000029_original.jpg,original,{}
+0000332_00750_d_0000029.jpg,0000332_00750_d_0000029_blur.jpg,blur,{'kernel_size': 11}
+0000332_00750_d_0000029.jpg,0000332_00750_d_0000029_dark.jpg,dark,"{'alpha': 0.82, 'beta': -18}"
+0000332_00750_d_0000029.jpg,0000332_00750_d_0000029_bright.jpg,bright,"{'alpha': 1.36, 'beta': 47}"
+0000332_00750_d_0000029.jpg,0000332_00750_d_0000029_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(117.38)}"
+0000332_00750_d_0000029.jpg,0000332_00750_d_0000029_noise.jpg,noise,{'sigma': 5}
+0000332_01624_d_0000032.jpg,0000332_01624_d_0000032_original.jpg,original,{}
+0000332_01624_d_0000032.jpg,0000332_01624_d_0000032_blur.jpg,blur,{'kernel_size': 17}
+0000332_01624_d_0000032.jpg,0000332_01624_d_0000032_dark.jpg,dark,"{'alpha': 0.73, 'beta': -14}"
+0000332_01624_d_0000032.jpg,0000332_01624_d_0000032_bright.jpg,bright,"{'alpha': 1.24, 'beta': 69}"
+0000332_01624_d_0000032.jpg,0000332_01624_d_0000032_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(118.27)}"
+0000332_01624_d_0000032.jpg,0000332_01624_d_0000032_noise.jpg,noise,{'sigma': 8}
+0000332_02382_d_0000034.jpg,0000332_02382_d_0000034_original.jpg,original,{}
+0000332_02382_d_0000034.jpg,0000332_02382_d_0000034_blur.jpg,blur,{'kernel_size': 11}
+0000332_02382_d_0000034.jpg,0000332_02382_d_0000034_dark.jpg,dark,"{'alpha': 0.69, 'beta': -11}"
+0000332_02382_d_0000034.jpg,0000332_02382_d_0000034_bright.jpg,bright,"{'alpha': 1.44, 'beta': 26}"
+0000332_02382_d_0000034.jpg,0000332_02382_d_0000034_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(112.21)}"
+0000332_02382_d_0000034.jpg,0000332_02382_d_0000034_noise.jpg,noise,{'sigma': 5}
+0000332_02809_d_0000035.jpg,0000332_02809_d_0000035_original.jpg,original,{}
+0000332_02809_d_0000035.jpg,0000332_02809_d_0000035_blur.jpg,blur,{'kernel_size': 17}
+0000332_02809_d_0000035.jpg,0000332_02809_d_0000035_dark.jpg,dark,"{'alpha': 0.87, 'beta': -16}"
+0000332_02809_d_0000035.jpg,0000332_02809_d_0000035_bright.jpg,bright,"{'alpha': 1.34, 'beta': 29}"
+0000332_02809_d_0000035.jpg,0000332_02809_d_0000035_lowcontrast.jpg,lowcontrast,"{'alpha': 0.36, 'mean': np.float64(117.33)}"
+0000332_02809_d_0000035.jpg,0000332_02809_d_0000035_noise.jpg,noise,{'sigma': 7}
+0000340_00000_d_0000163.jpg,0000340_00000_d_0000163_original.jpg,original,{}
+0000340_00000_d_0000163.jpg,0000340_00000_d_0000163_blur.jpg,blur,{'kernel_size': 21}
+0000340_00000_d_0000163.jpg,0000340_00000_d_0000163_dark.jpg,dark,"{'alpha': 0.66, 'beta': -9}"
+0000340_00000_d_0000163.jpg,0000340_00000_d_0000163_bright.jpg,bright,"{'alpha': 1.37, 'beta': 35}"
+0000340_00000_d_0000163.jpg,0000340_00000_d_0000163_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(118.41)}"
+0000340_00000_d_0000163.jpg,0000340_00000_d_0000163_noise.jpg,noise,{'sigma': 9}
+0000340_00500_d_0000164.jpg,0000340_00500_d_0000164_original.jpg,original,{}
+0000340_00500_d_0000164.jpg,0000340_00500_d_0000164_blur.jpg,blur,{'kernel_size': 21}
+0000340_00500_d_0000164.jpg,0000340_00500_d_0000164_dark.jpg,dark,"{'alpha': 0.71, 'beta': -13}"
+0000340_00500_d_0000164.jpg,0000340_00500_d_0000164_bright.jpg,bright,"{'alpha': 1.22, 'beta': 71}"
+0000340_00500_d_0000164.jpg,0000340_00500_d_0000164_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(120.34)}"
+0000340_00500_d_0000164.jpg,0000340_00500_d_0000164_noise.jpg,noise,{'sigma': 8}
+0000340_01000_d_0000165.jpg,0000340_01000_d_0000165_original.jpg,original,{}
+0000340_01000_d_0000165.jpg,0000340_01000_d_0000165_blur.jpg,blur,{'kernel_size': 17}
+0000340_01000_d_0000165.jpg,0000340_01000_d_0000165_dark.jpg,dark,"{'alpha': 0.82, 'beta': -6}"
+0000340_01000_d_0000165.jpg,0000340_01000_d_0000165_bright.jpg,bright,"{'alpha': 1.28, 'beta': 38}"
+0000340_01000_d_0000165.jpg,0000340_01000_d_0000165_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(117.66)}"
+0000340_01000_d_0000165.jpg,0000340_01000_d_0000165_noise.jpg,noise,{'sigma': 11}
+0000340_01500_d_0000166.jpg,0000340_01500_d_0000166_original.jpg,original,{}
+0000340_01500_d_0000166.jpg,0000340_01500_d_0000166_blur.jpg,blur,{'kernel_size': 11}
+0000340_01500_d_0000166.jpg,0000340_01500_d_0000166_dark.jpg,dark,"{'alpha': 0.85, 'beta': -16}"
+0000340_01500_d_0000166.jpg,0000340_01500_d_0000166_bright.jpg,bright,"{'alpha': 1.45, 'beta': 23}"
+0000340_01500_d_0000166.jpg,0000340_01500_d_0000166_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(120.38)}"
+0000340_01500_d_0000166.jpg,0000340_01500_d_0000166_noise.jpg,noise,{'sigma': 10}
+0000340_02500_d_0000168.jpg,0000340_02500_d_0000168_original.jpg,original,{}
+0000340_02500_d_0000168.jpg,0000340_02500_d_0000168_blur.jpg,blur,{'kernel_size': 9}
+0000340_02500_d_0000168.jpg,0000340_02500_d_0000168_dark.jpg,dark,"{'alpha': 0.83, 'beta': -17}"
+0000340_02500_d_0000168.jpg,0000340_02500_d_0000168_bright.jpg,bright,"{'alpha': 1.21, 'beta': 68}"
+0000340_02500_d_0000168.jpg,0000340_02500_d_0000168_lowcontrast.jpg,lowcontrast,"{'alpha': 0.36, 'mean': np.float64(104.79)}"
+0000340_02500_d_0000168.jpg,0000340_02500_d_0000168_noise.jpg,noise,{'sigma': 12}
+0000340_03000_d_0000169.jpg,0000340_03000_d_0000169_original.jpg,original,{}
+0000340_03000_d_0000169.jpg,0000340_03000_d_0000169_blur.jpg,blur,{'kernel_size': 11}
+0000340_03000_d_0000169.jpg,0000340_03000_d_0000169_dark.jpg,dark,"{'alpha': 0.86, 'beta': -18}"
+0000340_03000_d_0000169.jpg,0000340_03000_d_0000169_bright.jpg,bright,"{'alpha': 1.48, 'beta': 34}"
+0000340_03000_d_0000169.jpg,0000340_03000_d_0000169_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(103.02)}"
+0000340_03000_d_0000169.jpg,0000340_03000_d_0000169_noise.jpg,noise,{'sigma': 10}
+0000340_03500_d_0000170.jpg,0000340_03500_d_0000170_original.jpg,original,{}
+0000340_03500_d_0000170.jpg,0000340_03500_d_0000170_blur.jpg,blur,{'kernel_size': 7}
+0000340_03500_d_0000170.jpg,0000340_03500_d_0000170_dark.jpg,dark,"{'alpha': 0.75, 'beta': -8}"
+0000340_03500_d_0000170.jpg,0000340_03500_d_0000170_bright.jpg,bright,"{'alpha': 1.3, 'beta': 35}"
+0000340_03500_d_0000170.jpg,0000340_03500_d_0000170_lowcontrast.jpg,lowcontrast,"{'alpha': 0.45, 'mean': np.float64(118.69)}"
+0000340_03500_d_0000170.jpg,0000340_03500_d_0000170_noise.jpg,noise,{'sigma': 6}
+0000340_03991_d_0000171.jpg,0000340_03991_d_0000171_original.jpg,original,{}
+0000340_03991_d_0000171.jpg,0000340_03991_d_0000171_blur.jpg,blur,{'kernel_size': 17}
+0000340_03991_d_0000171.jpg,0000340_03991_d_0000171_dark.jpg,dark,"{'alpha': 0.71, 'beta': -10}"
+0000340_03991_d_0000171.jpg,0000340_03991_d_0000171_bright.jpg,bright,"{'alpha': 1.47, 'beta': 73}"
+0000340_03991_d_0000171.jpg,0000340_03991_d_0000171_lowcontrast.jpg,lowcontrast,"{'alpha': 0.59, 'mean': np.float64(123.8)}"
+0000340_03991_d_0000171.jpg,0000340_03991_d_0000171_noise.jpg,noise,{'sigma': 10}
+0000350_00000_d_0000172.jpg,0000350_00000_d_0000172_original.jpg,original,{}
+0000350_00000_d_0000172.jpg,0000350_00000_d_0000172_blur.jpg,blur,{'kernel_size': 11}
+0000350_00000_d_0000172.jpg,0000350_00000_d_0000172_dark.jpg,dark,"{'alpha': 0.68, 'beta': -11}"
+0000350_00000_d_0000172.jpg,0000350_00000_d_0000172_bright.jpg,bright,"{'alpha': 1.47, 'beta': 50}"
+0000350_00000_d_0000172.jpg,0000350_00000_d_0000172_lowcontrast.jpg,lowcontrast,"{'alpha': 0.58, 'mean': np.float64(94.89)}"
+0000350_00000_d_0000172.jpg,0000350_00000_d_0000172_noise.jpg,noise,{'sigma': 7}
+0000350_00500_d_0000173.jpg,0000350_00500_d_0000173_original.jpg,original,{}
+0000350_00500_d_0000173.jpg,0000350_00500_d_0000173_blur.jpg,blur,{'kernel_size': 21}
+0000350_00500_d_0000173.jpg,0000350_00500_d_0000173_dark.jpg,dark,"{'alpha': 0.76, 'beta': -20}"
+0000350_00500_d_0000173.jpg,0000350_00500_d_0000173_bright.jpg,bright,"{'alpha': 1.46, 'beta': 21}"
+0000350_00500_d_0000173.jpg,0000350_00500_d_0000173_lowcontrast.jpg,lowcontrast,"{'alpha': 0.4, 'mean': np.float64(133.21)}"
+0000350_00500_d_0000173.jpg,0000350_00500_d_0000173_noise.jpg,noise,{'sigma': 7}
+0000350_01000_d_0000174.jpg,0000350_01000_d_0000174_original.jpg,original,{}
+0000350_01000_d_0000174.jpg,0000350_01000_d_0000174_blur.jpg,blur,{'kernel_size': 19}
+0000350_01000_d_0000174.jpg,0000350_01000_d_0000174_dark.jpg,dark,"{'alpha': 0.68, 'beta': -11}"
+0000350_01000_d_0000174.jpg,0000350_01000_d_0000174_bright.jpg,bright,"{'alpha': 1.2, 'beta': 27}"
+0000350_01000_d_0000174.jpg,0000350_01000_d_0000174_lowcontrast.jpg,lowcontrast,"{'alpha': 0.32, 'mean': np.float64(116.52)}"
+0000350_01000_d_0000174.jpg,0000350_01000_d_0000174_noise.jpg,noise,{'sigma': 11}
+0000350_01500_d_0000175.jpg,0000350_01500_d_0000175_original.jpg,original,{}
+0000350_01500_d_0000175.jpg,0000350_01500_d_0000175_blur.jpg,blur,{'kernel_size': 21}
+0000350_01500_d_0000175.jpg,0000350_01500_d_0000175_dark.jpg,dark,"{'alpha': 0.67, 'beta': -5}"
+0000350_01500_d_0000175.jpg,0000350_01500_d_0000175_bright.jpg,bright,"{'alpha': 1.34, 'beta': 21}"
+0000350_01500_d_0000175.jpg,0000350_01500_d_0000175_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(115.38)}"
+0000350_01500_d_0000175.jpg,0000350_01500_d_0000175_noise.jpg,noise,{'sigma': 8}
+0000350_02000_d_0000176.jpg,0000350_02000_d_0000176_original.jpg,original,{}
+0000350_02000_d_0000176.jpg,0000350_02000_d_0000176_blur.jpg,blur,{'kernel_size': 11}
+0000350_02000_d_0000176.jpg,0000350_02000_d_0000176_dark.jpg,dark,"{'alpha': 0.72, 'beta': -20}"
+0000350_02000_d_0000176.jpg,0000350_02000_d_0000176_bright.jpg,bright,"{'alpha': 1.35, 'beta': 35}"
+0000350_02000_d_0000176.jpg,0000350_02000_d_0000176_lowcontrast.jpg,lowcontrast,"{'alpha': 0.53, 'mean': np.float64(120.73)}"
+0000350_02000_d_0000176.jpg,0000350_02000_d_0000176_noise.jpg,noise,{'sigma': 7}
+0000350_02500_d_0000177.jpg,0000350_02500_d_0000177_original.jpg,original,{}
+0000350_02500_d_0000177.jpg,0000350_02500_d_0000177_blur.jpg,blur,{'kernel_size': 9}
+0000350_02500_d_0000177.jpg,0000350_02500_d_0000177_dark.jpg,dark,"{'alpha': 0.78, 'beta': -9}"
+0000350_02500_d_0000177.jpg,0000350_02500_d_0000177_bright.jpg,bright,"{'alpha': 1.13, 'beta': 53}"
+0000350_02500_d_0000177.jpg,0000350_02500_d_0000177_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(107.55)}"
+0000350_02500_d_0000177.jpg,0000350_02500_d_0000177_noise.jpg,noise,{'sigma': 5}
+0000350_03000_d_0000178.jpg,0000350_03000_d_0000178_original.jpg,original,{}
+0000350_03000_d_0000178.jpg,0000350_03000_d_0000178_blur.jpg,blur,{'kernel_size': 19}
+0000350_03000_d_0000178.jpg,0000350_03000_d_0000178_dark.jpg,dark,"{'alpha': 0.87, 'beta': -19}"
+0000350_03000_d_0000178.jpg,0000350_03000_d_0000178_bright.jpg,bright,"{'alpha': 1.35, 'beta': 43}"
+0000350_03000_d_0000178.jpg,0000350_03000_d_0000178_lowcontrast.jpg,lowcontrast,"{'alpha': 0.4, 'mean': np.float64(124.56)}"
+0000350_03000_d_0000178.jpg,0000350_03000_d_0000178_noise.jpg,noise,{'sigma': 5}
+0000350_03500_d_0000179.jpg,0000350_03500_d_0000179_original.jpg,original,{}
+0000350_03500_d_0000179.jpg,0000350_03500_d_0000179_blur.jpg,blur,{'kernel_size': 17}
+0000350_03500_d_0000179.jpg,0000350_03500_d_0000179_dark.jpg,dark,"{'alpha': 0.85, 'beta': -9}"
+0000350_03500_d_0000179.jpg,0000350_03500_d_0000179_bright.jpg,bright,"{'alpha': 1.2, 'beta': 62}"
+0000350_03500_d_0000179.jpg,0000350_03500_d_0000179_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(132.08)}"
+0000350_03500_d_0000179.jpg,0000350_03500_d_0000179_noise.jpg,noise,{'sigma': 10}
+0000350_04000_d_0000180.jpg,0000350_04000_d_0000180_original.jpg,original,{}
+0000350_04000_d_0000180.jpg,0000350_04000_d_0000180_blur.jpg,blur,{'kernel_size': 11}
+0000350_04000_d_0000180.jpg,0000350_04000_d_0000180_dark.jpg,dark,"{'alpha': 0.66, 'beta': -10}"
+0000350_04000_d_0000180.jpg,0000350_04000_d_0000180_bright.jpg,bright,"{'alpha': 1.43, 'beta': 31}"
+0000350_04000_d_0000180.jpg,0000350_04000_d_0000180_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(143.49)}"
+0000350_04000_d_0000180.jpg,0000350_04000_d_0000180_noise.jpg,noise,{'sigma': 12}
+0000350_04500_d_0000181.jpg,0000350_04500_d_0000181_original.jpg,original,{}
+0000350_04500_d_0000181.jpg,0000350_04500_d_0000181_blur.jpg,blur,{'kernel_size': 21}
+0000350_04500_d_0000181.jpg,0000350_04500_d_0000181_dark.jpg,dark,"{'alpha': 0.81, 'beta': -16}"
+0000350_04500_d_0000181.jpg,0000350_04500_d_0000181_bright.jpg,bright,"{'alpha': 1.13, 'beta': 69}"
+0000350_04500_d_0000181.jpg,0000350_04500_d_0000181_lowcontrast.jpg,lowcontrast,"{'alpha': 0.68, 'mean': np.float64(116.75)}"
+0000350_04500_d_0000181.jpg,0000350_04500_d_0000181_noise.jpg,noise,{'sigma': 5}
+0000350_05500_d_0000183.jpg,0000350_05500_d_0000183_original.jpg,original,{}
+0000350_05500_d_0000183.jpg,0000350_05500_d_0000183_blur.jpg,blur,{'kernel_size': 15}
+0000350_05500_d_0000183.jpg,0000350_05500_d_0000183_dark.jpg,dark,"{'alpha': 0.7, 'beta': -14}"
+0000350_05500_d_0000183.jpg,0000350_05500_d_0000183_bright.jpg,bright,"{'alpha': 1.45, 'beta': 40}"
+0000350_05500_d_0000183.jpg,0000350_05500_d_0000183_lowcontrast.jpg,lowcontrast,"{'alpha': 0.67, 'mean': np.float64(116.54)}"
+0000350_05500_d_0000183.jpg,0000350_05500_d_0000183_noise.jpg,noise,{'sigma': 11}
+0000350_06000_d_0000184.jpg,0000350_06000_d_0000184_original.jpg,original,{}
+0000350_06000_d_0000184.jpg,0000350_06000_d_0000184_blur.jpg,blur,{'kernel_size': 21}
+0000350_06000_d_0000184.jpg,0000350_06000_d_0000184_dark.jpg,dark,"{'alpha': 0.71, 'beta': -14}"
+0000350_06000_d_0000184.jpg,0000350_06000_d_0000184_bright.jpg,bright,"{'alpha': 1.21, 'beta': 75}"
+0000350_06000_d_0000184.jpg,0000350_06000_d_0000184_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(112.42)}"
+0000350_06000_d_0000184.jpg,0000350_06000_d_0000184_noise.jpg,noise,{'sigma': 10}
+0000350_06500_d_0000185.jpg,0000350_06500_d_0000185_original.jpg,original,{}
+0000350_06500_d_0000185.jpg,0000350_06500_d_0000185_blur.jpg,blur,{'kernel_size': 15}
+0000350_06500_d_0000185.jpg,0000350_06500_d_0000185_dark.jpg,dark,"{'alpha': 0.68, 'beta': -9}"
+0000350_06500_d_0000185.jpg,0000350_06500_d_0000185_bright.jpg,bright,"{'alpha': 1.27, 'beta': 45}"
+0000350_06500_d_0000185.jpg,0000350_06500_d_0000185_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(123.57)}"
+0000350_06500_d_0000185.jpg,0000350_06500_d_0000185_noise.jpg,noise,{'sigma': 11}
+0000350_07000_d_0000186.jpg,0000350_07000_d_0000186_original.jpg,original,{}
+0000350_07000_d_0000186.jpg,0000350_07000_d_0000186_blur.jpg,blur,{'kernel_size': 17}
+0000350_07000_d_0000186.jpg,0000350_07000_d_0000186_dark.jpg,dark,"{'alpha': 0.89, 'beta': -5}"
+0000350_07000_d_0000186.jpg,0000350_07000_d_0000186_bright.jpg,bright,"{'alpha': 1.38, 'beta': 43}"
+0000350_07000_d_0000186.jpg,0000350_07000_d_0000186_lowcontrast.jpg,lowcontrast,"{'alpha': 0.67, 'mean': np.float64(123.7)}"
+0000350_07000_d_0000186.jpg,0000350_07000_d_0000186_noise.jpg,noise,{'sigma': 9}
+0000350_07500_d_0000187.jpg,0000350_07500_d_0000187_original.jpg,original,{}
+0000350_07500_d_0000187.jpg,0000350_07500_d_0000187_blur.jpg,blur,{'kernel_size': 9}
+0000350_07500_d_0000187.jpg,0000350_07500_d_0000187_dark.jpg,dark,"{'alpha': 0.83, 'beta': -18}"
+0000350_07500_d_0000187.jpg,0000350_07500_d_0000187_bright.jpg,bright,"{'alpha': 1.27, 'beta': 72}"
+0000350_07500_d_0000187.jpg,0000350_07500_d_0000187_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(132.78)}"
+0000350_07500_d_0000187.jpg,0000350_07500_d_0000187_noise.jpg,noise,{'sigma': 9}
+0000354_00000_d_0000201.jpg,0000354_00000_d_0000201_original.jpg,original,{}
+0000354_00000_d_0000201.jpg,0000354_00000_d_0000201_blur.jpg,blur,{'kernel_size': 17}
+0000354_00000_d_0000201.jpg,0000354_00000_d_0000201_dark.jpg,dark,"{'alpha': 0.68, 'beta': -10}"
+0000354_00000_d_0000201.jpg,0000354_00000_d_0000201_bright.jpg,bright,"{'alpha': 1.36, 'beta': 39}"
+0000354_00000_d_0000201.jpg,0000354_00000_d_0000201_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(114.45)}"
+0000354_00000_d_0000201.jpg,0000354_00000_d_0000201_noise.jpg,noise,{'sigma': 11}
+0000354_00500_d_0000202.jpg,0000354_00500_d_0000202_original.jpg,original,{}
+0000354_00500_d_0000202.jpg,0000354_00500_d_0000202_blur.jpg,blur,{'kernel_size': 11}
+0000354_00500_d_0000202.jpg,0000354_00500_d_0000202_dark.jpg,dark,"{'alpha': 0.82, 'beta': -9}"
+0000354_00500_d_0000202.jpg,0000354_00500_d_0000202_bright.jpg,bright,"{'alpha': 1.28, 'beta': 66}"
+0000354_00500_d_0000202.jpg,0000354_00500_d_0000202_lowcontrast.jpg,lowcontrast,"{'alpha': 0.65, 'mean': np.float64(115.61)}"
+0000354_00500_d_0000202.jpg,0000354_00500_d_0000202_noise.jpg,noise,{'sigma': 10}
+0000354_01000_d_0000203.jpg,0000354_01000_d_0000203_original.jpg,original,{}
+0000354_01000_d_0000203.jpg,0000354_01000_d_0000203_blur.jpg,blur,{'kernel_size': 19}
+0000354_01000_d_0000203.jpg,0000354_01000_d_0000203_dark.jpg,dark,"{'alpha': 0.72, 'beta': -19}"
+0000354_01000_d_0000203.jpg,0000354_01000_d_0000203_bright.jpg,bright,"{'alpha': 1.13, 'beta': 60}"
+0000354_01000_d_0000203.jpg,0000354_01000_d_0000203_lowcontrast.jpg,lowcontrast,"{'alpha': 0.46, 'mean': np.float64(120.27)}"
+0000354_01000_d_0000203.jpg,0000354_01000_d_0000203_noise.jpg,noise,{'sigma': 7}
+0000362_00000_d_0000212.jpg,0000362_00000_d_0000212_original.jpg,original,{}
+0000362_00000_d_0000212.jpg,0000362_00000_d_0000212_blur.jpg,blur,{'kernel_size': 7}
+0000362_00000_d_0000212.jpg,0000362_00000_d_0000212_dark.jpg,dark,"{'alpha': 0.69, 'beta': -6}"
+0000362_00000_d_0000212.jpg,0000362_00000_d_0000212_bright.jpg,bright,"{'alpha': 1.11, 'beta': 24}"
+0000362_00000_d_0000212.jpg,0000362_00000_d_0000212_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(153.51)}"
+0000362_00000_d_0000212.jpg,0000362_00000_d_0000212_noise.jpg,noise,{'sigma': 10}
+0000362_00050_d_0000213.jpg,0000362_00050_d_0000213_original.jpg,original,{}
+0000362_00050_d_0000213.jpg,0000362_00050_d_0000213_blur.jpg,blur,{'kernel_size': 17}
+0000362_00050_d_0000213.jpg,0000362_00050_d_0000213_dark.jpg,dark,"{'alpha': 0.75, 'beta': -19}"
+0000362_00050_d_0000213.jpg,0000362_00050_d_0000213_bright.jpg,bright,"{'alpha': 1.34, 'beta': 63}"
+0000362_00050_d_0000213.jpg,0000362_00050_d_0000213_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(156.89)}"
+0000362_00050_d_0000213.jpg,0000362_00050_d_0000213_noise.jpg,noise,{'sigma': 10}
+0000362_01500_d_0000215.jpg,0000362_01500_d_0000215_original.jpg,original,{}
+0000362_01500_d_0000215.jpg,0000362_01500_d_0000215_blur.jpg,blur,{'kernel_size': 17}
+0000362_01500_d_0000215.jpg,0000362_01500_d_0000215_dark.jpg,dark,"{'alpha': 0.76, 'beta': -18}"
+0000362_01500_d_0000215.jpg,0000362_01500_d_0000215_bright.jpg,bright,"{'alpha': 1.33, 'beta': 53}"
+0000362_01500_d_0000215.jpg,0000362_01500_d_0000215_lowcontrast.jpg,lowcontrast,"{'alpha': 0.45, 'mean': np.float64(154.99)}"
+0000362_01500_d_0000215.jpg,0000362_01500_d_0000215_noise.jpg,noise,{'sigma': 10}
+0000362_02000_d_0000216.jpg,0000362_02000_d_0000216_original.jpg,original,{}
+0000362_02000_d_0000216.jpg,0000362_02000_d_0000216_blur.jpg,blur,{'kernel_size': 15}
+0000362_02000_d_0000216.jpg,0000362_02000_d_0000216_dark.jpg,dark,"{'alpha': 0.71, 'beta': -17}"
+0000362_02000_d_0000216.jpg,0000362_02000_d_0000216_bright.jpg,bright,"{'alpha': 1.11, 'beta': 31}"
+0000362_02000_d_0000216.jpg,0000362_02000_d_0000216_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(160.66)}"
+0000362_02000_d_0000216.jpg,0000362_02000_d_0000216_noise.jpg,noise,{'sigma': 11}
+0000362_02500_d_0000217.jpg,0000362_02500_d_0000217_original.jpg,original,{}
+0000362_02500_d_0000217.jpg,0000362_02500_d_0000217_blur.jpg,blur,{'kernel_size': 9}
+0000362_02500_d_0000217.jpg,0000362_02500_d_0000217_dark.jpg,dark,"{'alpha': 0.72, 'beta': -12}"
+0000362_02500_d_0000217.jpg,0000362_02500_d_0000217_bright.jpg,bright,"{'alpha': 1.38, 'beta': 33}"
+0000362_02500_d_0000217.jpg,0000362_02500_d_0000217_lowcontrast.jpg,lowcontrast,"{'alpha': 0.7, 'mean': np.float64(168.96)}"
+0000362_02500_d_0000217.jpg,0000362_02500_d_0000217_noise.jpg,noise,{'sigma': 9}
+0000362_03000_d_0000218.jpg,0000362_03000_d_0000218_original.jpg,original,{}
+0000362_03000_d_0000218.jpg,0000362_03000_d_0000218_blur.jpg,blur,{'kernel_size': 21}
+0000362_03000_d_0000218.jpg,0000362_03000_d_0000218_dark.jpg,dark,"{'alpha': 0.7, 'beta': -16}"
+0000362_03000_d_0000218.jpg,0000362_03000_d_0000218_bright.jpg,bright,"{'alpha': 1.44, 'beta': 48}"
+0000362_03000_d_0000218.jpg,0000362_03000_d_0000218_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(165.2)}"
+0000362_03000_d_0000218.jpg,0000362_03000_d_0000218_noise.jpg,noise,{'sigma': 12}
+0000362_03500_d_0000219.jpg,0000362_03500_d_0000219_original.jpg,original,{}
+0000362_03500_d_0000219.jpg,0000362_03500_d_0000219_blur.jpg,blur,{'kernel_size': 9}
+0000362_03500_d_0000219.jpg,0000362_03500_d_0000219_dark.jpg,dark,"{'alpha': 0.85, 'beta': -10}"
+0000362_03500_d_0000219.jpg,0000362_03500_d_0000219_bright.jpg,bright,"{'alpha': 1.37, 'beta': 65}"
+0000362_03500_d_0000219.jpg,0000362_03500_d_0000219_lowcontrast.jpg,lowcontrast,"{'alpha': 0.33, 'mean': np.float64(163.47)}"
+0000362_03500_d_0000219.jpg,0000362_03500_d_0000219_noise.jpg,noise,{'sigma': 9}
+0000362_04000_d_0000220.jpg,0000362_04000_d_0000220_original.jpg,original,{}
+0000362_04000_d_0000220.jpg,0000362_04000_d_0000220_blur.jpg,blur,{'kernel_size': 15}
+0000362_04000_d_0000220.jpg,0000362_04000_d_0000220_dark.jpg,dark,"{'alpha': 0.86, 'beta': -15}"
+0000362_04000_d_0000220.jpg,0000362_04000_d_0000220_bright.jpg,bright,"{'alpha': 1.42, 'beta': 52}"
+0000362_04000_d_0000220.jpg,0000362_04000_d_0000220_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(163.55)}"
+0000362_04000_d_0000220.jpg,0000362_04000_d_0000220_noise.jpg,noise,{'sigma': 8}
+0000362_04500_d_0000221.jpg,0000362_04500_d_0000221_original.jpg,original,{}
+0000362_04500_d_0000221.jpg,0000362_04500_d_0000221_blur.jpg,blur,{'kernel_size': 11}
+0000362_04500_d_0000221.jpg,0000362_04500_d_0000221_dark.jpg,dark,"{'alpha': 0.71, 'beta': -5}"
+0000362_04500_d_0000221.jpg,0000362_04500_d_0000221_bright.jpg,bright,"{'alpha': 1.11, 'beta': 55}"
+0000362_04500_d_0000221.jpg,0000362_04500_d_0000221_lowcontrast.jpg,lowcontrast,"{'alpha': 0.53, 'mean': np.float64(160.32)}"
+0000362_04500_d_0000221.jpg,0000362_04500_d_0000221_noise.jpg,noise,{'sigma': 12}
+0000362_04949_d_0000222.jpg,0000362_04949_d_0000222_original.jpg,original,{}
+0000362_04949_d_0000222.jpg,0000362_04949_d_0000222_blur.jpg,blur,{'kernel_size': 11}
+0000362_04949_d_0000222.jpg,0000362_04949_d_0000222_dark.jpg,dark,"{'alpha': 0.8, 'beta': -18}"
+0000362_04949_d_0000222.jpg,0000362_04949_d_0000222_bright.jpg,bright,"{'alpha': 1.13, 'beta': 45}"
+0000362_04949_d_0000222.jpg,0000362_04949_d_0000222_lowcontrast.jpg,lowcontrast,"{'alpha': 0.7, 'mean': np.float64(164.92)}"
+0000362_04949_d_0000222.jpg,0000362_04949_d_0000222_noise.jpg,noise,{'sigma': 12}
+0000367_00500_d_0000228.jpg,0000367_00500_d_0000228_original.jpg,original,{}
+0000367_00500_d_0000228.jpg,0000367_00500_d_0000228_blur.jpg,blur,{'kernel_size': 19}
+0000367_00500_d_0000228.jpg,0000367_00500_d_0000228_dark.jpg,dark,"{'alpha': 0.84, 'beta': -18}"
+0000367_00500_d_0000228.jpg,0000367_00500_d_0000228_bright.jpg,bright,"{'alpha': 1.15, 'beta': 40}"
+0000367_00500_d_0000228.jpg,0000367_00500_d_0000228_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(146.5)}"
+0000367_00500_d_0000228.jpg,0000367_00500_d_0000228_noise.jpg,noise,{'sigma': 12}
+0000367_01000_d_0000229.jpg,0000367_01000_d_0000229_original.jpg,original,{}
+0000367_01000_d_0000229.jpg,0000367_01000_d_0000229_blur.jpg,blur,{'kernel_size': 21}
+0000367_01000_d_0000229.jpg,0000367_01000_d_0000229_dark.jpg,dark,"{'alpha': 0.82, 'beta': -9}"
+0000367_01000_d_0000229.jpg,0000367_01000_d_0000229_bright.jpg,bright,"{'alpha': 1.15, 'beta': 73}"
+0000367_01000_d_0000229.jpg,0000367_01000_d_0000229_lowcontrast.jpg,lowcontrast,"{'alpha': 0.61, 'mean': np.float64(149.81)}"
+0000367_01000_d_0000229.jpg,0000367_01000_d_0000229_noise.jpg,noise,{'sigma': 7}
+0000367_01500_d_0000230.jpg,0000367_01500_d_0000230_original.jpg,original,{}
+0000367_01500_d_0000230.jpg,0000367_01500_d_0000230_blur.jpg,blur,{'kernel_size': 11}
+0000367_01500_d_0000230.jpg,0000367_01500_d_0000230_dark.jpg,dark,"{'alpha': 0.76, 'beta': -19}"
+0000367_01500_d_0000230.jpg,0000367_01500_d_0000230_bright.jpg,bright,"{'alpha': 1.43, 'beta': 53}"
+0000367_01500_d_0000230.jpg,0000367_01500_d_0000230_lowcontrast.jpg,lowcontrast,"{'alpha': 0.36, 'mean': np.float64(147.52)}"
+0000367_01500_d_0000230.jpg,0000367_01500_d_0000230_noise.jpg,noise,{'sigma': 7}
+0000367_02000_d_0000231.jpg,0000367_02000_d_0000231_original.jpg,original,{}
+0000367_02000_d_0000231.jpg,0000367_02000_d_0000231_blur.jpg,blur,{'kernel_size': 11}
+0000367_02000_d_0000231.jpg,0000367_02000_d_0000231_dark.jpg,dark,"{'alpha': 0.73, 'beta': -13}"
+0000367_02000_d_0000231.jpg,0000367_02000_d_0000231_bright.jpg,bright,"{'alpha': 1.24, 'beta': 80}"
+0000367_02000_d_0000231.jpg,0000367_02000_d_0000231_lowcontrast.jpg,lowcontrast,"{'alpha': 0.51, 'mean': np.float64(150.68)}"
+0000367_02000_d_0000231.jpg,0000367_02000_d_0000231_noise.jpg,noise,{'sigma': 9}
+0000367_02500_d_0000232.jpg,0000367_02500_d_0000232_original.jpg,original,{}
+0000367_02500_d_0000232.jpg,0000367_02500_d_0000232_blur.jpg,blur,{'kernel_size': 9}
+0000367_02500_d_0000232.jpg,0000367_02500_d_0000232_dark.jpg,dark,"{'alpha': 0.71, 'beta': -12}"
+0000367_02500_d_0000232.jpg,0000367_02500_d_0000232_bright.jpg,bright,"{'alpha': 1.15, 'beta': 39}"
+0000367_02500_d_0000232.jpg,0000367_02500_d_0000232_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(145.32)}"
+0000367_02500_d_0000232.jpg,0000367_02500_d_0000232_noise.jpg,noise,{'sigma': 6}
+0000367_03000_d_0000233.jpg,0000367_03000_d_0000233_original.jpg,original,{}
+0000367_03000_d_0000233.jpg,0000367_03000_d_0000233_blur.jpg,blur,{'kernel_size': 11}
+0000367_03000_d_0000233.jpg,0000367_03000_d_0000233_dark.jpg,dark,"{'alpha': 0.8, 'beta': -16}"
+0000367_03000_d_0000233.jpg,0000367_03000_d_0000233_bright.jpg,bright,"{'alpha': 1.17, 'beta': 59}"
+0000367_03000_d_0000233.jpg,0000367_03000_d_0000233_lowcontrast.jpg,lowcontrast,"{'alpha': 0.59, 'mean': np.float64(157.19)}"
+0000367_03000_d_0000233.jpg,0000367_03000_d_0000233_noise.jpg,noise,{'sigma': 10}
+0000367_03500_d_0000234.jpg,0000367_03500_d_0000234_original.jpg,original,{}
+0000367_03500_d_0000234.jpg,0000367_03500_d_0000234_blur.jpg,blur,{'kernel_size': 7}
+0000367_03500_d_0000234.jpg,0000367_03500_d_0000234_dark.jpg,dark,"{'alpha': 0.86, 'beta': -20}"
+0000367_03500_d_0000234.jpg,0000367_03500_d_0000234_bright.jpg,bright,"{'alpha': 1.13, 'beta': 80}"
+0000367_03500_d_0000234.jpg,0000367_03500_d_0000234_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(146.03)}"
+0000367_03500_d_0000234.jpg,0000367_03500_d_0000234_noise.jpg,noise,{'sigma': 9}
+0000367_05511_d_0000235.jpg,0000367_05511_d_0000235_original.jpg,original,{}
+0000367_05511_d_0000235.jpg,0000367_05511_d_0000235_blur.jpg,blur,{'kernel_size': 13}
+0000367_05511_d_0000235.jpg,0000367_05511_d_0000235_dark.jpg,dark,"{'alpha': 0.84, 'beta': -7}"
+0000367_05511_d_0000235.jpg,0000367_05511_d_0000235_bright.jpg,bright,"{'alpha': 1.35, 'beta': 21}"
+0000367_05511_d_0000235.jpg,0000367_05511_d_0000235_lowcontrast.jpg,lowcontrast,"{'alpha': 0.5, 'mean': np.float64(137.9)}"
+0000367_05511_d_0000235.jpg,0000367_05511_d_0000235_noise.jpg,noise,{'sigma': 9}
+0000368_00100_d_0000236.jpg,0000368_00100_d_0000236_original.jpg,original,{}
+0000368_00100_d_0000236.jpg,0000368_00100_d_0000236_blur.jpg,blur,{'kernel_size': 15}
+0000368_00100_d_0000236.jpg,0000368_00100_d_0000236_dark.jpg,dark,"{'alpha': 0.77, 'beta': -8}"
+0000368_00100_d_0000236.jpg,0000368_00100_d_0000236_bright.jpg,bright,"{'alpha': 1.22, 'beta': 24}"
+0000368_00100_d_0000236.jpg,0000368_00100_d_0000236_lowcontrast.jpg,lowcontrast,"{'alpha': 0.58, 'mean': np.float64(141.86)}"
+0000368_00100_d_0000236.jpg,0000368_00100_d_0000236_noise.jpg,noise,{'sigma': 7}
+0000368_00600_d_0000237.jpg,0000368_00600_d_0000237_original.jpg,original,{}
+0000368_00600_d_0000237.jpg,0000368_00600_d_0000237_blur.jpg,blur,{'kernel_size': 21}
+0000368_00600_d_0000237.jpg,0000368_00600_d_0000237_dark.jpg,dark,"{'alpha': 0.75, 'beta': -6}"
+0000368_00600_d_0000237.jpg,0000368_00600_d_0000237_bright.jpg,bright,"{'alpha': 1.18, 'beta': 58}"
+0000368_00600_d_0000237.jpg,0000368_00600_d_0000237_lowcontrast.jpg,lowcontrast,"{'alpha': 0.36, 'mean': np.float64(147.83)}"
+0000368_00600_d_0000237.jpg,0000368_00600_d_0000237_noise.jpg,noise,{'sigma': 10}
+0000368_01200_d_0000238.jpg,0000368_01200_d_0000238_original.jpg,original,{}
+0000368_01200_d_0000238.jpg,0000368_01200_d_0000238_blur.jpg,blur,{'kernel_size': 17}
+0000368_01200_d_0000238.jpg,0000368_01200_d_0000238_dark.jpg,dark,"{'alpha': 0.89, 'beta': -16}"
+0000368_01200_d_0000238.jpg,0000368_01200_d_0000238_bright.jpg,bright,"{'alpha': 1.4, 'beta': 52}"
+0000368_01200_d_0000238.jpg,0000368_01200_d_0000238_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(164.3)}"
+0000368_01200_d_0000238.jpg,0000368_01200_d_0000238_noise.jpg,noise,{'sigma': 10}
+0000368_02200_d_0000240.jpg,0000368_02200_d_0000240_original.jpg,original,{}
+0000368_02200_d_0000240.jpg,0000368_02200_d_0000240_blur.jpg,blur,{'kernel_size': 13}
+0000368_02200_d_0000240.jpg,0000368_02200_d_0000240_dark.jpg,dark,"{'alpha': 0.77, 'beta': -12}"
+0000368_02200_d_0000240.jpg,0000368_02200_d_0000240_bright.jpg,bright,"{'alpha': 1.28, 'beta': 29}"
+0000368_02200_d_0000240.jpg,0000368_02200_d_0000240_lowcontrast.jpg,lowcontrast,"{'alpha': 0.34, 'mean': np.float64(142.5)}"
+0000368_02200_d_0000240.jpg,0000368_02200_d_0000240_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000001.jpg,9999936_00000_d_0000001_original.jpg,original,{}
+9999936_00000_d_0000001.jpg,9999936_00000_d_0000001_blur.jpg,blur,{'kernel_size': 19}
+9999936_00000_d_0000001.jpg,9999936_00000_d_0000001_dark.jpg,dark,"{'alpha': 0.87, 'beta': -7}"
+9999936_00000_d_0000001.jpg,9999936_00000_d_0000001_bright.jpg,bright,"{'alpha': 1.2, 'beta': 75}"
+9999936_00000_d_0000001.jpg,9999936_00000_d_0000001_lowcontrast.jpg,lowcontrast,"{'alpha': 0.66, 'mean': np.float64(161.09)}"
+9999936_00000_d_0000001.jpg,9999936_00000_d_0000001_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000002.jpg,9999936_00000_d_0000002_original.jpg,original,{}
+9999936_00000_d_0000002.jpg,9999936_00000_d_0000002_blur.jpg,blur,{'kernel_size': 17}
+9999936_00000_d_0000002.jpg,9999936_00000_d_0000002_dark.jpg,dark,"{'alpha': 0.7, 'beta': -15}"
+9999936_00000_d_0000002.jpg,9999936_00000_d_0000002_bright.jpg,bright,"{'alpha': 1.3, 'beta': 52}"
+9999936_00000_d_0000002.jpg,9999936_00000_d_0000002_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(170.98)}"
+9999936_00000_d_0000002.jpg,9999936_00000_d_0000002_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000003.jpg,9999936_00000_d_0000003_original.jpg,original,{}
+9999936_00000_d_0000003.jpg,9999936_00000_d_0000003_blur.jpg,blur,{'kernel_size': 21}
+9999936_00000_d_0000003.jpg,9999936_00000_d_0000003_dark.jpg,dark,"{'alpha': 0.66, 'beta': -8}"
+9999936_00000_d_0000003.jpg,9999936_00000_d_0000003_bright.jpg,bright,"{'alpha': 1.3, 'beta': 35}"
+9999936_00000_d_0000003.jpg,9999936_00000_d_0000003_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(166.11)}"
+9999936_00000_d_0000003.jpg,9999936_00000_d_0000003_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000004.jpg,9999936_00000_d_0000004_original.jpg,original,{}
+9999936_00000_d_0000004.jpg,9999936_00000_d_0000004_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000004.jpg,9999936_00000_d_0000004_dark.jpg,dark,"{'alpha': 0.66, 'beta': -5}"
+9999936_00000_d_0000004.jpg,9999936_00000_d_0000004_bright.jpg,bright,"{'alpha': 1.34, 'beta': 73}"
+9999936_00000_d_0000004.jpg,9999936_00000_d_0000004_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(165.84)}"
+9999936_00000_d_0000004.jpg,9999936_00000_d_0000004_noise.jpg,noise,{'sigma': 12}
+9999936_00000_d_0000005.jpg,9999936_00000_d_0000005_original.jpg,original,{}
+9999936_00000_d_0000005.jpg,9999936_00000_d_0000005_blur.jpg,blur,{'kernel_size': 15}
+9999936_00000_d_0000005.jpg,9999936_00000_d_0000005_dark.jpg,dark,"{'alpha': 0.78, 'beta': -17}"
+9999936_00000_d_0000005.jpg,9999936_00000_d_0000005_bright.jpg,bright,"{'alpha': 1.27, 'beta': 76}"
+9999936_00000_d_0000005.jpg,9999936_00000_d_0000005_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(164.78)}"
+9999936_00000_d_0000005.jpg,9999936_00000_d_0000005_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000006.jpg,9999936_00000_d_0000006_original.jpg,original,{}
+9999936_00000_d_0000006.jpg,9999936_00000_d_0000006_blur.jpg,blur,{'kernel_size': 19}
+9999936_00000_d_0000006.jpg,9999936_00000_d_0000006_dark.jpg,dark,"{'alpha': 0.74, 'beta': -8}"
+9999936_00000_d_0000006.jpg,9999936_00000_d_0000006_bright.jpg,bright,"{'alpha': 1.12, 'beta': 55}"
+9999936_00000_d_0000006.jpg,9999936_00000_d_0000006_lowcontrast.jpg,lowcontrast,"{'alpha': 0.38, 'mean': np.float64(160.03)}"
+9999936_00000_d_0000006.jpg,9999936_00000_d_0000006_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000007.jpg,9999936_00000_d_0000007_original.jpg,original,{}
+9999936_00000_d_0000007.jpg,9999936_00000_d_0000007_blur.jpg,blur,{'kernel_size': 9}
+9999936_00000_d_0000007.jpg,9999936_00000_d_0000007_dark.jpg,dark,"{'alpha': 0.75, 'beta': -6}"
+9999936_00000_d_0000007.jpg,9999936_00000_d_0000007_bright.jpg,bright,"{'alpha': 1.41, 'beta': 37}"
+9999936_00000_d_0000007.jpg,9999936_00000_d_0000007_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(154.54)}"
+9999936_00000_d_0000007.jpg,9999936_00000_d_0000007_noise.jpg,noise,{'sigma': 6}
+9999936_00000_d_0000008.jpg,9999936_00000_d_0000008_original.jpg,original,{}
+9999936_00000_d_0000008.jpg,9999936_00000_d_0000008_blur.jpg,blur,{'kernel_size': 11}
+9999936_00000_d_0000008.jpg,9999936_00000_d_0000008_dark.jpg,dark,"{'alpha': 0.89, 'beta': -8}"
+9999936_00000_d_0000008.jpg,9999936_00000_d_0000008_bright.jpg,bright,"{'alpha': 1.25, 'beta': 41}"
+9999936_00000_d_0000008.jpg,9999936_00000_d_0000008_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(150.76)}"
+9999936_00000_d_0000008.jpg,9999936_00000_d_0000008_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000009.jpg,9999936_00000_d_0000009_original.jpg,original,{}
+9999936_00000_d_0000009.jpg,9999936_00000_d_0000009_blur.jpg,blur,{'kernel_size': 11}
+9999936_00000_d_0000009.jpg,9999936_00000_d_0000009_dark.jpg,dark,"{'alpha': 0.7, 'beta': -8}"
+9999936_00000_d_0000009.jpg,9999936_00000_d_0000009_bright.jpg,bright,"{'alpha': 1.3, 'beta': 22}"
+9999936_00000_d_0000009.jpg,9999936_00000_d_0000009_lowcontrast.jpg,lowcontrast,"{'alpha': 0.32, 'mean': np.float64(150.99)}"
+9999936_00000_d_0000009.jpg,9999936_00000_d_0000009_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000010.jpg,9999936_00000_d_0000010_original.jpg,original,{}
+9999936_00000_d_0000010.jpg,9999936_00000_d_0000010_blur.jpg,blur,{'kernel_size': 21}
+9999936_00000_d_0000010.jpg,9999936_00000_d_0000010_dark.jpg,dark,"{'alpha': 0.78, 'beta': -16}"
+9999936_00000_d_0000010.jpg,9999936_00000_d_0000010_bright.jpg,bright,"{'alpha': 1.34, 'beta': 52}"
+9999936_00000_d_0000010.jpg,9999936_00000_d_0000010_lowcontrast.jpg,lowcontrast,"{'alpha': 0.36, 'mean': np.float64(150.18)}"
+9999936_00000_d_0000010.jpg,9999936_00000_d_0000010_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000011.jpg,9999936_00000_d_0000011_original.jpg,original,{}
+9999936_00000_d_0000011.jpg,9999936_00000_d_0000011_blur.jpg,blur,{'kernel_size': 11}
+9999936_00000_d_0000011.jpg,9999936_00000_d_0000011_dark.jpg,dark,"{'alpha': 0.75, 'beta': -11}"
+9999936_00000_d_0000011.jpg,9999936_00000_d_0000011_bright.jpg,bright,"{'alpha': 1.34, 'beta': 52}"
+9999936_00000_d_0000011.jpg,9999936_00000_d_0000011_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(143.44)}"
+9999936_00000_d_0000011.jpg,9999936_00000_d_0000011_noise.jpg,noise,{'sigma': 12}
+9999936_00000_d_0000012.jpg,9999936_00000_d_0000012_original.jpg,original,{}
+9999936_00000_d_0000012.jpg,9999936_00000_d_0000012_blur.jpg,blur,{'kernel_size': 15}
+9999936_00000_d_0000012.jpg,9999936_00000_d_0000012_dark.jpg,dark,"{'alpha': 0.77, 'beta': -20}"
+9999936_00000_d_0000012.jpg,9999936_00000_d_0000012_bright.jpg,bright,"{'alpha': 1.25, 'beta': 63}"
+9999936_00000_d_0000012.jpg,9999936_00000_d_0000012_lowcontrast.jpg,lowcontrast,"{'alpha': 0.34, 'mean': np.float64(156.85)}"
+9999936_00000_d_0000012.jpg,9999936_00000_d_0000012_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000013.jpg,9999936_00000_d_0000013_original.jpg,original,{}
+9999936_00000_d_0000013.jpg,9999936_00000_d_0000013_blur.jpg,blur,{'kernel_size': 15}
+9999936_00000_d_0000013.jpg,9999936_00000_d_0000013_dark.jpg,dark,"{'alpha': 0.85, 'beta': -20}"
+9999936_00000_d_0000013.jpg,9999936_00000_d_0000013_bright.jpg,bright,"{'alpha': 1.34, 'beta': 36}"
+9999936_00000_d_0000013.jpg,9999936_00000_d_0000013_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(153.11)}"
+9999936_00000_d_0000013.jpg,9999936_00000_d_0000013_noise.jpg,noise,{'sigma': 8}
+9999936_00000_d_0000014.jpg,9999936_00000_d_0000014_original.jpg,original,{}
+9999936_00000_d_0000014.jpg,9999936_00000_d_0000014_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000014.jpg,9999936_00000_d_0000014_dark.jpg,dark,"{'alpha': 0.8, 'beta': -15}"
+9999936_00000_d_0000014.jpg,9999936_00000_d_0000014_bright.jpg,bright,"{'alpha': 1.31, 'beta': 66}"
+9999936_00000_d_0000014.jpg,9999936_00000_d_0000014_lowcontrast.jpg,lowcontrast,"{'alpha': 0.55, 'mean': np.float64(146.94)}"
+9999936_00000_d_0000014.jpg,9999936_00000_d_0000014_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000015.jpg,9999936_00000_d_0000015_original.jpg,original,{}
+9999936_00000_d_0000015.jpg,9999936_00000_d_0000015_blur.jpg,blur,{'kernel_size': 11}
+9999936_00000_d_0000015.jpg,9999936_00000_d_0000015_dark.jpg,dark,"{'alpha': 0.86, 'beta': -13}"
+9999936_00000_d_0000015.jpg,9999936_00000_d_0000015_bright.jpg,bright,"{'alpha': 1.11, 'beta': 80}"
+9999936_00000_d_0000015.jpg,9999936_00000_d_0000015_lowcontrast.jpg,lowcontrast,"{'alpha': 0.58, 'mean': np.float64(155.99)}"
+9999936_00000_d_0000015.jpg,9999936_00000_d_0000015_noise.jpg,noise,{'sigma': 8}
+9999936_00000_d_0000016.jpg,9999936_00000_d_0000016_original.jpg,original,{}
+9999936_00000_d_0000016.jpg,9999936_00000_d_0000016_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000016.jpg,9999936_00000_d_0000016_dark.jpg,dark,"{'alpha': 0.76, 'beta': -7}"
+9999936_00000_d_0000016.jpg,9999936_00000_d_0000016_bright.jpg,bright,"{'alpha': 1.16, 'beta': 64}"
+9999936_00000_d_0000016.jpg,9999936_00000_d_0000016_lowcontrast.jpg,lowcontrast,"{'alpha': 0.38, 'mean': np.float64(163.57)}"
+9999936_00000_d_0000016.jpg,9999936_00000_d_0000016_noise.jpg,noise,{'sigma': 12}
+9999936_00000_d_0000017.jpg,9999936_00000_d_0000017_original.jpg,original,{}
+9999936_00000_d_0000017.jpg,9999936_00000_d_0000017_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000017.jpg,9999936_00000_d_0000017_dark.jpg,dark,"{'alpha': 0.83, 'beta': -14}"
+9999936_00000_d_0000017.jpg,9999936_00000_d_0000017_bright.jpg,bright,"{'alpha': 1.32, 'beta': 62}"
+9999936_00000_d_0000017.jpg,9999936_00000_d_0000017_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(158.8)}"
+9999936_00000_d_0000017.jpg,9999936_00000_d_0000017_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000018.jpg,9999936_00000_d_0000018_original.jpg,original,{}
+9999936_00000_d_0000018.jpg,9999936_00000_d_0000018_blur.jpg,blur,{'kernel_size': 17}
+9999936_00000_d_0000018.jpg,9999936_00000_d_0000018_dark.jpg,dark,"{'alpha': 0.89, 'beta': -6}"
+9999936_00000_d_0000018.jpg,9999936_00000_d_0000018_bright.jpg,bright,"{'alpha': 1.46, 'beta': 41}"
+9999936_00000_d_0000018.jpg,9999936_00000_d_0000018_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(163.81)}"
+9999936_00000_d_0000018.jpg,9999936_00000_d_0000018_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000019.jpg,9999936_00000_d_0000019_original.jpg,original,{}
+9999936_00000_d_0000019.jpg,9999936_00000_d_0000019_blur.jpg,blur,{'kernel_size': 21}
+9999936_00000_d_0000019.jpg,9999936_00000_d_0000019_dark.jpg,dark,"{'alpha': 0.7, 'beta': -13}"
+9999936_00000_d_0000019.jpg,9999936_00000_d_0000019_bright.jpg,bright,"{'alpha': 1.21, 'beta': 39}"
+9999936_00000_d_0000019.jpg,9999936_00000_d_0000019_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(174.72)}"
+9999936_00000_d_0000019.jpg,9999936_00000_d_0000019_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000020.jpg,9999936_00000_d_0000020_original.jpg,original,{}
+9999936_00000_d_0000020.jpg,9999936_00000_d_0000020_blur.jpg,blur,{'kernel_size': 15}
+9999936_00000_d_0000020.jpg,9999936_00000_d_0000020_dark.jpg,dark,"{'alpha': 0.83, 'beta': -5}"
+9999936_00000_d_0000020.jpg,9999936_00000_d_0000020_bright.jpg,bright,"{'alpha': 1.23, 'beta': 42}"
+9999936_00000_d_0000020.jpg,9999936_00000_d_0000020_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(164.47)}"
+9999936_00000_d_0000020.jpg,9999936_00000_d_0000020_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000021.jpg,9999936_00000_d_0000021_original.jpg,original,{}
+9999936_00000_d_0000021.jpg,9999936_00000_d_0000021_blur.jpg,blur,{'kernel_size': 15}
+9999936_00000_d_0000021.jpg,9999936_00000_d_0000021_dark.jpg,dark,"{'alpha': 0.68, 'beta': -8}"
+9999936_00000_d_0000021.jpg,9999936_00000_d_0000021_bright.jpg,bright,"{'alpha': 1.46, 'beta': 45}"
+9999936_00000_d_0000021.jpg,9999936_00000_d_0000021_lowcontrast.jpg,lowcontrast,"{'alpha': 0.63, 'mean': np.float64(160.86)}"
+9999936_00000_d_0000021.jpg,9999936_00000_d_0000021_noise.jpg,noise,{'sigma': 7}
+9999936_00000_d_0000022.jpg,9999936_00000_d_0000022_original.jpg,original,{}
+9999936_00000_d_0000022.jpg,9999936_00000_d_0000022_blur.jpg,blur,{'kernel_size': 15}
+9999936_00000_d_0000022.jpg,9999936_00000_d_0000022_dark.jpg,dark,"{'alpha': 0.66, 'beta': -18}"
+9999936_00000_d_0000022.jpg,9999936_00000_d_0000022_bright.jpg,bright,"{'alpha': 1.24, 'beta': 48}"
+9999936_00000_d_0000022.jpg,9999936_00000_d_0000022_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(161.95)}"
+9999936_00000_d_0000022.jpg,9999936_00000_d_0000022_noise.jpg,noise,{'sigma': 12}
+9999936_00000_d_0000023.jpg,9999936_00000_d_0000023_original.jpg,original,{}
+9999936_00000_d_0000023.jpg,9999936_00000_d_0000023_blur.jpg,blur,{'kernel_size': 13}
+9999936_00000_d_0000023.jpg,9999936_00000_d_0000023_dark.jpg,dark,"{'alpha': 0.7, 'beta': -12}"
+9999936_00000_d_0000023.jpg,9999936_00000_d_0000023_bright.jpg,bright,"{'alpha': 1.47, 'beta': 64}"
+9999936_00000_d_0000023.jpg,9999936_00000_d_0000023_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(169.47)}"
+9999936_00000_d_0000023.jpg,9999936_00000_d_0000023_noise.jpg,noise,{'sigma': 6}
+9999936_00000_d_0000024.jpg,9999936_00000_d_0000024_original.jpg,original,{}
+9999936_00000_d_0000024.jpg,9999936_00000_d_0000024_blur.jpg,blur,{'kernel_size': 13}
+9999936_00000_d_0000024.jpg,9999936_00000_d_0000024_dark.jpg,dark,"{'alpha': 0.71, 'beta': -13}"
+9999936_00000_d_0000024.jpg,9999936_00000_d_0000024_bright.jpg,bright,"{'alpha': 1.36, 'beta': 23}"
+9999936_00000_d_0000024.jpg,9999936_00000_d_0000024_lowcontrast.jpg,lowcontrast,"{'alpha': 0.34, 'mean': np.float64(175.14)}"
+9999936_00000_d_0000024.jpg,9999936_00000_d_0000024_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000025.jpg,9999936_00000_d_0000025_original.jpg,original,{}
+9999936_00000_d_0000025.jpg,9999936_00000_d_0000025_blur.jpg,blur,{'kernel_size': 21}
+9999936_00000_d_0000025.jpg,9999936_00000_d_0000025_dark.jpg,dark,"{'alpha': 0.68, 'beta': -16}"
+9999936_00000_d_0000025.jpg,9999936_00000_d_0000025_bright.jpg,bright,"{'alpha': 1.1, 'beta': 55}"
+9999936_00000_d_0000025.jpg,9999936_00000_d_0000025_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(173.85)}"
+9999936_00000_d_0000025.jpg,9999936_00000_d_0000025_noise.jpg,noise,{'sigma': 7}
+9999936_00000_d_0000026.jpg,9999936_00000_d_0000026_original.jpg,original,{}
+9999936_00000_d_0000026.jpg,9999936_00000_d_0000026_blur.jpg,blur,{'kernel_size': 19}
+9999936_00000_d_0000026.jpg,9999936_00000_d_0000026_dark.jpg,dark,"{'alpha': 0.81, 'beta': -5}"
+9999936_00000_d_0000026.jpg,9999936_00000_d_0000026_bright.jpg,bright,"{'alpha': 1.29, 'beta': 32}"
+9999936_00000_d_0000026.jpg,9999936_00000_d_0000026_lowcontrast.jpg,lowcontrast,"{'alpha': 0.6, 'mean': np.float64(179.43)}"
+9999936_00000_d_0000026.jpg,9999936_00000_d_0000026_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000027.jpg,9999936_00000_d_0000027_original.jpg,original,{}
+9999936_00000_d_0000027.jpg,9999936_00000_d_0000027_blur.jpg,blur,{'kernel_size': 17}
+9999936_00000_d_0000027.jpg,9999936_00000_d_0000027_dark.jpg,dark,"{'alpha': 0.72, 'beta': -19}"
+9999936_00000_d_0000027.jpg,9999936_00000_d_0000027_bright.jpg,bright,"{'alpha': 1.46, 'beta': 25}"
+9999936_00000_d_0000027.jpg,9999936_00000_d_0000027_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(170.09)}"
+9999936_00000_d_0000027.jpg,9999936_00000_d_0000027_noise.jpg,noise,{'sigma': 8}
+9999936_00000_d_0000028.jpg,9999936_00000_d_0000028_original.jpg,original,{}
+9999936_00000_d_0000028.jpg,9999936_00000_d_0000028_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000028.jpg,9999936_00000_d_0000028_dark.jpg,dark,"{'alpha': 0.88, 'beta': -15}"
+9999936_00000_d_0000028.jpg,9999936_00000_d_0000028_bright.jpg,bright,"{'alpha': 1.27, 'beta': 73}"
+9999936_00000_d_0000028.jpg,9999936_00000_d_0000028_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(174.01)}"
+9999936_00000_d_0000028.jpg,9999936_00000_d_0000028_noise.jpg,noise,{'sigma': 5}
+9999936_00000_d_0000029.jpg,9999936_00000_d_0000029_original.jpg,original,{}
+9999936_00000_d_0000029.jpg,9999936_00000_d_0000029_blur.jpg,blur,{'kernel_size': 19}
+9999936_00000_d_0000029.jpg,9999936_00000_d_0000029_dark.jpg,dark,"{'alpha': 0.85, 'beta': -15}"
+9999936_00000_d_0000029.jpg,9999936_00000_d_0000029_bright.jpg,bright,"{'alpha': 1.47, 'beta': 75}"
+9999936_00000_d_0000029.jpg,9999936_00000_d_0000029_lowcontrast.jpg,lowcontrast,"{'alpha': 0.67, 'mean': np.float64(157.16)}"
+9999936_00000_d_0000029.jpg,9999936_00000_d_0000029_noise.jpg,noise,{'sigma': 5}
+9999936_00000_d_0000030.jpg,9999936_00000_d_0000030_original.jpg,original,{}
+9999936_00000_d_0000030.jpg,9999936_00000_d_0000030_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000030.jpg,9999936_00000_d_0000030_dark.jpg,dark,"{'alpha': 0.72, 'beta': -17}"
+9999936_00000_d_0000030.jpg,9999936_00000_d_0000030_bright.jpg,bright,"{'alpha': 1.47, 'beta': 41}"
+9999936_00000_d_0000030.jpg,9999936_00000_d_0000030_lowcontrast.jpg,lowcontrast,"{'alpha': 0.41, 'mean': np.float64(167.17)}"
+9999936_00000_d_0000030.jpg,9999936_00000_d_0000030_noise.jpg,noise,{'sigma': 12}
+9999936_00000_d_0000031.jpg,9999936_00000_d_0000031_original.jpg,original,{}
+9999936_00000_d_0000031.jpg,9999936_00000_d_0000031_blur.jpg,blur,{'kernel_size': 11}
+9999936_00000_d_0000031.jpg,9999936_00000_d_0000031_dark.jpg,dark,"{'alpha': 0.86, 'beta': -6}"
+9999936_00000_d_0000031.jpg,9999936_00000_d_0000031_bright.jpg,bright,"{'alpha': 1.21, 'beta': 71}"
+9999936_00000_d_0000031.jpg,9999936_00000_d_0000031_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(164.82)}"
+9999936_00000_d_0000031.jpg,9999936_00000_d_0000031_noise.jpg,noise,{'sigma': 7}
+9999936_00000_d_0000032.jpg,9999936_00000_d_0000032_original.jpg,original,{}
+9999936_00000_d_0000032.jpg,9999936_00000_d_0000032_blur.jpg,blur,{'kernel_size': 21}
+9999936_00000_d_0000032.jpg,9999936_00000_d_0000032_dark.jpg,dark,"{'alpha': 0.81, 'beta': -15}"
+9999936_00000_d_0000032.jpg,9999936_00000_d_0000032_bright.jpg,bright,"{'alpha': 1.11, 'beta': 41}"
+9999936_00000_d_0000032.jpg,9999936_00000_d_0000032_lowcontrast.jpg,lowcontrast,"{'alpha': 0.62, 'mean': np.float64(154.01)}"
+9999936_00000_d_0000032.jpg,9999936_00000_d_0000032_noise.jpg,noise,{'sigma': 8}
+9999936_00000_d_0000033.jpg,9999936_00000_d_0000033_original.jpg,original,{}
+9999936_00000_d_0000033.jpg,9999936_00000_d_0000033_blur.jpg,blur,{'kernel_size': 11}
+9999936_00000_d_0000033.jpg,9999936_00000_d_0000033_dark.jpg,dark,"{'alpha': 0.8, 'beta': -8}"
+9999936_00000_d_0000033.jpg,9999936_00000_d_0000033_bright.jpg,bright,"{'alpha': 1.43, 'beta': 52}"
+9999936_00000_d_0000033.jpg,9999936_00000_d_0000033_lowcontrast.jpg,lowcontrast,"{'alpha': 0.43, 'mean': np.float64(170.66)}"
+9999936_00000_d_0000033.jpg,9999936_00000_d_0000033_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000034.jpg,9999936_00000_d_0000034_original.jpg,original,{}
+9999936_00000_d_0000034.jpg,9999936_00000_d_0000034_blur.jpg,blur,{'kernel_size': 9}
+9999936_00000_d_0000034.jpg,9999936_00000_d_0000034_dark.jpg,dark,"{'alpha': 0.7, 'beta': -16}"
+9999936_00000_d_0000034.jpg,9999936_00000_d_0000034_bright.jpg,bright,"{'alpha': 1.29, 'beta': 79}"
+9999936_00000_d_0000034.jpg,9999936_00000_d_0000034_lowcontrast.jpg,lowcontrast,"{'alpha': 0.4, 'mean': np.float64(168.03)}"
+9999936_00000_d_0000034.jpg,9999936_00000_d_0000034_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000035.jpg,9999936_00000_d_0000035_original.jpg,original,{}
+9999936_00000_d_0000035.jpg,9999936_00000_d_0000035_blur.jpg,blur,{'kernel_size': 19}
+9999936_00000_d_0000035.jpg,9999936_00000_d_0000035_dark.jpg,dark,"{'alpha': 0.71, 'beta': -12}"
+9999936_00000_d_0000035.jpg,9999936_00000_d_0000035_bright.jpg,bright,"{'alpha': 1.48, 'beta': 39}"
+9999936_00000_d_0000035.jpg,9999936_00000_d_0000035_lowcontrast.jpg,lowcontrast,"{'alpha': 0.53, 'mean': np.float64(171.16)}"
+9999936_00000_d_0000035.jpg,9999936_00000_d_0000035_noise.jpg,noise,{'sigma': 5}
+9999936_00000_d_0000036.jpg,9999936_00000_d_0000036_original.jpg,original,{}
+9999936_00000_d_0000036.jpg,9999936_00000_d_0000036_blur.jpg,blur,{'kernel_size': 15}
+9999936_00000_d_0000036.jpg,9999936_00000_d_0000036_dark.jpg,dark,"{'alpha': 0.81, 'beta': -13}"
+9999936_00000_d_0000036.jpg,9999936_00000_d_0000036_bright.jpg,bright,"{'alpha': 1.12, 'beta': 27}"
+9999936_00000_d_0000036.jpg,9999936_00000_d_0000036_lowcontrast.jpg,lowcontrast,"{'alpha': 0.49, 'mean': np.float64(172.01)}"
+9999936_00000_d_0000036.jpg,9999936_00000_d_0000036_noise.jpg,noise,{'sigma': 7}
+9999936_00000_d_0000037.jpg,9999936_00000_d_0000037_original.jpg,original,{}
+9999936_00000_d_0000037.jpg,9999936_00000_d_0000037_blur.jpg,blur,{'kernel_size': 19}
+9999936_00000_d_0000037.jpg,9999936_00000_d_0000037_dark.jpg,dark,"{'alpha': 0.82, 'beta': -11}"
+9999936_00000_d_0000037.jpg,9999936_00000_d_0000037_bright.jpg,bright,"{'alpha': 1.38, 'beta': 60}"
+9999936_00000_d_0000037.jpg,9999936_00000_d_0000037_lowcontrast.jpg,lowcontrast,"{'alpha': 0.67, 'mean': np.float64(165.8)}"
+9999936_00000_d_0000037.jpg,9999936_00000_d_0000037_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000038.jpg,9999936_00000_d_0000038_original.jpg,original,{}
+9999936_00000_d_0000038.jpg,9999936_00000_d_0000038_blur.jpg,blur,{'kernel_size': 17}
+9999936_00000_d_0000038.jpg,9999936_00000_d_0000038_dark.jpg,dark,"{'alpha': 0.8, 'beta': -13}"
+9999936_00000_d_0000038.jpg,9999936_00000_d_0000038_bright.jpg,bright,"{'alpha': 1.48, 'beta': 50}"
+9999936_00000_d_0000038.jpg,9999936_00000_d_0000038_lowcontrast.jpg,lowcontrast,"{'alpha': 0.36, 'mean': np.float64(173.0)}"
+9999936_00000_d_0000038.jpg,9999936_00000_d_0000038_noise.jpg,noise,{'sigma': 10}
+9999936_00000_d_0000039.jpg,9999936_00000_d_0000039_original.jpg,original,{}
+9999936_00000_d_0000039.jpg,9999936_00000_d_0000039_blur.jpg,blur,{'kernel_size': 19}
+9999936_00000_d_0000039.jpg,9999936_00000_d_0000039_dark.jpg,dark,"{'alpha': 0.83, 'beta': -5}"
+9999936_00000_d_0000039.jpg,9999936_00000_d_0000039_bright.jpg,bright,"{'alpha': 1.4, 'beta': 71}"
+9999936_00000_d_0000039.jpg,9999936_00000_d_0000039_lowcontrast.jpg,lowcontrast,"{'alpha': 0.57, 'mean': np.float64(170.61)}"
+9999936_00000_d_0000039.jpg,9999936_00000_d_0000039_noise.jpg,noise,{'sigma': 8}
+9999936_00000_d_0000040.jpg,9999936_00000_d_0000040_original.jpg,original,{}
+9999936_00000_d_0000040.jpg,9999936_00000_d_0000040_blur.jpg,blur,{'kernel_size': 13}
+9999936_00000_d_0000040.jpg,9999936_00000_d_0000040_dark.jpg,dark,"{'alpha': 0.82, 'beta': -18}"
+9999936_00000_d_0000040.jpg,9999936_00000_d_0000040_bright.jpg,bright,"{'alpha': 1.31, 'beta': 53}"
+9999936_00000_d_0000040.jpg,9999936_00000_d_0000040_lowcontrast.jpg,lowcontrast,"{'alpha': 0.58, 'mean': np.float64(148.75)}"
+9999936_00000_d_0000040.jpg,9999936_00000_d_0000040_noise.jpg,noise,{'sigma': 6}
+9999936_00000_d_0000041.jpg,9999936_00000_d_0000041_original.jpg,original,{}
+9999936_00000_d_0000041.jpg,9999936_00000_d_0000041_blur.jpg,blur,{'kernel_size': 9}
+9999936_00000_d_0000041.jpg,9999936_00000_d_0000041_dark.jpg,dark,"{'alpha': 0.67, 'beta': -14}"
+9999936_00000_d_0000041.jpg,9999936_00000_d_0000041_bright.jpg,bright,"{'alpha': 1.33, 'beta': 29}"
+9999936_00000_d_0000041.jpg,9999936_00000_d_0000041_lowcontrast.jpg,lowcontrast,"{'alpha': 0.37, 'mean': np.float64(166.03)}"
+9999936_00000_d_0000041.jpg,9999936_00000_d_0000041_noise.jpg,noise,{'sigma': 12}
+9999936_00000_d_0000042.jpg,9999936_00000_d_0000042_original.jpg,original,{}
+9999936_00000_d_0000042.jpg,9999936_00000_d_0000042_blur.jpg,blur,{'kernel_size': 9}
+9999936_00000_d_0000042.jpg,9999936_00000_d_0000042_dark.jpg,dark,"{'alpha': 0.82, 'beta': -5}"
+9999936_00000_d_0000042.jpg,9999936_00000_d_0000042_bright.jpg,bright,"{'alpha': 1.14, 'beta': 52}"
+9999936_00000_d_0000042.jpg,9999936_00000_d_0000042_lowcontrast.jpg,lowcontrast,"{'alpha': 0.48, 'mean': np.float64(178.23)}"
+9999936_00000_d_0000042.jpg,9999936_00000_d_0000042_noise.jpg,noise,{'sigma': 5}
+9999936_00000_d_0000043.jpg,9999936_00000_d_0000043_original.jpg,original,{}
+9999936_00000_d_0000043.jpg,9999936_00000_d_0000043_blur.jpg,blur,{'kernel_size': 21}
+9999936_00000_d_0000043.jpg,9999936_00000_d_0000043_dark.jpg,dark,"{'alpha': 0.68, 'beta': -7}"
+9999936_00000_d_0000043.jpg,9999936_00000_d_0000043_bright.jpg,bright,"{'alpha': 1.28, 'beta': 23}"
+9999936_00000_d_0000043.jpg,9999936_00000_d_0000043_lowcontrast.jpg,lowcontrast,"{'alpha': 0.52, 'mean': np.float64(170.41)}"
+9999936_00000_d_0000043.jpg,9999936_00000_d_0000043_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000044.jpg,9999936_00000_d_0000044_original.jpg,original,{}
+9999936_00000_d_0000044.jpg,9999936_00000_d_0000044_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000044.jpg,9999936_00000_d_0000044_dark.jpg,dark,"{'alpha': 0.75, 'beta': -20}"
+9999936_00000_d_0000044.jpg,9999936_00000_d_0000044_bright.jpg,bright,"{'alpha': 1.4, 'beta': 57}"
+9999936_00000_d_0000044.jpg,9999936_00000_d_0000044_lowcontrast.jpg,lowcontrast,"{'alpha': 0.33, 'mean': np.float64(164.47)}"
+9999936_00000_d_0000044.jpg,9999936_00000_d_0000044_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000045.jpg,9999936_00000_d_0000045_original.jpg,original,{}
+9999936_00000_d_0000045.jpg,9999936_00000_d_0000045_blur.jpg,blur,{'kernel_size': 17}
+9999936_00000_d_0000045.jpg,9999936_00000_d_0000045_dark.jpg,dark,"{'alpha': 0.83, 'beta': -19}"
+9999936_00000_d_0000045.jpg,9999936_00000_d_0000045_bright.jpg,bright,"{'alpha': 1.47, 'beta': 24}"
+9999936_00000_d_0000045.jpg,9999936_00000_d_0000045_lowcontrast.jpg,lowcontrast,"{'alpha': 0.69, 'mean': np.float64(170.96)}"
+9999936_00000_d_0000045.jpg,9999936_00000_d_0000045_noise.jpg,noise,{'sigma': 12}
+9999936_00000_d_0000046.jpg,9999936_00000_d_0000046_original.jpg,original,{}
+9999936_00000_d_0000046.jpg,9999936_00000_d_0000046_blur.jpg,blur,{'kernel_size': 7}
+9999936_00000_d_0000046.jpg,9999936_00000_d_0000046_dark.jpg,dark,"{'alpha': 0.72, 'beta': -15}"
+9999936_00000_d_0000046.jpg,9999936_00000_d_0000046_bright.jpg,bright,"{'alpha': 1.41, 'beta': 69}"
+9999936_00000_d_0000046.jpg,9999936_00000_d_0000046_lowcontrast.jpg,lowcontrast,"{'alpha': 0.56, 'mean': np.float64(181.2)}"
+9999936_00000_d_0000046.jpg,9999936_00000_d_0000046_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000047.jpg,9999936_00000_d_0000047_original.jpg,original,{}
+9999936_00000_d_0000047.jpg,9999936_00000_d_0000047_blur.jpg,blur,{'kernel_size': 17}
+9999936_00000_d_0000047.jpg,9999936_00000_d_0000047_dark.jpg,dark,"{'alpha': 0.9, 'beta': -8}"
+9999936_00000_d_0000047.jpg,9999936_00000_d_0000047_bright.jpg,bright,"{'alpha': 1.28, 'beta': 78}"
+9999936_00000_d_0000047.jpg,9999936_00000_d_0000047_lowcontrast.jpg,lowcontrast,"{'alpha': 0.66, 'mean': np.float64(177.94)}"
+9999936_00000_d_0000047.jpg,9999936_00000_d_0000047_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000048.jpg,9999936_00000_d_0000048_original.jpg,original,{}
+9999936_00000_d_0000048.jpg,9999936_00000_d_0000048_blur.jpg,blur,{'kernel_size': 9}
+9999936_00000_d_0000048.jpg,9999936_00000_d_0000048_dark.jpg,dark,"{'alpha': 0.82, 'beta': -16}"
+9999936_00000_d_0000048.jpg,9999936_00000_d_0000048_bright.jpg,bright,"{'alpha': 1.36, 'beta': 42}"
+9999936_00000_d_0000048.jpg,9999936_00000_d_0000048_lowcontrast.jpg,lowcontrast,"{'alpha': 0.35, 'mean': np.float64(165.44)}"
+9999936_00000_d_0000048.jpg,9999936_00000_d_0000048_noise.jpg,noise,{'sigma': 11}
+9999936_00000_d_0000049.jpg,9999936_00000_d_0000049_original.jpg,original,{}
+9999936_00000_d_0000049.jpg,9999936_00000_d_0000049_blur.jpg,blur,{'kernel_size': 11}
+9999936_00000_d_0000049.jpg,9999936_00000_d_0000049_dark.jpg,dark,"{'alpha': 0.83, 'beta': -13}"
+9999936_00000_d_0000049.jpg,9999936_00000_d_0000049_bright.jpg,bright,"{'alpha': 1.43, 'beta': 68}"
+9999936_00000_d_0000049.jpg,9999936_00000_d_0000049_lowcontrast.jpg,lowcontrast,"{'alpha': 0.31, 'mean': np.float64(167.14)}"
+9999936_00000_d_0000049.jpg,9999936_00000_d_0000049_noise.jpg,noise,{'sigma': 9}
+9999936_00000_d_0000050.jpg,9999936_00000_d_0000050_original.jpg,original,{}
+9999936_00000_d_0000050.jpg,9999936_00000_d_0000050_blur.jpg,blur,{'kernel_size': 21}
+9999936_00000_d_0000050.jpg,9999936_00000_d_0000050_dark.jpg,dark,"{'alpha': 0.82, 'beta': -7}"
+9999936_00000_d_0000050.jpg,9999936_00000_d_0000050_bright.jpg,bright,"{'alpha': 1.31, 'beta': 72}"
+9999936_00000_d_0000050.jpg,9999936_00000_d_0000050_lowcontrast.jpg,lowcontrast,"{'alpha': 0.39, 'mean': np.float64(164.72)}"
+9999936_00000_d_0000050.jpg,9999936_00000_d_0000050_noise.jpg,noise,{'sigma': 12}

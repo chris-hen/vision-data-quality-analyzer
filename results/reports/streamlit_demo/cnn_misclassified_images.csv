@@ -1,0 +1,41 @@
+filename,original_filename,degradation_type,width,height,blur_score,brightness,contrast,quality_issues,quality_status,cnn_predicted_degradation_type,cnn_prediction_confidence,cnn_prediction_correct
+0000000_00098_d_0000001_lowcontrast.jpg,0000000_00098_d_0000001.jpg,lowcontrast,1360,765,74.1,80.15,30.77,"blurry, low_contrast",not_usable,dark,0.5476817,False
+0000000_00098_d_0000001_noise.jpg,0000000_00098_d_0000001.jpg,noise,1360,765,561.79,81.01,51.9,none,usable,original,0.5375306,False
+0000000_01013_d_0000003_noise.jpg,0000000_01013_d_0000003.jpg,noise,1360,765,1867.77,86.89,55.26,none,usable,original,0.5243315,False
+0000000_01619_d_0000004_noise.jpg,0000000_01619_d_0000004.jpg,noise,1360,765,1738.26,95.28,55.4,none,usable,original,0.47211632,False
+0000000_02021_d_0000005_noise.jpg,0000000_02021_d_0000005.jpg,noise,1360,765,2292.27,138.31,56.31,none,usable,original,0.5356171,False
+0000000_02309_d_0000006_noise.jpg,0000000_02309_d_0000006.jpg,noise,1360,765,2603.37,108.87,54.66,none,usable,original,0.48765886,False
+0000000_02652_d_0000007_dark.jpg,0000000_02652_d_0000007.jpg,dark,1360,765,1029.36,69.1,46.23,none,usable,original,0.4124789,False
+0000000_02652_d_0000007_lowcontrast.jpg,0000000_02652_d_0000007.jpg,lowcontrast,1360,765,503.06,85.42,32.72,low_contrast,not_usable,dark,0.86502177,False
+0000000_02652_d_0000007_noise.jpg,0000000_02652_d_0000007.jpg,noise,1360,765,2246.08,86.31,52.15,none,usable,original,0.5993419,False
+0000000_03019_d_0000008_noise.jpg,0000000_03019_d_0000008.jpg,noise,1360,765,1207.31,81.64,46.63,none,usable,original,0.5384552,False
+0000005_00509_d_0000002_noise.jpg,0000005_00509_d_0000002.jpg,noise,960,540,2430.14,107.65,52.91,none,usable,dark,0.8254582,False
+0000005_00509_d_0000002_original.jpg,0000005_00509_d_0000002.jpg,original,960,540,1934.16,107.65,52.7,none,usable,dark,0.7576508,False
+0000009_00009_d_0000001_noise.jpg,0000009_00009_d_0000001.jpg,noise,1360,765,1128.89,139.13,34.26,low_contrast,not_usable,dark,0.3856091,False
+0000009_00009_d_0000001_original.jpg,0000009_00009_d_0000001.jpg,original,1360,765,635.05,139.14,33.92,low_contrast,not_usable,dark,0.3670175,False
+0000009_01339_d_0000005_noise.jpg,0000009_01339_d_0000005.jpg,noise,1360,765,2611.98,134.31,49.52,none,usable,original,0.6135912,False
+0000009_03179_d_0000010_noise.jpg,0000009_03179_d_0000010.jpg,noise,1360,765,1357.53,126.39,48.32,none,usable,original,0.57736325,False
+0000009_04379_d_0000013_noise.jpg,0000009_04379_d_0000013.jpg,noise,1360,765,1674.54,147.53,71.09,none,usable,original,0.5829798,False
+0000025_00140_d_0000001_noise.jpg,0000025_00140_d_0000001.jpg,noise,1360,765,1634.91,110.31,48.06,none,usable,original,0.5058314,False
+0000025_02087_d_0000003_original.jpg,0000025_02087_d_0000003.jpg,original,1360,765,1548.63,136.68,47.25,none,usable,noise,0.48428917,False
+0000025_02891_d_0000004_original.jpg,0000025_02891_d_0000004.jpg,original,1360,765,1113.01,131.49,34.94,low_contrast,not_usable,noise,0.51904035,False
+0000025_03777_d_0000005_dark.jpg,0000025_03777_d_0000005.jpg,dark,1360,765,206.14,105.33,30.99,low_contrast,not_usable,original,0.26161435,False
+0000025_03777_d_0000005_noise.jpg,0000025_03777_d_0000005.jpg,noise,1360,765,1645.88,136.84,38.22,none,usable,original,0.37307367,False
+0000025_03777_d_0000005_original.jpg,0000025_03777_d_0000005.jpg,original,1360,765,305.04,136.87,37.41,none,usable,blur,0.5903777,False
+0000028_00122_d_0000001_bright.jpg,0000028_00122_d_0000001.jpg,bright,960,540,503.89,130.32,40.94,none,usable,original,0.50711936,False
+0000028_00122_d_0000001_lowcontrast.jpg,0000028_00122_d_0000001.jpg,lowcontrast,960,540,100.71,59.79,17.87,"underexposed, low_contrast",not_usable,dark,0.764144,False
+0000028_00122_d_0000001_noise.jpg,0000028_00122_d_0000001.jpg,noise,960,540,955.89,59.82,34.36,"underexposed, low_contrast",not_usable,dark,0.8960262,False
+0000028_00122_d_0000001_original.jpg,0000028_00122_d_0000001.jpg,original,960,540,350.11,59.65,34.21,"underexposed, low_contrast",not_usable,dark,0.85847646,False
+0000053_00539_d_0000002_lowcontrast.jpg,0000053_00539_d_0000002.jpg,lowcontrast,960,540,19.42,29.4,8.29,"blurry, underexposed, low_contrast",not_usable,dark,0.686521,False
+0000053_00539_d_0000002_noise.jpg,0000053_00539_d_0000002.jpg,noise,960,540,1002.74,29.77,26.62,"underexposed, low_contrast",not_usable,dark,0.7529078,False
+0000053_00539_d_0000002_original.jpg,0000053_00539_d_0000002.jpg,original,960,540,171.21,29.2,26.44,"underexposed, low_contrast",not_usable,dark,0.49491996,False
+0000064_01771_d_0000003_blur.jpg,0000064_01771_d_0000003.jpg,blur,960,540,5.97,76.97,18.99,"blurry, low_contrast",not_usable,dark,0.7705543,False
+0000064_01771_d_0000003_bright.jpg,0000064_01771_d_0000003.jpg,bright,960,540,165.5,138.24,28.56,low_contrast,not_usable,lowcontrast,0.51980424,False
+0000064_01771_d_0000003_noise.jpg,0000064_01771_d_0000003.jpg,noise,960,540,1421.55,76.98,22.36,low_contrast,not_usable,dark,0.9899984,False
+0000064_01771_d_0000003_original.jpg,0000064_01771_d_0000003.jpg,original,960,540,89.03,76.97,20.93,"blurry, low_contrast",not_usable,dark,0.9777729,False
+0000067_00249_d_0000001_noise.jpg,0000067_00249_d_0000001.jpg,noise,1360,765,1006.01,141.89,40.99,none,usable,original,0.45947534,False
+0000067_01852_d_0000003_blur.jpg,0000067_01852_d_0000003.jpg,blur,1360,765,1.99,123.78,27.64,"blurry, low_contrast",not_usable,lowcontrast,0.7861871,False
+0000067_01852_d_0000003_noise.jpg,0000067_01852_d_0000003.jpg,noise,1360,765,716.18,123.73,30.08,low_contrast,not_usable,dark,0.4634039,False
+0000067_01852_d_0000003_original.jpg,0000067_01852_d_0000003.jpg,original,1360,765,218.4,123.78,29.71,low_contrast,not_usable,dark,0.64812267,False
+0000067_03139_d_0000005_noise.jpg,0000067_03139_d_0000005.jpg,noise,1360,765,660.23,124.17,33.2,low_contrast,not_usable,dark,0.6611709,False
+0000067_03139_d_0000005_original.jpg,0000067_03139_d_0000005.jpg,original,1360,765,301.85,124.2,32.96,low_contrast,not_usable,dark,0.79841006,False
