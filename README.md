@@ -1,4 +1,4 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.png)](https://vision-data-quality-analyzer-demo-version.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/Open%20in-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://vision-data-quality-analyzer-demo-version.streamlit.app)
 
 # Vision Data Quality Analyzer
 
