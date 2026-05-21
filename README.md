@@ -1,5 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vision-data-quality-analyzer-demo-version.streamlit.app)
-
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vision-data-quality-analyzer-demo-version.streamlit.app)
 
 # Vision Data Quality Analyzer
 
