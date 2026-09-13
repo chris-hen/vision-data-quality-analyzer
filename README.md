@@ -259,7 +259,7 @@ Dashboard sections include:
 - CNN evaluation
 - prediction visualization
 - error analysis
-- model comparison and result interpretation [Work in Progress]
+- model comparison and result interpretation
 
 The dashboard also includes a lightweight demo dataset
 for easier deployment and presentation.
