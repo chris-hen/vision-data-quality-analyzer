@@ -14,6 +14,7 @@ import streamlit as st
 import tabs.dataset_tab as dataset_tab
 import tabs.random_forest_tab as random_forest_tab
 import tabs.cnn_tab as cnn_tab
+import tabs.comparison_tab as comparison_tab
 
 from tabs.about_tab import render_about_tab
 from tabs.comparison_tab import render_comparison_tab
@@ -47,6 +48,17 @@ cnn_tab.CNN_MISCLASSIFIED_PATH = (
 )
 cnn_tab.CNN_PREDICTIONS_PATH = (
     "results/reports/streamlit_demo/cnn_predictions.csv"
+)
+
+comparison_tab.IMAGE_FOLDER = DEMO_IMAGE_FOLDER
+comparison_tab.CNN_PREDICTIONS_PATH = (
+    "results/reports/streamlit_demo/cnn_predictions.csv"
+)
+comparison_tab.CNN_MISCLASSIFIED_PATH = (
+    "results/reports/streamlit_demo/cnn_misclassified_images.csv"
+)
+comparison_tab.RF_MISCLASSIFIED_PATH = (
+    "results/reports/streamlit_demo/rf_misclassified_images.csv"
 )
 
 
