@@ -210,25 +210,20 @@ def render_about_tab():
 
             st.markdown(
                 """
-                This published project is a compact demo version based on
-                a small subset of the VisDrone dataset.
-                
-                The reduced dataset version keeps the repository
-                size manageable and suitable for GitHub deployment.
+                This published project is a compact demo version of the
+                full analysis pipeline.
 
-                The demo dataset contains 300 original images
-                that were augmented with 5 different image quality degradations,
-                resulting in a total of 1800 images.
+                The underlying dataset contains 300 original images from
+                the VisDrone dataset, augmented with 5 different image
+                quality degradations, resulting in a total of 1800 images.
 
-                To make the project easier to share and deploy,
-                this dashboard version only includes a fixed
-                subset of 30 of these images together
-                with their corresponding augmentations.
+                To keep the repository small enough for deployment, this
+                dashboard includes a fixed subset of 30 original images
+                together with their augmentations, resulting in 180 images.
 
-                This allows the complete image quality
-                analysis workflow to be explored interactively
-                within the dashboard, including dataset inspection
-                and model predictions.
+                This still allows the complete image quality analysis
+                workflow to be explored interactively within the dashboard,
+                including dataset inspection and model predictions.
                 """
             )
         st.caption(
